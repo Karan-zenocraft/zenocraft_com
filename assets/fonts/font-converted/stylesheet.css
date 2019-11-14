@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('ArialBold.woff2') format('woff2'),
+        url('ArialBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial.woff2') format('woff2'),
+        url('Arial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+

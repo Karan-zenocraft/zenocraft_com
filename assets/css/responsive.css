@@ -1,0 +1,607 @@
+
+
+
+
+
+
+@media (min-width: 1900px){
+    
+    .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left:408px!important;}   
+    .Slider .SliderInner .Caption h1{width: 27em!important}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 32em!important}
+    
+}
+
+
+
+
+
+@media (min-width: 1700px) and (max-width:1899px){
+    
+    .WhyZenosys .WhyZenosysInner{margin: 0px 0px;margin-top: -20px;}
+    .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 310px}
+    .Slider .SliderInner .Caption h1{width: 22em;}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 27em;}
+    .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 137px;}
+    .Bg-Dark{margin-bottom:90px; }
+}
+    
+
+@media (min-width: 1361px) and (max-width: 1699px) {
+    
+/*    .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 255px}*/
+    .Slider .SliderInner .Caption h1{width: 16em;}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 21em;}
+    
+    
+}
+
+
+
+@media (min-width: 1200px) and (max-width: 1360px) {
+    
+    
+.Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px;}    
+h1, .TitleH1{font-size: 20px;line-height: 28px;}
+.Slider .SliderInner .Caption{width: 67%;top: 20px;}    
+.Bg-Dark{margin-bottom:55px;padding: 7px 0px;} 
+    .Slider .SliderInner .Caption h1{width: 14em}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 18em}
+  .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 140px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
+    .WhyZenosys .WhyZenosysInner{margin-top: -20px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 165px;}
+    .StaffingSolution .StaffingSolutionInnerLeft{background-position: 100% 50%}
+    .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 95%;}
+    .GooleMap iframe{height: 200px;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;}
+   p, .TitleP{font-size: 13px;line-height: 18px;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft li{font-size: 13px;}
+/*     .CustomeRows .CommanImg{max-width: 60%;}*/
+     .WhyZenosys .WhyZenosysContent ul li{font-size: 13px;}
+    .WhyZenosys .ContactBox h2{margin-bottom: 20px;}
+    .ContactBox .LocationBoxs{min-height: 221px;}
+    .WhyZenosys .Careers .table thead th{font-size: 13px;}
+    .WhyZenosys .Careers .table td{font-size: 12px;}
+    .WhyZenosys .Careers .table td, .WhyZenosys .Careers .table th{padding: 8px;}
+    .ContactBox form{padding-bottom: 15px;}
+    .OurExpertise .CustomeRow{padding: 0px 0px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: 210px;}
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
+}
+
+
+
+@media (min-width: 1025px) and (max-width: 1199px) {
+
+.Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px;}    
+h1, .TitleH1{font-size: 18px;line-height: 24px;}
+.Slider .SliderInner .Caption{width: 67%;top: 20px;}    
+.Bg-Dark{margin-bottom: 15px;padding: 7px 0px;} 
+    
+  .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 145px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
+    .WhyZenosys .WhyZenosysInner{margin: 0px 00px;margin-top: -20px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: 210px;}
+    .StaffingSolution .StaffingSolutionInnerLeft{background-position: 100% 50%}
+    .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 480px;}
+    .GooleMap iframe{height: 200px;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;}
+    .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px;}  
+    .Slider .SliderInner .Caption h1{width: 15em;}
+    .Slider .SliderInner .Caption h1:nth-child(2){width: 20em;}
+    .Bg-Dark{margin-bottom: 35px;}
+    p, .TitleP{font-size: 13px;line-height: 18px;}
+    
+    .SoftwareDevelopment .SoftwareDevelopmentLeft li{font-size: 13px;}
+     .Social{padding-top: 15px;
+    padding-bottom: 15px;}
+    .Social .SiteMap li{margin: 0px 15px;}
+    .Social .SiteMap li .arrow-right{    margin-right: 8px;}
+    .Social .SiteMap li a{font-size: 12px;line-height: 18px;}
+    .Social .SiteMap li .arrow-right{border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #ff7070;}
+    .Social .SocialIcons i{font-size: 16px;}
+    .Social .SocialIcons li{    margin: 0px 10px;}
+    .Social .SocialIcons{width: 100%;margin-top:0px!important;justify-content: space-between!important;}
+     .CustomeRows .CommanImg{max-width: 100%;}
+    .StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;}
+     .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox h6{font-size: 12px;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 10px;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding: 0px 30px;}
+     .WhyZenosys .WhyZenosysContent ul li{font-size: 13px;}
+    .WhyZenosys .ContactBox h2{margin-bottom: 20px;}
+    .ContactBox .LocationBoxs{min-height: 239px;}
+    
+    .WhyZenosys .Careers .table thead th{font-size: 13px;}
+    .WhyZenosys .Careers .table td{font-size: 12px;}
+    .WhyZenosys .Careers .table td, .WhyZenosys .Careers .table th{padding: 8px;}
+    .ContactBox .LocationBoxs a{letter-spacing: 0px}
+    .ContactBox .LocationBoxs h3{letter-spacing: 0px;}
+    .OurExpertise .CustomeRow{padding: 0px 0px}
+}
+
+
+@media (min-width: 1200px){
+
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding: 0px 22px;}  
+/*--------------------------mobileMenu---------------------------------------*/    
+.Header .HeaderInner .Menu {display: none;}
+.Header .HeaderInner .HeaderNav{display: block;}
+}
+
+
+@media only screen and (max-width: 1199px){
+.Header{box-shadow: 0 1px 6px rgba(57,73,76,0.35);padding-bottom: 10px;}
+ /*--------------------------mobileMenu---------------------------------------*/   
+.Header .HeaderInner .Menu {display: inline-block;cursor: pointer;margin-left: auto;margin-top: 5px;margin-right: 0;}
+.Header .HeaderInner .HeaderNav{display: none;}
+.bar1{width: 24px;height: 2px;background-color: #174477;margin: 6px 0;transition: 0.4s;}
+.bar2{width: 24px;height: 2px;background-color: #174477;margin: 6px 0;transition: 0.4s;}
+.bar3{width: 24px;height: 2px;background-color: #174477;margin: 6px 0;transition: 0.4s;}
+.change .bar1 {-webkit-transform: rotate(-45deg) translate(-9px, 6px);transform: rotate(-54deg) translate(-10px, 6px);}
+.change .bar2 {opacity: 0;}
+.change .bar3 {-webkit-transform: rotate(45deg) translate(-8px, -8px);transform: rotate(51deg) translate(-3px, -3px);}
+.change{margin-top: 0px!important}
+    footer .col-md-6.justify-content-end{padding-right: 0px;}
+    .ContactBox form{padding-bottom: 30px;
+}
+    .SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{height: unset;}
+/*----------------------responsive----mobileMenu---------------------------------------*/ 
+    .Slider .SliderInner .SliderImg{margin-top: 25px;}
+    .Header .HeaderInner .HeaderNav{position: absolute;
+    top: 70px;
+    left: 0px;
+    background: rgb(255, 255, 255);
+    width: 100%;height: 10000px;
+    
+    z-index: 99;}
+    .OurExpertise{padding-top: 0;}
+    .OurExpertise{padding-bottom: 30px;}
+    .Header .HeaderInner .HeaderNav ul{flex-direction: column!important;align-items: flex-start!important;justify-content: flex-start!important;}
+    .Header .HeaderInner .HeaderNav ul li{margin: unset!important;display: block;width: 100%;padding: 13px 0 15px}
+    .Header .HeaderInner .HeaderNav ul li a{display: block;padding: 0px 20px;position: relative;color: #000;font-weight: 300;font-family: 'Arial';font-size: 14px}
+    .Header .HeaderInner .HeaderNav ul li a i{color: #174477;float: right}
+    .menu li label{position: relative}
+    
+    
+    .OnlyMobile li label{padding-left: 30px;}
+    .OnlyMobile li ul li{padding-left: 45px;}
+/*    .menu .OnlyMobile li{padding: 13px 0px 13px 15px;}*/
+    .menu li label:after{content:'';height: 2px;width: 15px;background:#174477;position: absolute;right: 19px;top: 0;bottom: 0;margin: auto;}
+    .menu li label:before{content:'';height: 15px;width: 2px;background:#174477;position: absolute;right: 25px;top: 0;bottom: 0;margin: auto;}
+    
+    .Header .HeaderInner .HeaderNav ul li .collapse{padding-left: 20px;}
+    .Header .HeaderInner .HeaderNav ul li .collapse li a{padding: 17px 0 0 34px;color: #000;font-weight: 300;font-family: 'Arial';font-size: 14px;text-decoration: none!important} 
+    .Header .HeaderInner .HeaderNav ul li .collapse li a:after, .Header .HeaderInner .HeaderNav ul li .collapse li a:before{content: unset;}
+    .Header .HeaderInner .HeaderNav ul li .collapse li{padding: 0px!important}
+    .Header .HeaderInner .HeaderNav ul li .Outline{color: #174477;text-decoration: underline;font-weight: bold;}
+    .Header .HeaderInner .HeaderNav ul li .Outline:before{content: unset!important}
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
+    .Social .SiteMap li a{font-size: 12px!important}
+/*    .onlysm{display: unset!important}*/
+    
+    
+    .GovernmentImg {max-width: 90%!important}
+    .GovernmentImg.Retail{max-width: 70%!important}
+    .Retail.Telecommunication{max-width: 50%!important}
+    .GovernmentImg.fullwidth{max-width: 90%!important}
+    .GovernmentImg.fullwidth2{max-width: 100%!important}
+    .GovernmentImg.smallwidth{max-width: 35%!important}
+    .GovernmentImg.Quality{max-width: 60%!important}
+}
+
+
+/*
+@media (min-width: 541px) and (max-width:575px){
+    
+    
+    
+    footer .FooterInner .Address .IconLeft{margin-bottom: 15px!important}
+}
+*/
+
+@media (min-width: 767px) and (max-width: 1024px) {
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+    .WhyZenosys .WhyZenosysInner{margin: 0px 70px!important;} 
+    .CaseStudyBox .CaseStudyInnerBox .MainBox{margin: 0px 70px!important}
+    .StaffingSolution .StaffingSolutionInnerRight, .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 70px!important;padding-right: 70px!important;}
+   
+    
+
+    
+}
+
+@media (min-width: 320px) and (max-width: 575px){
+.OurExpertise .CustomeRow{padding: 0px 10px!important;}
+    .Header .HeaderInner .Logo img{max-height: 35px;}
+    .Header{padding-top: 15px;padding-bottom: 15px;}
+    .Slider{margin-top: 15px;}
+    
+   
+}
+
+
+@media (min-width: 320px) and (max-width: 450px){
+.Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px;}    
+h1, .TitleH1{font-size: 13px;line-height: 17px;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-left: 30px!important;
+    padding-right: 30px!important;}
+  
+.Slider .SliderInner .Caption{width: 70%;top: 25px;}    
+.Bg-Dark{margin-bottom: 0px;padding: 5px 0px;}
+    .WhyZenosys .WhyZenosysInner{margin: 0px 0px!important;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-bottom: 20px!important;padding-top: 20px!important;}
+    .StaffingSolution .StaffingSolutionInnerLeft{height: 175px;background-position: 100% 50%;}
+    .StaffingSolution .StaffingSolutionInnerRight{padding-top: 15px!important;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-top: 15px!important;}
+    .SiteMap .arrow-right{margin-top: 4px!important}
+}
+
+@media (min-width: 992px) and (max-width: 1024px){
+p, .TitleP{font-size: 13px;line-height: 18px;}
+.Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px}    
+h1, .TitleH1{font-size: 18px;line-height: 24px;}
+.Slider .SliderInner .Caption{width: 67%;top: 12px;}    
+.Bg-Dark{margin-bottom: 40px;padding: 7px 0px;} 
+    .ContactBox form{padding-bottom: 45px!important;}
+  .Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 55px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px}
+    .WhyZenosys .WhyZenosysInner{margin: 0px 50px;margin-top: -20px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 165px;}
+    .StaffingSolution .StaffingSolutionInnerLeft{background-position: 100% 50%}
+    .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 480px;}
+    .GooleMap iframe{height: 200px;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;}
+    .CaseStudyBox .CaseStudyInnerBox{margin: 0px 50px;}
+    
+    .SoftwareDevelopment .SoftwareDevelopmentLeft li{font-size: 13px;}
+     .Social{padding-top: 15px;
+    padding-bottom: 15px;}
+    .Social .SiteMap li{margin: 0px 15px;}
+    .Social .SiteMap li .arrow-right{    margin-right: 8px;}
+    .Social .SiteMap li a{font-size: 12px;line-height: 18px;}
+    .Social .SiteMap li .arrow-right{border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #ff7070;}
+    .Social .SocialIcons i{font-size: 16px;}
+    .Social .SocialIcons li{    margin: 0px 10px;}
+    .Social .SocialIcons{width: 100%;margin-top:0px!important;justify-content: space-between!important;}
+/*      .CustomeRows .CommanImg{max-width: 48%;}*/
+    .StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;}
+/*    .OurExpertise .OurExpertiseInner h2{margin-bottom: 40px;}*/
+    h2, .TitleH2{font-size: 17px}
+    .WhyZenosys .WhyZenosysContent h2:before{bottom: -15px;}
+     .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox h6{font-size: 12px;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{font-size: 10px;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding: 0px 30px;}
+     .WhyZenosys .WhyZenosysContent ul li{font-size: 13px;}
+    .WhyZenosys .ContactBox h2{margin-bottom: 20px;}
+    .ContactBox .LocationBoxs{min-height: 239px;}
+    .ContactBox .LocationBoxs a{letter-spacing: 0px}
+    .ContactBox .LocationBoxs h3{letter-spacing: 0px;}
+    .OurExpertise .CustomeRow{padding: 0px 0px}
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991px){
+.Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px;}    
+h1, .TitleH1{font-size: 16px;line-height: 20px;}
+p, .TitleP{font-size: 13px;line-height: 18px;}
+    h2, .TitleH2{font-size: 17px;margin-bottom: 30px;} 
+/*    .WhyZenosys .WhyZenosysContent h2{}*/
+.Slider .SliderInner .Caption{width: 67%;top: 12px;}    
+.Bg-Dark{margin-bottom: 22px;padding: 5px 0px;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{padding: 0px 12px;}
+    .OurExpertise .OurExpertiseInner h2{margin-bottom: 35px;}
+    .WhyZenosys .WhyZenosysContent h2:before{bottom: -10px;}
+    .OurExpertise .OurExpertiseInner h2:before{bottom: -8px;}
+    .WhyZenosys .WhyZenosysContent p{margin-bottom: 20px;}
+    .OurExpertise .OurExpertiseInner h2{margin-bottom: 0px;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft h2:before{bottom: -10px}
+    .StaffingSolution .StaffingSolutionInnerRight h2{margin-bottom: 0px;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft h2{margin-bottom: 0px;}
+    .WhyZenosys .WhyZenosysContent h2{margin-bottom: 0px;}
+    .WhyZenosys .ContactBox h2{margin-bottom: 20px;}
+    .ContactBox.WhyZenosysContent.LocationBox .row .col-md-6:first-child{padding-left: 0px;padding-right: 5px}
+    .ContactBox.WhyZenosysContent.LocationBox .row .col-md-6:last-child{padding-left: 5px;padding-right: 0px}
+    .ContactBox .LocationBoxs{padding: 10px;}
+    .ContactBox.WhyZenosysContent.LocationBox .CustomeRow{margin-top: 10px;}
+    .ContactBox .LocationBoxs{border-radius: 6px;}
+    .ContactBox .LocationBoxs{min-height: 261px;}
+    
+    .ContactBox .LocationBoxs h3{letter-spacing: 0px;}
+    .ContactBox .LocationBoxs a{letter-spacing: 0px;font-size: 10px;}
+    
+    .ContactBox form{padding-bottom: 75px!important;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft li{font-size: 13px;}   
+.Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 50px}    
+.WhyZenosys .WhyZenosysInner{margin: 0px 0px;margin-top: 25px}
+    .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px;}
+     .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{height: 200px;}
+    .CaseStudyBox .container{padding: 0px}
+    .StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;}
+    .StaffingSolution .StaffingSolutionInnerLeft {background-position: 85% 50%;}
+    .SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;padding-top: 30px;}
+    .SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{bottom: 0;}
+    .SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 400px;bottom: 0;}
+    .GooleMap iframe{height: 200px!important}
+    footer .FooterInner .SocialIcons li{margin: 0px  12px;}
+    footer .FooterInnerRight iframe{height: 150px!important;width: 700px!important} 
+    footer .FooterInnerRight{margin-top: 40px;}
+    
+    .Social{padding-top: 15px;
+    padding-bottom: 15px;}
+    .Social .SiteMap li{margin: 0px 15px;}
+    .Social .SiteMap li .arrow-right{    margin-right: 8px;}
+    .Social .SiteMap li a{font-size: 12px;line-height: 18px;}
+    .Social .SiteMap li .arrow-right{border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #ff7070;}
+    .Social .SocialIcons i{font-size: 16px;}
+    .Social .SocialIcons li{    margin: 0px 10px;}
+    .Social .SocialIcons{width: 100%;margin-top:0px!important;justify-content: space-between!important;}
+    .CustomeRows .CommanImg{max-width: 100%;right: -20px;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-left: 40px;
+    padding-right: 40px;}
+    .slick-prev{left: 10px}
+    .slick-next{right: 10px;}
+     .WhyZenosys .WhyZenosysContent ul li{font-size: 13px;}
+    .WhyZenosys .CareersRight{padding-top: 125px;padding-right: 0;}
+    .WhyZenosys .CareersRight h3{font-size: 16px;}
+    .WhyZenosys .Careers .table-responsive{    width: 90%!important;}
+    .WhyZenosys .Careers .table thead th{font-size: 13px;}
+    .WhyZenosys .Careers .table td{font-size: 11px;}
+    .WhyZenosys .Careers .table td, .WhyZenosys .Careers .table th{padding: 8px;}
+    .OurExpertise .CustomeRow{padding: 0px 0px}
+
+    .GovernmentImg{position: absolute;bottom: 0;}
+    .Industry{margin-bottom: -20px!important;}
+    .WhyZenosys .Custom-Solutions .CustomeH3{}
+    .WhyZenosys .Custom-Solutions p{padding: 0;}
+    .WhyZenosys .WhyZenosysContent .ULlist ul li{margin-bottom: 15px;}
+    .WhyZenosys .col-md-8.SoftwareDevelopmentLeft .CustomeP{padding: 0;}
+    .WhyZenosys .WhyZenosysContent .ULlist{justify-content: space-between!important}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: 265px;}
+    .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
+    bottom: 0;
+    margin: auto;}
+    .SiteMap ul label{font-size: 11px;}
+    .SiteMap .col-md-3{padding-left: 15px;}
+    .SiteMap .row .label{font-size: 14px;}
+    .SiteMap ul li a{font-size: 11px;line-height: 18px;}
+    .SiteMap .arrow-right{border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #ff7070;
+    margin-right: 10px;
+    margin-top: 6px;}
+    .SiteMap .MainRow{margin-bottom: 10px;}
+    .SiteMap .TitleRow{margin-bottom: 3px!important;margin-top: 0px;}
+}
+
+
+
+
+@media (min-width: 577px) and (max-width: 767px){
+
+.Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px}    
+h1, .TitleH1{font-size: 20px;line-height: 28px;}
+.WhyZenosys .WhyZenosysInner{margin: 0px 50px;}
+   
+.Slider .SliderInner .Caption{width: 72%;top: 42px;}    
+.Bg-Dark{margin-bottom: 0px;padding: 6px 0px;}
+    .slick-next{right: 10px;}
+    .slick-prev{left: 10px;}
+    
+    .StaffingSolution .StaffingSolutionInnerLeft{height: 300px;background-position: 85% 50%;}
+}
+
+
+@media (min-width: 451px) and (max-width: 576px){
+.Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px}    
+h1, .TitleH1{font-size: 16px;line-height: 22px;}
+.WhyZenosys .WhyZenosysInner{margin: 0px 45px!important;}
+    .ContactBox form{margin: 0px 45px!important}
+    .WhyZenosys .LocationBox{margin: 0px 45px!important}
+.Slider .SliderInner .Caption{width: 70%;top: 32px;}    
+.Bg-Dark{margin-bottom: 0px;padding: 4px 0px;}
+    
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-left: 40px!important;padding-right: 40px!important;}   
+    .StaffingSolution .StaffingSolutionInnerLeft{height: 200px;background-position: 100% 50%;}
+}
+  
+@media only screen and (max-width: 767px){
+    p, .TitleP{font-size: 13px;line-height: 18px;}
+h2, .TitleH2{text-align: center;font-size: 17px;}
+h3, .TitleH3{font-size: 16px;}
+h2:before, .TitleH2:before{right: 0;margin: auto;bottom: -12px!important;}
+h6, .TitleH6{font-size: 13px;}
+    
+    .ContactBox form .form-group.group:last-child{margin-bottom: 0px;margin-top: 30px}
+    .SoftwareDevelopment .SoftwareDevelopmentRight{margin-bottom: 40px;}   
+    .WhyZenosys .WhyZenosysContent.col-md-8{padding-bottom: 0;}
+    .WhyZenosys .Careers .table thead th{font-size: 13px;}
+    .WhyZenosys .Careers .table td, .WhyZenosys .Careers .table th{padding: 8px;}
+    .WhyZenosys .Careers .table td{font-size: 12px;}
+    .WhyZenosys .CareersRight h3{text-align: center;font-size: 15px;}
+    .WhyZenosys .Careers .table-responsive{width: 100%!important;}
+    .WhyZenosys .Careers .table-responsive{padding-bottom: 20px;}
+    .WhyZenosys .CareersRight{padding-top: 0px!important;padding-bottom: 30px!important;}
+    .CustomeRows .WhyZenosysContentCustome{padding-top: 20px!important;}
+    .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox p{padding: 0px 25px;}
+    
+/*.slick-initialized .slick-slide{width: 100%!important}*/
+ .Slider .SliderInner .Caption h1{padding-left: 15px;}   
+.Slider .SliderInner .Caption p{padding-left: 15px;}
+.Slider .SliderInner .OnlySm{display: block!important;width: 100%}
+.Slider .SliderInner .Caption p{display: none}
+.Slider .SliderInner .SliderImg{display: none;}
+
+
+    .WhyZenosys .WhyZenosysContent .Application-Services{max-width: 60%;display: block;margin: auto;}
+    .WhyZenosysContent.ContactBox h2:before{width: 140px;}
+    .WhyZenosys .WhyZenosysContent .ULlist{display: block!important;margin-bottom: 30px;}
+    .WhyZenosys .WhyZenosysContent .Custom-Solutions{margin-bottom: 30px;}
+    .WhyZenosys .WhyZenosysContent .CustomeH3{text-align: center;}
+.CustomeRows .CommanImg{position:unset;}    
+    .WhyZenosys{padding-bottom: 0px!important;}
+.OurExpertise{padding-top: 30px;padding-bottom: 30px;}
+    .ClientsList{padding-top: 0px!important;}
+/*.Slider{display: none;}*/
+.WhyZenosys{padding: 50px 0px;}
+.WhyZenosys .WhyZenosysInner{margin-top: 0;margin: 0;padding: 0;}
+.WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 30px;
+    }
+.WhyZenosys .WhyZenosysContent{padding: 0px 15px;padding-top:30px;}
+    .ContactBox.WhyZenosysContent.LocationBox .CustomeRow{margin-top: 0;}
+    .ContactBox .LocationBoxs{margin-bottom: 15px;}
+    .ContactBox form .captcha{margin-bottom: 30px;}
+/*    .WhyZenosys .ContactBox h2{margin-bottom: 50px!important;}*/
+    .WhyZenosys .LocationBox{padding-top: 0px;padding-bottom: 30px;}
+    .ContactBox form{padding-right: 0px;}
+    .g-recaptcha > div{margin: auto}
+    .ContactBox form .form-label{font-size: 12px;}
+    .ContactBox.WhyZenosysContent.LocationBox h2:before{width: 140px;}
+    .SendBtn{display: block;margin: auto;height: 30px;
+    width: 150px;}
+    .WhyZenosys .WhyZenosysContent.col-md-4{padding-top: 0px;}
+.WhyZenosys .WhyZenosysContent h2{margin-bottom: 0px;}
+.WhyZenosys .WhyZenosysContent p{padding: 0;text-align: center;margin-bottom: 15px;}
+.WhyZenosys .WhyZenosysContent p:last-child{margin-bottom: 0px;}
+   
+    
+    .WhyZenosys .WhyZenosysContent ul{text-align: center}
+    .WhyZenosys .WhyZenosysContent ul li{text-align: center;font-size: 13px;line-height: 20px;margin-bottom: 15px;padding-left: 0;}
+    .WhyZenosys .WhyZenosysContent ul li:after{content: unset}
+    
+.CaseStudy{padding-top: 15px;padding-bottom:15px;}
+.CaseStudy .CaseStudyInner h2{margin-bottom: 0px;}
+.CaseStudyBox .CaseStudyInnerBox .MainBox{padding-left: 0px;padding-right: 0;padding-top: 35px;}
+.CaseStudyBox .CaseStudyInnerBox .Services img{height: unset;width: 100%;}
+.CaseStudyBox .CaseStudyInnerBox{margin-top: 0px;margin: 0;}
+.CaseStudyBox .CaseStudyInnerBox .Services h3{margin-bottom: 10px;}
+.CaseStudyBox{padding-bottom: 0;}
+.CaseStudyBox .CaseStudyInnerBox .MainBox{margin-top: 0px;}
+
+.OurExpertise .OurExpertiseInner h2{margin-bottom: 0px;}
+.OurExpertise .Box{padding: 0px 5px;margin-bottom: 10px;}
+.OurExpertise .CustomeRow{padding: 0px 0px;margin-top: 0px;}
+.OurExpertise .CustomeRow:nth-child(2){margin-top: 10px;}
+.OurExpertise .CustomeRow .col-xs-4{width: 50%;}
+    
+    .SoftwareDevelopment .SoftwareDevelopmentLeft p{text-align: center;font-size: 13px;margin-bottom: 15px;}
+    
+.StaffingSolution .StaffingSolutionInnerRight p{padding-right: 0px;text-align: center;margin-bottom: 0px;}
+.StaffingSolution .StaffingSolutionInnerRight{padding-left: 15px;padding-top: 30px;padding-bottom: 30px;}
+.SoftwareDevelopment .SoftwareDevelopmentLeft{padding-left: 15px;padding-top: 30px;}
+.SoftwareDevelopment .SoftwareDevelopmentRight .SoftwareDevelopmentImg{position: unset;display: block;margin: auto;height: auto;}
+.SoftwareDevelopment .SoftwareDevelopmentLeft li{padding-left: 0px;text-align: center;margin-bottom: 15px;font-size: 13px;}
+.SoftwareDevelopment .SoftwareDevelopmentLeft li:after{content: unset;}
+.SoftwareDevelopment .SoftwareDevelopmentLeft h2{margin-bottom: 0px;}
+.SoftwareDevelopment .SoftwareDevelopmentRight:after{width: 100%}
+
+/*
+.ClientList .ClientListInner h2{margin-bottom: 30px}
+.ClientList .CustomeRow{margin-top: 0px;display: flex;align-items: flex-start;justify-content: flex-start;padding: 0px 10px;}
+.ClientList .CustomeRow:nth-child(2){margin-top: 10px;}
+.ClientList{padding-top: 60px;}
+.ClientList .Box{margin-bottom: 10px;}
+.ClientList .CustomeRow .col-xs-4{width: 50%;}
+*/
+
+.Social .SocialInnerLeft .SiteMap{flex-direction: column!important;align-items: flex-start!important;}
+.Social .SocialInnerLeft  .SiteMap li{margin: 10px 0px;}
+    .Social .SocialInnerLeft .SiteMap li a{font-size: 12px;line-height: 20px;}
+    .Social .SiteMap li .arrow-right{border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid #ff7070; }
+    .Social .SocialIcons li{margin: 0px 15px;}
+    .Social .SocialIcons i{font-size: 15px;}
+    
+    .Social .SocialInnerRight ul{justify-content: space-between!important;
+    width: 100%;}
+    .Social .SocialInnerRight .SocialIcons{margin-top: 20px!important;}
+    .Social{padding-bottom: 10px;}
+    .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{min-height: unset}
+    .WhyZenosys .WhyZenosysContent .ULlist ul:last-child li:last-child{display: none;}
+    .WhyZenosys .WhyZenosysContent .ULlist{padding-bottom: 0px;}
+    .Awards .AwardColumn{flex-direction: column;width: 100%}
+    .Awards .AwardColumn ul{ padding-bottom: 20px!important;padding-top: 20px!important}
+    .Awards{padding: 0px 0px;}
+    .Awards ul{
+        
+    justify-content: center!important;
+    width: 100%;}
+/*    .Awards ul li{margin-bottom: 20px;}*/
+    footer .FooterInnerRight iframe{margin-top: 10px;}    
+footer{padding-bottom: 20px;padding-top: 20px;}
+footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
+    footer .FooterInner{margin-bottom: 10px;}
+    footer .FooterInner .TitleP{font-size: 13px;line-height: 20px;}
+    footer .FooterInner .Address{margin-bottom: 20px;}
+    footer .FooterInnerLeft .Address:nth-child(4){margin-bottom: 0px;}
+    footer .col-md-6.justify-content-end{justify-content: flex-start!important;order: 0;}
+    footer .col-md-6.justify-content-start{order: 1;}
+    footer .col-md-6.justify-content-start .Address a, footer .col-md-6.justify-content-end .Address a{letter-spacing: 2px;}
+/*
+    footer .FooterInner h2{position: relative;}
+    footer .FooterInner h2:before{right: unset;margin: unset;background: #ffffff;bottom: -7px!important;height: 1px;}
+    footer .FooterInnerLeft h2:before{width: 78px}
+    footer .FooterInnerCenter h2:before{width: 131px}
+    footer .FooterInnerRight h2:before{width: 94px}
+*/
+    footer .FooterInnerCenter iframe{height: 125px;}
+    footer .FooterInnerRight .Subscribe .Email{padding: 7px 30px;font-size: 13px;display: block}
+    footer .FooterInnerRight .Subscribe .SignUp{padding: 8px 82px;font-size: 13px;}
+    footer .FooterInner:last-child{margin-bottom: 0;}
+    .CustomeRows .WhyZenosysContentCustome img{display: block;margin: auto;max-width: 60%!important;}
+    .WhyZenosys .WhyZenosysContentCustome{order: 1!important;}
+    .WhyZenosys .WhyZenosysContent {order: 0;}
+    
+/*    .SiteMap .row .label{margin: auto;}*/
+/*    .SiteMap .arrow-right{display: none}*/
+    .SiteMap .col-md-3 ul{text-align: left;margin-bottom: 0px!important;}
+    .SiteMap .col-md-3 ul li{text-align: left;margin-bottom: 5px!important;}
+    .SiteMap .TitleRow{margin: 0px 0px;}
+    .SiteMap .customePadding {
+    padding-top: 0px;
+}
+    .SiteMap .row .label{font-size: 15px;}
+    .SiteMap .col-md-3.CustomeColumn{margin-bottom: 20px;}
+    .SiteMap .Small{margin-bottom: 0px;}
+    .WhyZenosys .SiteMap{padding-bottom: 20px!important}
+    
+    .SiteMap .row .label{margin-bottom: 10px;}
+    .SiteMap .arrow-right{border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 6px solid #ff7070;
+    margin-right: 10px;
+    margin-top: 6px;}
+    
+    
+    .GovernmentImg{margin-bottom: -5px!important;
+    max-width: 60%!important;
+    display: block;
+    margin: auto;}
+    .Industry{margin-bottom: -27px!important;}
+    .GovernmentImg.Retail{margin-bottom: 0!important;}
+    .GovernmentImg.fullwidth{max-width: 60%!important}
+    .GovernmentImg.Infrastructure{max-width: 90%!important}
+    
+}
