@@ -52,7 +52,7 @@
 
                     <h2 class="TitleH2">Machine Learning</h2>
                     <p class="TitleP">In the 21st century, at the peak of technological advancement, Machine Learning is the trend. Machine Learning is actually an application based on Artificial Intelligence that has the capability to learn and improvise, without being comprehensively programmed. The idea is focused on creating computers, applications or systems that can access and analyze data to learn.</p>
-                    <p class="TitleP">Zenosys stands among the leading players in the field. With deep-rooted understanding, skills and capabilities in developing Machine Learning projects, our teams have passionately worked on and delivered high quality results. As the technology is still at a nascent stage, integrating Machine Learning into existing business structure can be a highly complex task for which, our AI experts have been providing machine learning software development services to clients globally.</p>
+                    <p class="TitleP">Zenocraft stands among the leading players in the field. With deep-rooted understanding, skills and capabilities in developing Machine Learning projects, our teams have passionately worked on and delivered high quality results. As the technology is still at a nascent stage, integrating Machine Learning into existing business structure can be a highly complex task for which, our AI experts have been providing machine learning software development services to clients globally.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

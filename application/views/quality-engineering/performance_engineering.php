@@ -56,7 +56,7 @@
                        Applications often fail to perform flawlessly and thus, end up disappointing the end-user. This is exactly where Performance Engineering comes in. It is a comprehensive process that can be applied during or after the software development cycle, to ensure that the resulting outcome is perfectly in sync with the expectations and meets the performance parameters.
                     </p>
                     <p class="TitleP">
-                       We at Zenosys, are at the top of our game and are completely focused towards enhancing the performance of such applications. Our robust process includes creating and defining performance parameters, measuring, analyzing and deriving solutions that cater to the pain points- a process that has gotten the best results, every single time.
+                       We at Zenocraft, are at the top of our game and are completely focused towards enhancing the performance of such applications. Our robust process includes creating and defining performance parameters, measuring, analyzing and deriving solutions that cater to the pain points- a process that has gotten the best results, every single time.
                     </p>
 
                 </div>

@@ -56,7 +56,7 @@
                       SAP Analytics Cloud is a SaaS (Software as a Service) business intelligence platform created by SAP to provide enhanced analytical capabilities to its users. This tool empowers data analysts and decision makers in assessing, visualizing, planning and making better predictions from a secure cloud-based ecosystem.
                     </p>
                     <p class="TitleP">
-                       Zenosys helps you in integrating and implementing SAP Analytics Cloud services in financial planning, marketing sales     and much more. We provide our clients with end-to-end services from building to support, and enable them in experiencing the future of detailed insights and decision making.
+                       Zenocraft helps you in integrating and implementing SAP Analytics Cloud services in financial planning, marketing sales     and much more. We provide our clients with end-to-end services from building to support, and enable them in experiencing the future of detailed insights and decision making.
                     </p>
 
                 </div>

@@ -56,7 +56,7 @@
                        Functional engineering is a specialized process solely dedicated towards improvising the way softwares are built and perform. It is the process of composing a robust mathematical representation of the software’s functional behavior. The process ensures that the process on each level is being driven correctly and the final outcome offers high functionality.
                     </p>
                     <p class="TitleP">
-                       The functional engineering team at Zenosys undertakes the process with thorough eye-for-detail and helps accelerate quality and efficiency, while amplifying the speed of software development process.
+                       The functional engineering team at Zenocraft undertakes the process with thorough eye-for-detail and helps accelerate quality and efficiency, while amplifying the speed of software development process.
                     </p>
 
                 </div>

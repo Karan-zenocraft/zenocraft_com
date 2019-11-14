@@ -56,7 +56,7 @@
                       Evolving business trends are adapting data driven operations and in such a situation, data becomes the most crucial aspect. Database management service is the process of managing the data, including storing, processing and managing to derive most value out of the business processes.
                     </p>
                     <p class="TitleP">
-                       The certified Database Management Team at Zenosys hails with extensive experience in the domain. Together, provide holistic solutions that include full time monitoring, root cause analysis, corrective solutions, performance tuning, migrations, and much more, including building and executing complex and intricate database systems.
+                       The certified Database Management Team at Zenocraft hails with extensive experience in the domain. Together, provide holistic solutions that include full time monitoring, root cause analysis, corrective solutions, performance tuning, migrations, and much more, including building and executing complex and intricate database systems.
                     </p>
 
                 </div>

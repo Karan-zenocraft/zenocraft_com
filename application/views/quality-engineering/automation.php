@@ -61,7 +61,7 @@
                        Automation is the process of integrating different functions and tools into various layers that perform independently and have lesser requirement for human intervention. This technology can facilitate comprehensive control over diverse functions and offer a unified approach that increases efficiency and productivity.
                     </p>
                     <p class="TitleP">
-                       Zenosys hails with thorough knowledge and experience of automation as well as other complimenting technologies. Based on this diverse knowledge base, we combine the most apt AI with Automation Services, backed by strong data and robust solutions that perform brilliantly.
+                       Zenocraft hails with thorough knowledge and experience of automation as well as other complimenting technologies. Based on this diverse knowledge base, we combine the most apt AI with Automation Services, backed by strong data and robust solutions that perform brilliantly.
                     </p>
 
                 </div>

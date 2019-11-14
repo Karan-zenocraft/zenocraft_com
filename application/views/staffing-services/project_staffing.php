@@ -80,10 +80,10 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Project Staffing Services</h2>
-                 <p class="TitleP">Do you have contractors from multiple vendors on critical projects? Zenosys' project staffing services gives you the flexibility of managed resources with a non billable onsite resource coordinator to pass on the HR burden to Zenosys and focus on the control they would exercise over an in-house team.If you have HR burden and which is difficult to manage with multiple vendors, then Zenosys' project staffing services is the answer. </p>
+                 <p class="TitleP">Do you have contractors from multiple vendors on critical projects? Zenocraft' project staffing services gives you the flexibility of managed resources with a non billable onsite resource coordinator to pass on the HR burden to Zenocraft and focus on the control they would exercise over an in-house team.If you have HR burden and which is difficult to manage with multiple vendors, then Zenocraft' project staffing services is the answer. </p>
                     
                     
-                    <p class="TitleP"> Zenosys with its extensive experience in staffing can help you provide with project teams right from project managers to developers so that you can focus on the project deliverables and pass on the HR functions to Zenosys. Contact Zenosys to learn how you can manage knowledge transition with our Project Staffing Services.</p>
+                    <p class="TitleP"> Zenocraft with its extensive experience in staffing can help you provide with project teams right from project managers to developers so that you can focus on the project deliverables and pass on the HR functions to Zenocraft. Contact Zenocraft to learn how you can manage knowledge transition with our Project Staffing Services.</p>
 
 
 

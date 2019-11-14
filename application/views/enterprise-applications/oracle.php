@@ -50,7 +50,7 @@
                     <h2 class="TitleH2">Oracle E-Business Suite</h2>
                     <p class="TitleP">Initially launched in 1980s and further refined in 2009, Oracle E-Business Suite brings to you a host of functional modules that help enhance efficiency using the Oracle RDBMS, a proprietary multi-model database management system that is widely utilized for functions such as online transaction processing, data warehousing as well as mixed database workloads.</p>
 
-                <p class="TitleP">We at Zenosys, help evolving business models and organizations in leveraging high functionality that the Oracle E-Business Suite offers, by creating tailored-to-fit solutions that increase productivity while performing brilliantly on the demands of the modern mobile user.</p>
+                <p class="TitleP">We at Zenocraft, help evolving business models and organizations in leveraging high functionality that the Oracle E-Business Suite offers, by creating tailored-to-fit solutions that increase productivity while performing brilliantly on the demands of the modern mobile user.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">

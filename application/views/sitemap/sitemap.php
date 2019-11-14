@@ -245,7 +245,7 @@
 
                 <div class="d-flex">
                     <div class="arrow-right"></div>
-                    <label class="label">Products </label>
+                    <label class="label">Portfolio</label>
 
                 </div>
 
@@ -257,8 +257,8 @@
 
                     <ul>
 
-                        <li><a href="<?php echo base_url(); ?>products/supply_chain">Always Ahead - Supply Chain</a></li>
-                        <li><a href="<?php echo base_url(); ?>products/churn_predict">ChurnPredict - K Factor</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolios/php">PHP</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolios/ios">IOS</a></li>
 
                     </ul>
 
@@ -274,8 +274,8 @@
 
                     <ul>
 
-                        <li><a href="<?php echo base_url(); ?>products/my_view_security">MyView - Security</a></li>
-                        <li><a href="<?php echo base_url(); ?>products/vrdrive_walkthrough">VRDrive WalkThrough</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolios/java">JAVA</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolios/asp_net">ASP.NET</a></li>
 
                     </ul>
 
@@ -288,7 +288,7 @@
 
                     <ul>
 
-                        <li><a href="<?php echo base_url(); ?>products/degree360_hrms">Degree360 HRMS</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolios/android">ANDROID</a></li>
                         <li><a href="<?php echo base_url(); ?>products/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
 
                     </ul>

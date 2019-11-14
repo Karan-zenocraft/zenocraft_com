@@ -58,7 +58,7 @@
                        An ingenious invention, a digital ledger, a booming and in-demand technology- Block-chain. In the most simplest words, a blockchain is a time-stamped series of rigid transaction data that is recorded and managed by a group of computers. The blockchain technology is a simple and efficient way of transporting information from one point to other.
                     </p>
                     <p class="TitleP">
-                       The team at Zenosys addresses client requirements for blockchain globally. We offer blockchain consulting, as well as end-to-end blockchain solution including technology implementation, integration and support. Our expertise with adjacent technologies also enables us in enhancing the value driven out of the solution.
+                       The team at Zenocraft addresses client requirements for blockchain globally. We offer blockchain consulting, as well as end-to-end blockchain solution including technology implementation, integration and support. Our expertise with adjacent technologies also enables us in enhancing the value driven out of the solution.
                     </p>
 
                 </div>

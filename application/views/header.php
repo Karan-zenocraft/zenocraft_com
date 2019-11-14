@@ -496,18 +496,18 @@
                             </li>
                             <li>
                                 <!-- First Tier Drop Down -->
-                                <label  class="toggle DD2">Products </label>
-                                <a class="a arrow">Products</a>
+                                <label  class="toggle DD2">Portfolio</label>
+                                <a class="a arrow">Portfolio</a>
                                       <input type="checkbox" id="drop-18"/>
                                 <ul class="InnerMenu InnerMenu2 DD22">
-                                    <li><a href="<?php echo base_url(); ?>products/supply_chain">Always Ahead - Supply Chain</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/churn_predict">Churn Predict - K Factor</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/my_view_security">MyView - Security</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/vrdrive_walkthrough">VRDrive WalkThrough</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/degree360_hrms">Degree360 HRMS</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
-                                    <li><a href="<?php echo base_url(); ?>products/warehouse_controller">Warehouse Controller</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/php">PHP</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/ios">IOS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/java">JAVA</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/asp_net">ASP.NET</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/android">ANDROID</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolios/warehouse_controller">Warehouse Controller</a></li>
                                 </ul>
                             </li>
                             <li>

@@ -52,7 +52,7 @@
 
                     <h2 class="TitleH2">Deep Learning Technologies</h2>
    <p class="TitleP">A leading trend that has the potential to absolutely transform archaic systems and skill them perform far better. In simpler words, Deep Learning Technology is a technique that enables systems in learning by example. It is a key technology where a system learns to perform tasks automatically, with start-of-the-art efficiency, using data sets.</p>
-                    <p class="TitleP">With a great team, specialized in deep learning technology and experienced with creating models and executing intricate projects, we make working with this complex technology simple. We at Zenosys, equip projects with the power of deep learning technology and provide you with the cutting-edge performance that you need.</p>
+                    <p class="TitleP">With a great team, specialized in deep learning technology and experienced with creating models and executing intricate projects, we make working with this complex technology simple. We at Zenocraft, equip projects with the power of deep learning technology and provide you with the cutting-edge performance that you need.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

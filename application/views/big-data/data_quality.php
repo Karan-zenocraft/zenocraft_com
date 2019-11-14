@@ -56,7 +56,7 @@
                        Data Quality Management, one of most important business functions, is the process of maintaining superior quality data, starting from data acquisition to analysis and advanced data processing for better distribution. It is an imperative process that in-turn ensures consistent data analysis and dependable results.
                     </p>
                     <p class="TitleP">
-                       We at Zenosys, provide our clients with a host of data quality management services including data quality analysis, standardization, cleansing, de-duplication and enrichment. Our holistic process facilitates accurate decision making, quality insights, improved stability as well as cost-efficiency.
+                       We at Zenocraft, provide our clients with a host of data quality management services including data quality analysis, standardization, cleansing, de-duplication and enrichment. Our holistic process facilitates accurate decision making, quality insights, improved stability as well as cost-efficiency.
                     </p>
 
                 </div>

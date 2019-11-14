@@ -73,7 +73,7 @@
                     <h2 class="TitleH2">Healthcare Industry</h2>
                       <p class="TitleP">The healthcare industry faces a plethora of challenges but the technological evolution has made it possible to realize monumental increase in efficiency across day-to-day operations. </p>
 
-                   <p class="TitleP">With a thorough understanding of the industry and experience in constructing robust and secure, yet simple solutions, Zenosys uses digitalization, mobility, big data cloud computing, data security and predictive analysis to produce the perfect solution for complex requirements at every level of administration.</p>
+                   <p class="TitleP">With a thorough understanding of the industry and experience in constructing robust and secure, yet simple solutions, Zenocraft uses digitalization, mobility, big data cloud computing, data security and predictive analysis to produce the perfect solution for complex requirements at every level of administration.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

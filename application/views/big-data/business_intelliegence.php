@@ -56,7 +56,7 @@
                        Business Intelligence is the pool of strategies and technologies applied by any organization for collecting business information and analyzing the data for improving performance. When strategically applied, BI has the potential to provide detailed historical, current as well as predictive view of business operations.
                     </p>
                     <p class="TitleP">
-                       Zenosys specializes in building and implementing flawless business intelligence tools that include reporting, online analytical processing, data mining, performance management, predictive analysis and much more. The aim is simple, to amplify productivity and efficiency while improving overall profitability.
+                       Zenocraft specializes in building and implementing flawless business intelligence tools that include reporting, online analytical processing, data mining, performance management, predictive analysis and much more. The aim is simple, to amplify productivity and efficiency while improving overall profitability.
                     </p>
 
                 </div>

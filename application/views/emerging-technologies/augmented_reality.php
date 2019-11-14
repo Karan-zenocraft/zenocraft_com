@@ -58,7 +58,7 @@
                        In the prevalent competitive environment, it becomes an extreme necessity for brands to enhance customer experience. Virtual Reality and Augmented Reality are the incredible tools that have gained rapid popularity in the domain.
                     </p>
                     <p class="TitleP">
-                       Virtual Reality facilitates an incredible three dimensional, immersive experience, where as Augmented Reality brings a life-like experience to users. Zenosys specializes in building versatile as well as innovative solutions that harness the power of AR and VR, empowering your brand to stand out from the rest, while building long-term brand recall.
+                       Virtual Reality facilitates an incredible three dimensional, immersive experience, where as Augmented Reality brings a life-like experience to users. Zenocraft specializes in building versatile as well as innovative solutions that harness the power of AR and VR, empowering your brand to stand out from the rest, while building long-term brand recall.
                     </p>
 
                 </div>

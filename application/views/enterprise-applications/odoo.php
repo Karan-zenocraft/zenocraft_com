@@ -46,7 +46,7 @@
                     <h2 class="TitleH2">Odoo </h2>
                  <p class="TitleP">Oddo is a one-stop business software solution that includes a host of diverse services such as CRM, e-commerce websites, manufacturing, accounting, billing as well as project and warehouse management. The latest version of Oddo provides the user with a subscription based proprietary enterprise software and cloud-hosted software, as a service. </p>
 
-                 <p class="TitleP">The specialized team at Zenosys has worked with Odoo and its features for a range of projects and has made the most of the benefits provided by the system such as extensible architecture, field services, eLearning as well as payroll and recruitment solutions.</p>
+                 <p class="TitleP">The specialized team at Zenocraft has worked with Odoo and its features for a range of projects and has made the most of the benefits provided by the system such as extensible architecture, field services, eLearning as well as payroll and recruitment solutions.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

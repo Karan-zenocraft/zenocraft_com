@@ -83,9 +83,9 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Contingent Staffing</h2>
-                 <p class="TitleP">Shortened timeframes, unique skill-set requirements or the need for stringent internal controls may force you to look for a partner who can make your objectives an operational reality. Zenosys' contingent workforce management services are modeled around providing you with quality resources that seamlessly integrates your organization and the internal control required to meet your technology objectives. </p>
+                 <p class="TitleP">Shortened timeframes, unique skill-set requirements or the need for stringent internal controls may force you to look for a partner who can make your objectives an operational reality. Zenocraft' contingent workforce management services are modeled around providing you with quality resources that seamlessly integrates your organization and the internal control required to meet your technology objectives. </p>
                     
-                    <p class="TitleP">It is a collaborative onsite model with the value addition of a dedicated account management team to give you the benefit of the right resources with the control they would exercise over an in-house team. If you are looking to minimize risk, administration, and recruitment costs, then workforce management is the answer. Get in touch with Zenosys to learn more on how to leverage our proven experience and knowledge, to make your technology objectives a reality.</p>
+                    <p class="TitleP">It is a collaborative onsite model with the value addition of a dedicated account management team to give you the benefit of the right resources with the control they would exercise over an in-house team. If you are looking to minimize risk, administration, and recruitment costs, then workforce management is the answer. Get in touch with Zenocraft to learn more on how to leverage our proven experience and knowledge, to make your technology objectives a reality.</p>
 
 
 

@@ -50,7 +50,7 @@
 
                     <h2 class="TitleH2">Legacy Application Transformation</h2>
                  <p class="TitleP">Legacy Transformation is the process of modernizing and revamping a system of operations to ensure extended value from that system. The aim is to transform an existing system into a better and evolved version, that performs better and is shoulder-to-shoulder with the evolving technologies.</p>
-                <p class="TitleP">The application development team at Zenosys utilizes a proven and set method of bringing such projects to fruition that generates promising results every time. Our approach towards Legacy Application Transformation projects is always driven by technology. Our motive is to equip such app with the power of evolving technology, while being perfectly in sync with the client’s requirement as well as budget.</p>
+                <p class="TitleP">The application development team at Zenocraft utilizes a proven and set method of bringing such projects to fruition that generates promising results every time. Our approach towards Legacy Application Transformation projects is always driven by technology. Our motive is to equip such app with the power of evolving technology, while being perfectly in sync with the client’s requirement as well as budget.</p>
 
                 </div>
                 <div class="col-md-4 WhyZenosysContent">

@@ -63,7 +63,7 @@
                 <div class="col-md-8 WhyZenosysContent CustomeBlock">
 
                     <h3 class="TitleH3 CustomeH3">Contingent Staffing</h3>
-                     <p class="TitleP">Shortened timeframes, unique skill-set requirements or the need for stringent internal controls may force you to look for a partner who can make your objectives an operational reality. Zenosys' contingent workforce management services are modeled around providing you with quality resources that seamlessly integrates your organization and the internal control required to meet your technology objectives. It is a collaborative onsite model with the value addition of a dedicated account management team to give you the benefit of the right resources with the control they would exercise over an in-house team. If you are looking to minimize risk, administration, and recruitment costs, then workforce management is the answer. Get in touch with Zenosys to learn more on how to leverage our proven experience and knowledge, to make your technology objectives a reality.</p>
+                     <p class="TitleP">Shortened timeframes, unique skill-set requirements or the need for stringent internal controls may force you to look for a partner who can make your objectives an operational reality. Zenocraft' contingent workforce management services are modeled around providing you with quality resources that seamlessly integrates your organization and the internal control required to meet your technology objectives. It is a collaborative onsite model with the value addition of a dedicated account management team to give you the benefit of the right resources with the control they would exercise over an in-house team. If you are looking to minimize risk, administration, and recruitment costs, then workforce management is the answer. Get in touch with Zenocraft to learn more on how to leverage our proven experience and knowledge, to make your technology objectives a reality.</p>
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
           <img src="<?php echo base_url(); ?>assets/images/staffing1.png" class="img-fluid CommanImg" style="right:20px;max-width:87%;top:0px;">
@@ -87,7 +87,7 @@
                    
        <div class="col-md-8 WhyZenosysContent">
                     <h3 class="TitleH3 CustomeH3">Recruitment Process Outsourcing</h3>
-                    <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
+                    <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenocraft' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenocraft to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
        </div>
             </div>
               <div class="row CustomeRows">
@@ -95,7 +95,7 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h3 class="TitleH3 CustomeH3">Project Staffing Services</h3>
-                    <p class="TitleP">Do you have contractors from multiple vendors on critical projects? Zenosys' project staffing services gives you the flexibility of managed resources with a non billable onsite resource coordinator to pass on the HR burden to Zenosys and focus on the control they would exercise over an in-house team.If you have HR burden and which is difficult to manage with multiple vendors, then Zenosys' project staffing services is the answer.</p>
+                    <p class="TitleP">Do you have contractors from multiple vendors on critical projects? Zenocraft' project staffing services gives you the flexibility of managed resources with a non billable onsite resource coordinator to pass on the HR burden to Zenocraft and focus on the control they would exercise over an in-house team.If you have HR burden and which is difficult to manage with multiple vendors, then Zenocraft' project staffing services is the answer.</p>
 <!--
 <p class="TitleP">
 Zenosys with its extensive experience in staffing can help you provide with project teams right from project managers to developers so that you can focus on the project deliverables and pass on the HR functions to Zenosys. Contact Zenosys to learn how you can manage knowledge transition with our Project Staffing Services.</p>

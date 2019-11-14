@@ -78,10 +78,10 @@
                 <div class="col-md-8 WhyZenosysContent">
 
                     <h2 class="TitleH2">Recruitment Process Outsourcing</h2>
-                 <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenosys' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.</p>
+                 <p class="TitleP">Need to save time and shorten your permanent hiring cycle? Then Zenocraft' direct hire services are for you. We provide value addition by helping you to identify, screen and provide you with the "Right Fit" resource that will shorten your hiring cycle.</p>
 
                     
-                    <p class="TitleP">If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenosys to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
+                    <p class="TitleP">If you need to reduce your HR cost for hiring permanent placements direct hire services is the answer. Contact Zenocraft to learn more on how to leverage our large database of highly skilled professionals for your needs.</p>
 
 
                 </div>

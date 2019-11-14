@@ -58,7 +58,7 @@
                        Internet of Things is the one of the latest emerging technologies which connects independent processes. It is the concept of connecting different systems, devices, people, etc to the internet and other devices. It is a cluster that allows information and data sharing between different systems and facilitates increased functionality as well as efficiency in screening important data.
                     </p>
                     <p class="TitleP">
-                       We at Zenosys, approach IOT projects with a simple and well curated process that generates flawless results every single time. We identify the pain points, create road maps, set benchmarks and help transform the business process using IOT, creating a strategy driven balance between technology and business.
+                       We at Zenocraft, approach IOT projects with a simple and well curated process that generates flawless results every single time. We identify the pain points, create road maps, set benchmarks and help transform the business process using IOT, creating a strategy driven balance between technology and business.
                     </p>
 
                 </div>

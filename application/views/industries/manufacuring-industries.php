@@ -72,7 +72,7 @@
 
                     <h2 class="TitleH2">Manufacturing Industry</h2>
                    <p class="TitleP">The Manufacturing industry is welcoming a wave of technological innovations. IOT and smart manufacturing are facilitating seamless personalization while data Big Data Analytics are transforming archaic factory layouts into technologically orchestrated floors. </p>
-                   <p class="TitleP">Well curated product, customer and supply chain databases can facilitate intelligent and well calculated decisions. Zenosys helps manufacturing industries transform the way they function while weaving cutting-edge innovations into their daily operations with acute focus on cost effectiveness.</p>
+                   <p class="TitleP">Well curated product, customer and supply chain databases can facilitate intelligent and well calculated decisions. Zenocraft helps manufacturing industries transform the way they function while weaving cutting-edge innovations into their daily operations with acute focus on cost effectiveness.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
                     <img src="<?php echo base_url(); ?>assets/images/industry.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">

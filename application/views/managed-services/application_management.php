@@ -56,7 +56,7 @@
                       In the current era, applications have come to become an integral part of how brands communicate, work, deliver content as well as undertake many other functions. This necessitates that the apps work flawlessly and provide a quality experience to the user every single time. Application Management Services do just that. They help manage and monitor your application.
                     </p>
                     <p class="TitleP">
-                       The Application Management Team at Zenosys takes up the responsibility of ensuring that these apps are always exceeding performance expectations, while managing and releasing patches, bug fixes and enhancements to ensure tremendous results and undisputed working.
+                       The Application Management Team at Zenocraft takes up the responsibility of ensuring that these apps are always exceeding performance expectations, while managing and releasing patches, bug fixes and enhancements to ensure tremendous results and undisputed working.
                     </p>
 
                 </div>

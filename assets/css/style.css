@@ -152,7 +152,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 
 /*-------------------Header----------------------*/
 .Header{padding-top: 10px;background: #ffffff;padding-bottom: 0px;}
-.Header .HeaderInner .Logo img{max-height: 50px;}
+.Header .HeaderInner .Logo img{max-height: 30px;}
 .Header .HeaderInner .HeaderNav{margin-left: auto;margin-right: 0px;}
 .Header .HeaderInner .HeaderNav ul li{margin: 0px 22px;}
 .Header .HeaderInner .HeaderNav ul li:first-child{margin-left: 0;}
@@ -918,7 +918,7 @@ font-family: 'Arial';}
     .menu{position: absolute;z-index: 99;
     width: 100%;
     left: 0;
-    top: 0px;
+    top: -20px;
     background: #fff;}
     .ShowUl{display: block!important}
     .HeaderNavigation .InnerMenu{padding-left: 20px;}

@@ -50,7 +50,7 @@
 
                     <h2 class="TitleH2" style="word-spacing:8px">Custom Application Development</h2>
                     <p class="TitleP">Custom Application Development, as the name suggests, is a comprehensive process including designing, creating and deploying a software or application that has been developed to cater to the exact need of the brand, organization or client. It is the process of creating an application that is personalized to resonate with the brand and perform intricate tasks, as per the requirement.</p>
-                    <p class="TitleP">Zenosys is home to a team of highly talented and skilled members that are expert with industry specific technologies. Together, we provide end to end custom application development services such as leading designing and customization, programming and application development, cross-platform app development, and seamless integration.</p>
+                    <p class="TitleP">Zenocraft is home to a team of highly talented and skilled members that are expert with industry specific technologies. Together, we provide end to end custom application development services such as leading designing and customization, programming and application development, cross-platform app development, and seamless integration.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">

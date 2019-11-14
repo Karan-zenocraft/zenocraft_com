@@ -81,7 +81,7 @@
                     <h2 class="TitleH2">MSP (Manage Staffing Provider)</h2>
                  <p class="TitleP">Exceptional talent base is extremely crucial for success in business operations as well as overall profitability. Managed Staffing Provider is the solution that is catering to numerous organizations globally and providing them highly efficient and productive workforce while increasing their productivity across different technologies manifold.</p>
 
-                 <p class="TitleP">Zenosys hails with a deep-rooted experience of providing extended workforces to organizations around the globe, with intricate teams that include some of the most brigh and passionate minds that are exceptionally skilled and are empowered by concrete experience.</p>
+                 <p class="TitleP">Zenocraft hails with a deep-rooted experience of providing extended workforces to organizations around the globe, with intricate teams that include some of the most brigh and passionate minds that are exceptionally skilled and are empowered by concrete experience.</p>
 
                 </div>
                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">

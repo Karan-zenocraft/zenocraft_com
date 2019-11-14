@@ -56,7 +56,7 @@
                       Infrastructure Management is the process of managing essential operation components including different processes, policies, data, equipment, human resource, etc, to streamline all the functions and establish thorough control over them in order to increase efficiency, productivity and profitability.
                     </p>
                     <p class="TitleP">
-                       Zenosys excels in the domain, offering a host dependable, flexible, responsive as well as proven Infrastructure Management Services. With a expert team in place, we provide consulting as well as end-user computing, enterprise networking, operation management as well as transformational services.
+                       Zenocraft excels in the domain, offering a host dependable, flexible, responsive as well as proven Infrastructure Management Services. With a expert team in place, we provide consulting as well as end-user computing, enterprise networking, operation management as well as transformational services.
                     </p>
 
                 </div>

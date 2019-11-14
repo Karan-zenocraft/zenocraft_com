@@ -55,7 +55,7 @@
 
                     <h2 class="TitleH2">Infrastructure Services</h2>
                    <p class="TitleP">
-                       Managing IT infrastructure has never been more important as organizations are increasingly focusing on information availability. Through our Infrastructure Management Services, Zenosys helps you assess, transform and manage your critical IT infrastructure more efficiently, guaranteeing round the clock peak system performance and availability.
+                       Managing IT infrastructure has never been more important as organizations are increasingly focusing on information availability. Through our Infrastructure Management Services, Zenocraft helps you assess, transform and manage your critical IT infrastructure more efficiently, guaranteeing round the clock peak system performance and availability.
                     </p>
                     <p class="TitleP">
                        Our services help organizations make the transition from technology management to service management and prepare you to make the correct infrastructure sourcing decisions using a holistic lifecycle approach.

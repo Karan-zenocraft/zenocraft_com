@@ -52,7 +52,7 @@
 
                     <h2 class="TitleH2">Data Science</h2>
    <p class="TitleP">As Machine Learning and Artificial Intelligence gradually take over the trend, Data Science is that one humongous field that has the most scope for increased profitability. Data science is basically the application of scientific methodologies, processes and algorithms to process and analyze data.</p>
-                    <p class="TitleP">The team at Zenosys comprises some of the brightest experts in the field, enabling us providing Data Science Consultation Services as well as Data Science Solutions that best suit the project’s Extract-Transform-Load Process and Machine Learning Models that can analyze dynamic and growing data. Find out how Data Science can empower your projects.</p>
+                    <p class="TitleP">The team at Zenocraft comprises some of the brightest experts in the field, enabling us providing Data Science Consultation Services as well as Data Science Solutions that best suit the project’s Extract-Transform-Load Process and Machine Learning Models that can analyze dynamic and growing data. Find out how Data Science can empower your projects.</p>
 
 
                 </div>

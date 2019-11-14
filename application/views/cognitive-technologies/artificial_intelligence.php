@@ -55,7 +55,7 @@
                         Artificial Intelligence, the technology that enables a machine in sensing, understanding, learning and performing tasks. The potential that AI brings to the table for the new-age businesses as well as set organizations is humongous.
                     </p>
                     <p class="TitleP">
-                       Implementing AI Solutions and integrating them to business modes can be a complex task, that not many can perform with finesse. It requires thorough knowledge of the technology, long term visualization as well as a sound strategy, along with thorough insight to fuel it. This is where Zenosys comes in. We provide AI consulting services as well as creating and implementing AI technology with seamless support to create a synergy between human efforts and AI.
+                       Implementing AI Solutions and integrating them to business modes can be a complex task, that not many can perform with finesse. It requires thorough knowledge of the technology, long term visualization as well as a sound strategy, along with thorough insight to fuel it. This is where Zenocraft comes in. We provide AI consulting services as well as creating and implementing AI technology with seamless support to create a synergy between human efforts and AI.
                     </p>
 
                 </div>

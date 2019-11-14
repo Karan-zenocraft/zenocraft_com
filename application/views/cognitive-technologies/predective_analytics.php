@@ -52,7 +52,7 @@
 
                     <h2 class="TitleH2">Predictive Analytics</h2>
                     <p class="TitleP">Predictive Analytics is a constellation of intricate processes including data mining, predictive modeling and and machine learning in order to asses data from the past as well as present, to make accurate predictions about the future. For Businesses, this can help improve decision making manifolds by analyzing data and presenting opportunities, risks, potential, etc. The scope and applicability of the technology to diverse industries has attracted attention from across the world.</p>
-                    <p class="TitleP">We at Zenosys, help business build and deploy smart predictive analytics solutions that enhance capabilities and empower you in staying one step ahead. Our deeply experienced team brings to creation, cutting-edge solutions based on your existing data, processes, market patterns, etc. to help improve decision making, functionality as well as profitability.</p>
+                    <p class="TitleP">We at Zenocraft, help business build and deploy smart predictive analytics solutions that enhance capabilities and empower you in staying one step ahead. Our deeply experienced team brings to creation, cutting-edge solutions based on your existing data, processes, market patterns, etc. to help improve decision making, functionality as well as profitability.</p>
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
