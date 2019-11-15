@@ -541,6 +541,21 @@ $(function() {
 });
 
 
+
+
+
+$(document).ready(function(){
+    
+    $(".TabbingNav .TabbingLi").click(function(){
+        $(".TabbingNav .TabbingLi").removeClass("active");
+        $(this).addClass("active");
+        
+        
+    });
+    
+});
+
+
 $(document).ready(function() {
    window.verifyRecaptchaCallback = function (response) {
        $('input[data-recaptcha]').val(response).trigger('change')

@@ -49,7 +49,7 @@ p, .TitleP{font-family:'Arial';font-size: 14px;line-height: 24px;
 .SliderP{font-size: 16px;line-height: 20px;font-family:'Arial';}
 
 
-ul{padding: 0px;margin: 0px!important;}
+ul{padding: 0px;margin: 0px;}
 ul li{list-style-type: none;}
 ul li a, ul li a:hover{text-decoration: none;}
 
@@ -906,6 +906,88 @@ font-family: 'Arial';}
 --------------------------------------------- */
 
 .InnerMenu li .Label{display: none}
+
+.WhyZenosys .Tabbing h2{text-align: left;color: #464852;font-weight: bold;position: relative;margin-bottom: 0;
+font-size: 20px;line-height: 25px;font-family: 'Arial';letter-spacing: 1.25px;padding-top: 30px;text-transform: uppercase;padding-bottom: 0px;}
+body{padding-right: 0px!important;}
+.WhyZenosys .Tabbing .modal-header .close{padding: unset!important;margin: unset!important;position: absolute;
+    right: 0;
+    top: 0px;
+    height: 32px;
+    width: 35px;outline: none;}
+
+.WhyZenosys .Tabbing .modal{padding-right: 0px!important;}
+.TabbingNav{background-color: #f1f5f8;padding: 10px 0px;margin-bottom: 20px!important;box-shadow: 3px 8px 3px -7px #c9cacc;}
+.TabbingNav .TabbingLi{margin-bottom: 0px!important;padding-left: 0px!important}
+.TabbingNav .TabbingLi:after{content: unset!important;}
+.TabbingNav .TabbingLi .TabbingA {padding: 10px 40px;text-transform: uppercase;font-family: 'Arial';font-weight: normal;font-size: 14px;color: #888787;letter-spacing: 1.7px;line-height: 20px;border-right: 1px solid #a5a5a538;}
+.TabbingNav .TabbingLi .TabbingA:hover{color:#58ABB7;transition: 0.3s all}
+.TabbingNav .active .TabbingA{color:#58ABB7;transition: 0.3s all;font-weight: bold;}
+.Tabbing .CustomeRow{margin-top: 40px;padding-bottom: 40px;display: flex;align-items: center;justify-content: flex-start;border-bottom:2px solid #a5a5a538;}
+.Tabbing .CustomeRow .PortfolioBox img{border-radius: 10px;max-width: 120%;transition: 0.8s all;
+
+
+}
+.WhyZenosys .Tabbing .modal .SecOne{margin-bottom: 30px;}
+.WhyZenosys .Tabbing .modal h2{padding-top: 0px;}
+.WhyZenosys .Tabbing .modal p{font-size: 13px;margin-top: 5px;
+    line-height: 20px;
+    font-weight: normal;
+    margin-bottom: 10px;font-family: 'Arial';margin-bottom: 0;}
+.WhyZenosys .Tabbing .modal ul{margin-bottom: 0px;
+    margin-top: 15px;}
+
+.WhyZenosys .Tabbing .modal ul li{position: relative;padding-left: 15px;font-size: 15px;
+    line-height: 23px;
+    font-weight: normal;
+    margin-bottom: 5px;font-family: 'Arial';}
+.WhyZenosys .Tabbing .modal ul li:after{content: '';background: #333;position: absolute;left: 0;top: 0;bottom: 0;margin: auto;height: 4px;width: 4px;border-radius: 5px;}
+
+.Tabbing .CustomeRow .modal-dialog {
+    max-width: 1200px!important;
+    margin: 1.75rem auto;}
+
+@keyframes ImageScale {
+  from {left: 0;}
+  to {left: -30px;transition: 1s all;}
+}
+.Tabbing .CustomeRow .PortfolioBox{cursor: pointer;}
+.Tabbing .CustomeRow .PortfolioBox:before{content: '';left: 20px;width: 0%;
+    right: 0;
+   
+    position: absolute;
+    height: 3px;
+    background: #fff;z-index: 999;
+    bottom: 23px;transition: 0.3s all
+}
+.Tabbing .CustomeRow .PortfolioBox:hover:before{
+    width: 88.5%;
+    }
+.Tabbing .CustomeRow .PortfolioBox{position: relative;overflow: hidden;border-radius: 10px;}
+.Tabbing .CustomeRow .PortfolioBox:after{content: '';background-color: rgba(0, 0, 0, 0.10);position: absolute;left: 0;top: 0;height: 100%;width: 100%;border-radius: 10px;transition: 0.8s all;}
+
+.Tabbing .CustomeRow .PortfolioBox:hover:after{background-color: rgba(0, 0, 0, 0.70);}
+.Tabbing .CustomeRow .PortfolioBox:hover img{position: relative;transition: 0.8s all;
+
+-webkit-animation-name: ImageScale; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 0.4s; /* Safari 4.0 - 8.0 */
+  animation-name: ImageScale;
+  animation-duration: 0.4s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+
+
+
+
+
+.Tabbing .CustomeRow .PortfolioBox:hover i {display: block;}
+.Tabbing .CustomeRow .PortfolioBox i{position: absolute;left: 20px;bottom: 50px;height: 40px;width: 40px;color: #fff;font-size: 35px;display: none;z-index: 9999}
+
+
+.Tabbing .Title{color: #888787;text-align: center;margin: auto;display: block;margin-top: 15px;font-size: 18px;letter-spacing: 2px;text-decoration: none;font-weight: bold;font-family: 'Arial';text-transform: uppercase;}
 
 @media all and (max-width : 1199px) {
     .Header .container{max-width: 100%}
