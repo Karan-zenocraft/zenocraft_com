@@ -271,35 +271,198 @@
                     </div>
                     
                    <div class="CustomeRow">
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Four">
+                    
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                    <a href="#" class="Title"> T R Construction </a>
+                    
+                    <a data-toggle="modal" data-target="#Four" class="Title"> T R Construction </a>
                     </div>
+                       
+                       
+                       
+                       
+                       
+                       <div class="modal fade" id="Four">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          
+          <button type="button" class="close" data-dismiss="modal">×</button>
+        </div>
+        
+        
+        <div class="modal-body">
+        <div class="row">
+        <div class="col-md-6">
+            <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
+            
+        </div>    
+        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+       
+        <div class="SecOne">
+        <h2>T R Construction</h2>
+        <p>Technological site for gadgets</p>  
+            
+        <ul class="d-flex align-items-start justify-content-start flex-column">
+        <li>Category : No Catefgory found</li>    
+        <li>Industry : Automotive</li>
+        <li>Skill : HTML</li>
+            
+        </ul>
+            
+            </div>    
+           <div class="SecTwo"> 
+        <h2>About T R Construction</h2>
+        <p>No Content Found.</p>
+        </div> 
+            </div>
+        </div>
+        </div>
+        
+       
+<!--
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+-->
+        
+      </div>
+    </div>
+  </div>
                         
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Five">
+                  
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                        <a href="#" class="Title">  FAC North America  </a>
+                 
+                        <a data-toggle="modal" data-target="#Five" class="Title">  FAC North America  </a>
                     </div>
+                       
+                       
+                       
+                       <div class="modal fade" id="Five">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          
+          <button type="button" class="close" data-dismiss="modal">×</button>
+        </div>
+        
+        
+        <div class="modal-body">
+        <div class="row">
+        <div class="col-md-6">
+            <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
+            
+        </div>    
+        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+       
+        <div class="SecOne">
+        <h2>FAC North America</h2>
+        <p>Technological site for gadgets</p>  
+            
+        <ul class="d-flex align-items-start justify-content-start flex-column">
+        <li>Category : No Catefgory found</li>    
+        <li>Industry : Automotive</li>
+        <li>Skill : HTML</li>
+            
+        </ul>
+            
+            </div>    
+           <div class="SecTwo"> 
+        <h2>About FAC North America</h2>
+        <p>No Content Found.</p>
+        </div> 
+            </div>
+        </div>
+        </div>
+        
+       
+<!--
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+-->
+        
+      </div>
+    </div>
+  </div>
+                       
+                       
+                       
                         
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Six">
+                   
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/six.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                     <a href="#" class="Title">  Orange Box  </a>
+                    
+                     <a data-toggle="modal" data-target="#Six" class="Title">  Orange Box  </a>
                     </div>
+                       
+                       
+                       
+                       <div class="modal fade" id="Six">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          
+          <button type="button" class="close" data-dismiss="modal">×</button>
+        </div>
+        
+        
+        <div class="modal-body">
+        <div class="row">
+        <div class="col-md-6">
+            <img src="<?php echo base_url(); ?>assets/images/six.jpg" alt="" class="img-fluid">
+            
+        </div>    
+        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+       
+        <div class="SecOne">
+        <h2>Orange Box</h2>
+        <p>Technological site for gadgets</p>  
+            
+        <ul class="d-flex align-items-start justify-content-start flex-column">
+        <li>Category : No Catefgory found</li>    
+        <li>Industry : Automotive</li>
+        <li>Skill : HTML</li>
+            
+        </ul>
+            
+            </div>    
+           <div class="SecTwo"> 
+        <h2>About Orange Box</h2>
+        <p>No Content Found.</p>
+        </div> 
+            </div>
+        </div>
+        </div>
+        
+       
+<!--
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+-->
+        
+      </div>
+    </div>
+  </div>
+                       
+                       
                     
                     </div>
                     
@@ -307,34 +470,34 @@
                     
                     
                     <div class="CustomeRow">
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Seven">
+                   
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/seven.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                    <a href="#" class="Title">  Construire Ensuite  </a>
+                    
+                    <a data-toggle="modal" data-target="#Seven" class="Title">  Construire Ensuite  </a>
                     </div>
                         
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Eight">
+                   
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/eight.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                        <a href="#" class="Title">   Morbel Project  </a>
+                    
+                        <a data-toggle="modal" data-target="#Nine" class="Title">   Morbel Project  </a>
                     </div>
                         
                     <div class="col-md-4">
-                    <a href="">
+                    
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/nine.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                     <a href="#" class="Title">  Music App  </a>
+                   
+                     <a data-toggle="modal" data-target="#Nine" class="Title">  Music App  </a>
                     </div>
                     
                     </div>
@@ -343,34 +506,34 @@
                     
                     <div class="CustomeRow">
                         
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Ten">
+                   
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                    <a href="#" class="Title">  Chiefs RS  </a>
+                  
+                    <a data-toggle="modal" data-target="#Ten" class="Title">  Chiefs RS  </a>
                     </div>
                         
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Eleven">
+                    
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/eleven.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                        <a href="#" class="Title">   Get Go  </a>
+                   
+                        <a data-toggle="modal" data-target="#Eleven" class="Title">   Get Go  </a>
                     </div>
                         
-                    <div class="col-md-4">
-                    <a href="">
+                    <div class="col-md-4" data-toggle="modal" data-target="#twelveth">
+                    
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/twelveth.png" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                     <a href="#" class="Title">  Explore Asia </a>
+                    
+                     <a data-toggle="modal" data-target="#twelveth" class="Title">  Explore Asia </a>
                     </div>
                     
                     </div>
