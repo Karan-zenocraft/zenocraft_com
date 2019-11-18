@@ -206,7 +206,7 @@
             <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
                     <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
                 <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
-                                            
+
                 <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
 <!--
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force"> Consulting Work Force</a></li>
@@ -351,7 +351,7 @@
               <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
                     <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
                 <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
-                                            
+
                 <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
               <!--
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
@@ -464,7 +464,7 @@
                     <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
                     <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
                 <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
-                                            
+
                 <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
                                             <!--
             <li><a href="<?php echo base_url(); ?>staffingServices/consulting_work_force">Consulting Work Force</a></li>
@@ -497,17 +497,17 @@
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label  class="toggle DD2">Portfolio</label>
-                                <a class="a arrow">Portfolio</a>
+                                <a class="a arrow" href="<?php echo base_url(); ?>portfolio">Portfolio</a>
                                       <input type="checkbox" id="drop-18"/>
                                 <ul class="InnerMenu InnerMenu2 DD22">
-                                    <li><a href="<?php echo base_url(); ?>portfolios/php">PHP</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolios/ios">IOS</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolios/java">JAVA</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolios/asp_net">ASP.NET</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolios/android">ANDROID</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolios/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolios/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolios/warehouse_controller">Warehouse Controller</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#php">PHP</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#ios">IOS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#java">JAVA</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#asp">ASP.NET</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio/warehouse_controller">Warehouse Controller</a></li>
                                 </ul>
                             </li>
                             <li>

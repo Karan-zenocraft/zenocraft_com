@@ -1,6 +1,6 @@
 <?php
 
-class Portfolios extends MY_Controller
+class Portfolio extends MY_Controller
 {
     //$this->load->model('helloworld_model');
     //  $data['result'] = $this->helloworld_model->getData();
@@ -9,6 +9,10 @@ class Portfolios extends MY_Controller
         parent::__construct();
     }
 
+    public function index()
+    {
+        $this->load->view('portfolios/php');
+    }
     public function php()
     {
         $this->load->view('portfolios/php');

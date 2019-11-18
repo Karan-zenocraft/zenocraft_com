@@ -554,7 +554,34 @@ $(document).ready(function(){
     });
     
 });
+$(function(){
+var hash = window.location.hash;
+var hashtag = window.location.hash.substr(1);
+  hash && $('ul.TabbingNav a[href="' + hash + '"]').tab('show');
+  if(hashtag != ""){
+    $('.TabbingLi').removeClass('active');
+  }
+$('#li_'+hashtag).parent('li').addClass('active');
+$('#li_'+hashtag).addClass('active');
+  $('.InnerMenu').click(function (e) {
+    //$('.TabbingLi').removeClass('active');
+var hash = window.location.hash;
+var hashtag = window.location.hash.substr(1);
+  hash && $('ul.TabbingNav a[href="' + hash + '"]').tab('show');
+$('.TabbingLi').removeClass('active');
+$('#li_'+hashtag).parent('li').addClass('active');
+$('#li_'+hashtag).addClass('active');
 
+  });
+});
+window.onhashchange = function () {
+var hash = window.location.hash;
+var hashtag = window.location.hash.substr(1);
+  hash && $('ul.TabbingNav a[href="' + hash + '"]').tab('show');
+$('.TabbingLi').removeClass('active');
+$('#li_'+hashtag).parent('li').addClass('active');
+$('#li_'+hashtag).addClass('active');
+};
 
 $(document).ready(function() {
    window.verifyRecaptchaCallback = function (response) {
