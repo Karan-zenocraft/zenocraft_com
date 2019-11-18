@@ -28,7 +28,7 @@
     <!------Loader------->
 
 
-    
+
 <div id="Load" class="load">
       <div class="load__container text-center">
 <!--        <div class="load__animation">-->
@@ -60,8 +60,11 @@
 
     </section>
 
-
- <?php $this->load->view('footer.php');?>
+<?php if (strpos($_SERVER['REQUEST_URI'], 'portfolio') !== false) {
+    $this->load->view('footer_portfolio.php');
+} else {
+    $this->load->view('footer.php');
+}?>
 
     <script src="https://cdn.jsdelivr.net/jquery.validation/1.15.1/jquery.validate.min.js"></script>
     <script src="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.min.js"></script>
