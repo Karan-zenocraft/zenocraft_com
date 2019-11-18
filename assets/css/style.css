@@ -944,7 +944,7 @@ body{padding-right: 0px!important;}
 .WhyZenosys .Tabbing .modal ul li:after{content: '';background: #333;position: absolute;left: 0;top: 0;bottom: 0;margin: auto;height: 4px;width: 4px;border-radius: 5px;}
 
 .Tabbing .CustomeRow .modal-dialog {
-    max-width: 1200px!important;
+    max-width: 1000px!important;
     margin: 1.75rem auto;}
 
 @keyframes ImageScale {
