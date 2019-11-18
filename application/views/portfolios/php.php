@@ -104,17 +104,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/one.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>All Spice</h2>
@@ -167,17 +167,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Better Man</h2>
@@ -226,17 +226,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Clix</h2>
@@ -292,17 +292,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>T R Construction</h2>
@@ -354,17 +354,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>FAC North America</h2>
@@ -419,17 +419,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/six.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Orange Box</h2>
@@ -488,17 +488,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/seven.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Construire Ensuite</h2>
@@ -550,17 +550,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/eight.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Morbel Project</h2>
@@ -614,17 +614,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/nine.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Music App</h2>
@@ -682,17 +682,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Chiefs RS </h2>
@@ -744,17 +744,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/eleven.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Get Go  </h2>
@@ -806,17 +806,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/twelveth.png" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Explore Asia</h2>
@@ -874,17 +874,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Chiefs RS </h2>
@@ -937,17 +937,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/eleven.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Get Go  </h2>
@@ -998,17 +998,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/twelveth.png" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Explore Asia</h2>
@@ -1067,17 +1067,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/one.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>All Spice</h2>
@@ -1133,17 +1133,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/six.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Orange Box</h2>
@@ -1195,17 +1195,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/eight.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Morbel Project</h2>
@@ -1259,17 +1259,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/nine.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Music App</h2>
@@ -1323,17 +1323,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>T R Construction</h2>
@@ -1388,17 +1388,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>FAC North America</h2>
@@ -1447,17 +1447,17 @@
         <!-- Modal Header -->
         <div class="modal-header">
           
-          <button type="button" class="close" data-dismiss="modal">×</button>
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
         </div>
         
         
         <div class="modal-body">
         <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-8">
             <img src="<?php echo base_url(); ?>assets/images/seven.jpg" alt="" class="img-fluid">
             
         </div>    
-        <div class="col-md-6 d-flex align-items-start justify-content-start flex-column">
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
        
         <div class="SecOne">
         <h2>Construire Ensuite</h2>
@@ -1495,25 +1495,128 @@
                     
                     <div id="android" class="tab-pane fade">
                         <div class="CustomeRow">
-                   <div class="col-md-4">
-                    <a href="">
+                   <div class="col-md-4" data-toggle="modal" data-target="#Twoo">
+                    
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                        <a href="#" class="Title"> Better Man </a>
+                    
+                        <a class="Title" data-toggle="modal" data-target="#Twoo"> Better Man </a>
                     </div>
-                        
-                    <div class="col-md-4">
-                    <a href="">
+                       
+                            <div class="modal fade" id="Twoo">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+        </div>
+        
+        
+        <div class="modal-body">
+        <div class="row">
+        <div class="col-md-8">
+            <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
+            
+        </div>    
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+       
+        <div class="SecOne">
+        <h2>Better Man</h2>
+        <p>Technological site for gadgets</p>  
+            
+        <ul class="d-flex align-items-start justify-content-start flex-column">
+        <li>Category : No Catefgory found</li>    
+        <li>Industry : Automotive</li>
+        <li>Skill : HTML</li>
+            
+        </ul>
+            
+            </div>    
+           <div class="SecTwo"> 
+        <h2>About Better Man</h2>
+        <p>No Content Found.</p>
+        </div> 
+            </div>
+        </div>
+        </div>
+        
+       
+<!--
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+-->
+        
+      </div>
+    </div>
+  </div>
+                            
+                            
+                    <div class="col-md-4" data-toggle="modal" data-target="#Threee">
+                    
                     <div class="PortfolioBox">
                    <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
-                    </a>
-                     <a href="#" class="Title"> Clix </a>
+                   
+                     <a class="Title" data-toggle="modal" data-target="#Threee"> Clix </a>
                     </div>
+                            
+                            <div class="modal fade" id="Threee">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          
+          <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+        </div>
+        
+        
+        <div class="modal-body">
+        <div class="row">
+        <div class="col-md-8">
+            <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
+            
+        </div>    
+        <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+       
+        <div class="SecOne">
+        <h2>Clix</h2>
+        <p>Technological site for gadgets</p>  
+            
+        <ul class="d-flex align-items-start justify-content-start flex-column">
+        <li>Category : No Catefgory found</li>    
+        <li>Industry : Automotive</li>
+        <li>Skill : HTML</li>
+            
+        </ul>
+            
+            </div>    
+           <div class="SecTwo"> 
+        <h2>About Clix</h2>
+        <p>No Content Found.</p>
+        </div> 
+            </div>
+        </div>
+        </div>
+        
+       
+<!--
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+-->
+        
+      </div>
+    </div>
+  </div>
+                            
+                            
                         </div>
                     </div>
                     
