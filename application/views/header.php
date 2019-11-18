@@ -505,9 +505,6 @@
                                     <li><a href="<?php echo base_url(); ?>portfolio#java">JAVA</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#asp">ASP.NET</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio/warehouse_controller">Warehouse Controller</a></li>
                                 </ul>
                             </li>
                             <li>
