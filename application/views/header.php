@@ -326,7 +326,7 @@
                                     <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP S / 4HANA</a></li>
                                     <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo</a></li>
                                     <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle_apex">Oracle Apex</a></li>
-
+                                          <li style="visibility: hidden"><a href="#">Data Quality Management</a></li>
 
                                         </div>
                                         </div>
