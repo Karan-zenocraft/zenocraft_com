@@ -123,6 +123,15 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .ContactBox .LocationBoxs a{letter-spacing: 0px}
     .ContactBox .LocationBoxs h3{letter-spacing: 0px;}
     .OurExpertise .CustomeRow{padding: 0px 0px}
+    
+    .WhyZenosys{padding: 0px 0px;}
+    .TabbingNav .TabbingLi .TabbingA{padding: 10px 30px;font-size: 12px;}
+    .TabbingNav{padding: 5px 0px;}
+    .Tabbing .Title{font-size: 14px;}
+    .Tabbing .CustomeRow{margin-top: 30px;padding-bottom: 30px;}
+     .WhyZenosys .Tabbing .modal ul li{font-size: 14px;}
+    .WhyZenosys .Tabbing h2{font-size: 15px;}
+    
 }
 
 
@@ -195,6 +204,11 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .GovernmentImg.fullwidth2{max-width: 100%!important}
     .GovernmentImg.smallwidth{max-width: 35%!important}
     .GovernmentImg.Quality{max-width: 60%!important}
+
+
+
+    
+    .WhyZenosys .Tabbing h2{padding-bottom: 15px;padding-top: 15px;}
 }
 
 
@@ -292,6 +306,14 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .WhyZenosys .WhyZenosysContentCustome img{top: 0px;
     bottom: 0;
     margin: auto;}
+    
+    .WhyZenosys{padding: 0px 0px;}
+    .TabbingNav .TabbingLi .TabbingA{padding: 10px 30px;font-size: 12px;}
+    .TabbingNav{padding: 5px 0px;}
+    .Tabbing .Title{font-size: 14px;}
+    .Tabbing .CustomeRow{margin-top: 30px;padding-bottom: 30px;}
+     .WhyZenosys .Tabbing .modal ul li{font-size: 14px;}
+    .WhyZenosys .Tabbing h2{font-size: 15px;}
 }
 
 
@@ -327,7 +349,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
     
     .ContactBox form{padding-bottom: 75px!important;}
     .SoftwareDevelopment .SoftwareDevelopmentLeft li{font-size: 13px;}   
-.Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 50px}    
+.Slider .SliderInner .Caption p, .Slider .SliderInner .Caption h1{padding-left: 15px}    
 .WhyZenosys .WhyZenosysInner{margin: 0px 0px;margin-top: 25px}
     .CaseStudyBox .CaseStudyInnerBox{margin: 0px 0px}
     .CaseStudyBox .CaseStudyInnerBox .MainBox{padding: 0px 15px;}
@@ -390,6 +412,16 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
     margin-top: 6px;}
     .SiteMap .MainRow{margin-bottom: 10px;}
     .SiteMap .TitleRow{margin-bottom: 3px!important;margin-top: 0px;}
+
+
+
+.WhyZenosys{padding: 0px 0px;}
+    .TabbingNav .TabbingLi .TabbingA{padding: 10px 25px;font-size: 12px;}
+    .TabbingNav{padding: 5px 0px;}
+    .Tabbing .Title{font-size: 14px;}
+    .Tabbing .CustomeRow{margin-top: 30px;padding-bottom: 30px;}
+    .WhyZenosys .Tabbing .modal ul li{font-size: 14px;}
+    .WhyZenosys .Tabbing h2{font-size: 15px;}
 }
 
 
@@ -461,7 +493,7 @@ h6, .TitleH6{font-size: 13px;}
 .OurExpertise{padding-top: 30px;padding-bottom: 30px;}
     .ClientsList{padding-top: 0px!important;}
 /*.Slider{display: none;}*/
-.WhyZenosys{padding: 50px 0px;}
+.WhyZenosys{padding: 0px 0px;}
 .WhyZenosys .WhyZenosysInner{margin-top: 0;margin: 0;padding: 0;}
 .WhyZenosys .WhyZenosysInner .WhyZenosysInnerBox{padding-bottom: 30px;
     padding-left: 60px;
@@ -603,5 +635,23 @@ footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
     .GovernmentImg.Retail{margin-bottom: 0!important;}
     .GovernmentImg.fullwidth{max-width: 60%!important}
     .GovernmentImg.Infrastructure{max-width: 90%!important}
+    
+
+
+    .Tabbing .CustomeRow{display: block;}
+    .TabbingNav .TabbingLi .TabbingA{padding: 6px 15px;
+    font-size: 12px;
+    display: block;}
+    .Tabbing .Title{margin-bottom: 30px;}
+    .Tabbing .CustomeRow{border-bottom: 0px solid #a5a5a538;padding-bottom: 0px;margin-top: 0px;}
+    .WhyZenosys .Tabbing h2{font-size: 14px;}
+    .WhyZenosys .Tabbing .modal .SecOne{margin-bottom: 15px;margin-top: 15px;}
+    .WhyZenosys .Tabbing .modal ul li{font-size: 14px;}
+    .TabbingNav{flex-direction: column}
+    .TabbingNav .TabbingLi .TabbingA{border-right: 0px solid #a5a5a538;}
+    .Tabbing .CustomeRow .col-md-4{padding: 0;}
+    .col-md-4.d-flex.align-items-start.justify-content-start.flex-column{padding: 0px 15px;}
+    .Tabbing .Title{font-size: 14px;}
+    
     
 }

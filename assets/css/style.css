@@ -908,7 +908,7 @@ font-family: 'Arial';}
 .InnerMenu li .Label{display: none}
 
 .WhyZenosys .Tabbing h2{text-align: left;color: #464852;font-weight: bold;position: relative;margin-bottom: 0;
-font-size: 20px;line-height: 25px;font-family: 'Arial';letter-spacing: 1.25px;padding-top: 30px;text-transform: uppercase;padding-bottom: 0px;}
+font-size: 20px;line-height: 25px;font-family: 'Arial';letter-spacing: 1.25px;padding-top: 20px;text-transform: uppercase;padding-bottom: 20px;}
 body{padding-right: 0px!important;}
 .WhyZenosys .Tabbing .modal-header .close{padding: unset!important;margin: unset!important;position: absolute;
     right: 0;
@@ -916,7 +916,7 @@ body{padding-right: 0px!important;}
     height: 32px;
     width: 35px;outline: none;}
 
-.WhyZenosys .Tabbing .modal{padding-right: 0px!important;}
+.WhyZenosys .Tabbing .modal{padding-right: 0px!important;z-index: 9999;}
 .TabbingNav{background-color: #f1f5f8;padding: 10px 0px;margin-bottom: 20px!important;box-shadow: 3px 8px 3px -7px #c9cacc;}
 .TabbingNav .TabbingLi{margin-bottom: 0px!important;padding-left: 0px!important}
 .TabbingNav .TabbingLi:after{content: unset!important;}

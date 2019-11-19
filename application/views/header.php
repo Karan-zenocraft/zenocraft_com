@@ -55,10 +55,10 @@
           </ul>
         </li>
       <li>
-          <label class="toggle DD6">Emerging Technologies </label>
+          <label class="toggle DD8">Emerging Technologies </label>
           <a href="#" class="Label">Works</a>
-          <input type="checkbox" id="drop-4"/>
-          <ul class="InnerDropdown onlysm DD66">
+          <input type="checkbox" id="drop-6"/>
+          <ul class="InnerDropdown onlysm DD88">
             <li><a href="<?php echo base_url(); ?>emergingTechnologies/internet_of_things">Internet Of Things</a></li>
             <li><a href="<?php echo base_url(); ?>emergingTechnologies/block_chain_technologies">Block-Chain Technologies</a></li>
             <li><a href="<?php echo base_url(); ?>emergingTechnologies/augmented_reality">Augmented Reality & Virtual Reality</a></li>
@@ -99,10 +99,10 @@
           </ul>
         </li>
          <li>
-          <label class="toggle DD5">Enterprise Applications </label>
+          <label class="toggle DD12">Enterprise Applications </label>
           <a href="#" class="Label">Works</a>
-          <input type="checkbox" id="drop-3"/>
-          <ul class="InnerDropdown onlysm DD55">
+          <input type="checkbox" id="drop-10"/>
+          <ul class="InnerDropdown onlysm DD1212">
             <li><a href="<?php echo base_url(); ?>enterpriseApplications/oracle">Oracle E-Business Suite</a></li>
             <li><a href="<?php echo base_url(); ?>enterpriseApplications/sap">SAP S / 4HANA</a></li>
             <li><a href="<?php echo base_url(); ?>enterpriseApplications/odoo">Odoo</a></li>

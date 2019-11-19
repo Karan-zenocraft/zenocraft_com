@@ -459,6 +459,18 @@ $(document).ready(function() {
         
 });
     
+    
+    
+    $(".HeaderNavigation .menu li .DD22 li").click(function() {
+        $('.HeaderNavigation, .HeaderNavigation .menu').slideUp('fast');
+        $('.HeaderNavigation .menu li .DD22').slideUp('fast');
+        $('.Header .HeaderInner .Menu').removeClass("change");
+        
+        
+       
+        
+    });
+    
     });
 //$(function () {
 //
