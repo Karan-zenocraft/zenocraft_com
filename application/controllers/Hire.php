@@ -1,6 +1,6 @@
 <?php
 
-class Careers extends MY_Controller
+class Hire extends MY_Controller
 {
     //$this->load->model('helloworld_model');
     //  $data['result'] = $this->helloworld_model->getData();
@@ -38,8 +38,8 @@ class Careers extends MY_Controller
         $config['next_tag_open'] = '<li>';
         $config['next_tag_close'] = '</li>';
 
-        $config["base_url"] = base_url() . "careers";
-        $hire_type = 1;
+        $config["base_url"] = base_url() . "hire";
+        $hire_type = 2;
         $config["total_rows"] = $this->CareersModel->get_count($hire_type);
         $config["per_page"] = 5;
         $config["uri_segment"] = 2;
@@ -52,7 +52,7 @@ class Careers extends MY_Controller
         $data['jobs'] = $this->CareersModel->getOpenings($config["per_page"], $page, $hire_type);
 
         /*$this->data['jobs'] = $this->CareersModel->getOpenings();*/
-        $this->load->view('careers/career', $data);
+        $this->load->view('hire-us/hire_us', $data);
     }
 
 }

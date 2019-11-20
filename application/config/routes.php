@@ -57,3 +57,4 @@ $route['ajax-form-validation'] = "AjaxFormValidation";
 $route['ajax-form-validation/post']['post'] = "AjaxFormValidation/validationForm";
 $route['contact-us/post']['post'] = "ContactUs/validationForm";
 $route['careers/(:num)'] = 'careers';
+$route['hire/(:num)'] = 'hire';
