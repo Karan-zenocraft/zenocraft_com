@@ -47,12 +47,18 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">SAP S / 4HANA</h2>
-                    <p class="TitleP">SAP S/4HANA is an intelligent, integrated ERP system that runs on our in-memory database.</p>
-                    <p class="TitleP">SAP S/4HANA is an entirely new generation of SAP Business Suite that is characterized by simplifications, massively increased efficiency, and compelling features such as planning and simulation options in many conventional transactions.</p>
-
-                <p class="TitleP">The team at Zenocraft has helped numerous clients across the globe by successfully executing this Enterprise Resource Planning system across day-to-day functionality including order-to-cash, procure-to-pay, plan-to-product, request-to-service, etc. We have led seamless integration of SAP Business Suite products such as SAP SRM, CRM and SCM.</p>
-
+                    <h2 class="TitleH2">CodeIgniter Development</h2>
+                    <p class="TitleP">CodeIgniter is an open source framework of PHP generally used to speed up the development as its key feature is ready-to-use library. Its light weight though powerful and durable. It contains a grab-bag of libraries, helpers, plug-ins and other resources that takes care of many of the more complex procedures and functions for which PHP is famous.</p>
+                    <p class="TitleP">Our experience with CodeIgniter spans over 6 years and since the time we started, we have acquired great proficiency with it. Our team of PHP developers have crafted and developed numerous success stories with CodeIgniter PHP framework, making us the perfect match for projects in this domain. Find out how Zenocraft can help you realize your projects with CodeIgniter.</p>
+                         <p class="TitleP">KEY FEATURES OF CODEIGNITER :</p>
+                  <ul>
+                        <li><b>MVC Architecture</b></li>
+                        <li><b>Simple and Easy</b></li>
+                        <li><b>Security</b></li>
+                        <li><b>Support</b></li>
+                        <li><b>SEO Benifit</b></li>
+                        <li><b>User Friendly Interface</b></li>
+                    </ul>
                 </div>
            <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
             <img src="<?php echo base_url(); ?>assets/images/sap.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="bottom:0;top:0;margin:auto;">

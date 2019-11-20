@@ -53,13 +53,24 @@
                 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Block-chain Technologies</h2>
+                    <h2 class="TitleH2">REACT NATIVE DEVELOPMENT</h2>
                    <p class="TitleP">
-                       An ingenious invention, a digital ledger, a booming and in-demand technology- Block-chain. In the most simplest words, a blockchain is a time-stamped series of rigid transaction data that is recorded and managed by a group of computers. The blockchain technology is a simple and efficient way of transporting information from one point to other.
+                       Brought to creation by Facebook, React Native is an open-source mobile application framework. It allows creators to leverage the synergy of React as well as native platform capabilities to develop applications for Android, iOS, Web and UWP.
                     </p>
                     <p class="TitleP">
-                       The team at Zenocraft addresses client requirements for blockchain globally. We offer blockchain consulting, as well as end-to-end blockchain solution including technology implementation, integration and support. Our expertise with adjacent technologies also enables us in enhancing the value driven out of the solution.
+                       The React Native team at Zenocraft hails with a concrete and proven experience of catering to numerous clients globally, and creating some of the most high quality and efficient mobile apps and marketplaces.
                     </p>
+                    <p class="TitleP">
+                    Over the period of time we have established a robust and time efficient process of React Native development that makes us the one-stop solution, ensuring unparalleled output, great cost-effectiveness and fast execution. Find out how the Zenocraft team can empower your ideas and give you the required mileage.
+                    </p>
+                    <p class="TitleP">REACT NATIVE SERVICES AT ZENOCRAFT :</p>
+                      <ul>
+                      <li><b>React Native Consulting</b></li>
+                      <li><b>React Native Development</b></li>
+                      <li><b>Migration to React Native</b></li>
+                      <li><b>React Native Support & Maintenance</b></li>
+                    </ul>
+
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">

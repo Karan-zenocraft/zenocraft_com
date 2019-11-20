@@ -47,11 +47,19 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Oracle Apex</h2>
-                 <p class="TitleP">Oracle Application Express, popularly known as Oracle Apex is a web-based software development platform that is powered by the Oracle Database. It is due to factors such as easy deployment, scalability, easy mock-up creations, etc. along with a strong user community, Oracle Apex is rapidly gaining popularity and is being utilized by developers, business and enterprises around the globe.</p>
-
-                 <p class="TitleP">Our team of experienced and passionate experts have successfully undertaken numerous projects and have developed complex web applications that are compatible even with the most modern web browsers.</p>
-
+                    <h2 class="TitleH2">Yii2 Development</h2>
+                 <p class="TitleP">Yii is an open source framework that has matured with time. It is PHP based and is utilized for creating large and complex web applications. This frame work is composed in PHP5 and uses a component based MVC (Model-View-Controller) design pattern. Along with features like built-in caching support. This makes Yii the ideal choice for a large spectrum of websites including e-commerce, forums, portals, as well as content management systems and RESTful based web services.</p>
+                 <p class="TitleP">Zenocraft is home to an enthusiastic team of Yii developers that are backed by extensive knowledge and experience of Yii custom development, integration, e-commerce and web applications development.</p>
+                  <p class="TitleP">This has enabled us in becoming one of the best service providers in this domain. With our team and their success with numerous Yii based projects, we provide immensely creative and efficient solutions through Yii PHP open source web development. Give it a try!</p>
+                  <p class="TitleP">KEY FEATURES OF YII FRAMEWORK :</p>
+                  <ul>
+                        <li><b>Highly Customizable :</b> This framework offers seamless customizations that can utilized to create exactly what the user needs.</li>
+                        <li><b>Easy Installation :</b> Installing the Yii framework is hassle free and saves valuable process time for better and faster results.</li>
+                        <li><b>Modern Tech :</b> Yii is an Object-Oriented framework which enables great compatibility with advanced features including SPL classes and interfaces, late static binding and anonymous functions.</li>
+                        <li><b>Faster Development :</b> With Yii, all the basic CRUD (Create, Read, Update and Delete) operations happen using gii tool, which means faster development and greater security.</li>
+                        <li><b>Effortless Migration :</b> The migration utility facilitated by Yii brings thorough control over the database transitions while changing versions across installations.</li>
+                        <li><b>Greater Security :</b> Yii brings great security to the table. With its security components, it increases security manifolds while offering some of the most advanced features for validating and authenticating passwords for users.</li>
+                    </ul>
                 </div>
                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
             <img src="<?php echo base_url(); ?>assets/images/oracle-apex.jpg" class="img-fluid CommanImg">

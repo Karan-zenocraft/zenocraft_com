@@ -53,14 +53,24 @@
                 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Augmented reality and Virtual Reality</h2>
+                    <h2 class="TitleH2">iOS Development</h2>
                    <p class="TitleP">
-                       In the prevalent competitive environment, it becomes an extreme necessity for brands to enhance customer experience. Virtual Reality and Augmented Reality are the incredible tools that have gained rapid popularity in the domain.
+                       IOS is a versatile framework brought into existence by Apple Inc. to work with their hardware. It powers numerous Apple devices and is utilised by a very large community, making iOS the largest following Android.
                     </p>
                     <p class="TitleP">
-                       Virtual Reality facilitates an incredible three dimensional, immersive experience, where as Augmented Reality brings a life-like experience to users. Zenocraft specializes in building versatile as well as innovative solutions that harness the power of AR and VR, empowering your brand to stand out from the rest, while building long-term brand recall.
+                       iOS is a versatile framework brought into existence by Apple Inc. to work with their hardware. It powers numerous Apple devices and is utilised by a very large community, making iOS the largest following Android.
                     </p>
-
+                    <p class="TitleP">
+                    iOS development team at Zenocraft has mastered the domain and has executed numerous projects with the iOS framework. We provide end-to-end services in iOS development to our clients and generate excellent results
+                  </p>
+                  <p class="TitleP">IOS SERVICES AT ZENOCRAFT:</p>
+                   <ul>
+                      <li><b>iOS Development</b></li>
+                      <li><b>iOS Software Development Kit</b></li>
+                      <li><b>Beta Testing</b></li>
+                      <li><b>Cloud Testing</b></li>
+                      <li><b>Deployment</b></li>
+                    </ul>
                 </div>
                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
            <img src="<?php echo base_url(); ?>assets/images/ar-and-vr.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:90%">

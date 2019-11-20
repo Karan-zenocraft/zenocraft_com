@@ -47,18 +47,16 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Laravel Development</h2>
-                    <p class="TitleP">Laravel is a powerful and easy to adapt framework. It is PHP based and can be utilized for developing web applications that are built on MVC architecture and design. It offers robust encryption packages and packs an array of unique functions.</p>
+                    <h2 class="TitleH2">CakePHP Development</h2>
+                    <p class="TitleP">Cake PHP enables web development with way less coding. It is based on core PHP and offers a versatile database access layer and a seamless scaffolding system that makes the process equally simple for both, simple as well as complex systems.</p>
 
-                <p class="TitleP">Our team comprises of extensive knowledge and experience with Laravel Development. We have facilitated many clients and their requirements by utilizing Laravel and the plethora of features it offers.</p>
-                <p class="TitleP">KEY FEATURES OF LARAVEL :</p>
+                <p class="TitleP">Similar to our expertise with different frameworks of PHP, we have garnered thorough expertise and knowledge with Cake PHP. Through our proven skills in different projects, we boast of great results in working with custom development, web application development, integration and e-commerce development. Talk to us if you want to leverage the power of CakePHP for your project.</p>
+                   <p class="TitleP">KEY FEATURES OF CAKEPHP :</p>
                   <ul>
-                        <li><b>Templates :</b> This framework is quite well known for the in-built templates it offers and the power to create awesome layouts through dynamic content seeding. It also provides widgets that incorporate CSS and JS coding.</li>
-                        <li><b>Artisan :</b> Artisan is an in-built feature of Laravel and offers the user numerous commands that assist the process of app development.</li>
-                        <li><b>Eloquent ORM :</b> This feature allows users work and create with their database objects and relationships using an eloquent syntax instead of writing SQL code. It is faster than all other PHP frameworks.</li>
-                        <li><b>Authentication :</b> Authentic is plays a key role in developing web applications and Laravel makes it very easy. All the user needs to do is configure database migration, controllers, models and views to get the system running.</li>
-                        <li><b>Effortless Migration :</b> The migration utility facilitated by Yii brings thorough control over the database transitions while changing versions across installations.</li>
-                        <li><b>Greater Security :</b> Yii brings great security to the table. With its security components, it increases security manifolds while offering some of the most advanced features for validating and authenticating passwords for users.</li>
+                        <li><b>MVC Pattern</b></li>
+                        <li><b>Plug-ins</b></li>
+                        <li><b>ORM</b></li>
+                        <li><b>CRUD SCAFFOLDING</b></li>
                     </ul>
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">

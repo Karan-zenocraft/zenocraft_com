@@ -51,14 +51,19 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Business Intelligence</h2>
+                    <h2 class="TitleH2">UI/UX Design</h2>
                    <p class="TitleP">
-                       Business Intelligence is the pool of strategies and technologies applied by any organization for collecting business information and analyzing the data for improving performance. When strategically applied, BI has the potential to provide detailed historical, current as well as predictive view of business operations.
+                       UI/UX design is all about the unforgettable user experience! When an aesthetic grace is blended with the ease of functionality, it creates a memorable experience for the users. UX design requires more technical and analytical skills. It involves a considerable measure of research to look into and optimize the client's experience.
                     </p>
-                    <p class="TitleP">
-                       Zenocraft specializes in building and implementing flawless business intelligence tools that include reporting, online analytical processing, data mining, performance management, predictive analysis and much more. The aim is simple, to amplify productivity and efficiency while improving overall profitability.
-                    </p>
-
+                    <p class="TitleP">UX/UI DESIGN SERVICES :</p>
+                    <ul>
+                        <li><b>UI Design :</b> Designing and constructing the mechanism for interaction between user and machine.</li>
+                        <li><b>UX Design :</b> Facilitating a remarkable and timeless experience for the user and the user’s concern at the center.</li>
+                        <li><b>Wireframing and Designing :</b> Designing a layout and constructing a pseudo visual experience to enable a first cut realization of the actual outcome</li>
+                        <li><b>Testing :</b> Testing the ergonomics and efficiency, with test plans and due focus on demonstration, to ensure efficiency at every level.</li>
+                        <li><b>Infographics :</b> Creating the right balance of information delivery through verbal as well as graphical representations with regard to the attention span of user.</li>
+                        <li><b>Infographics & Typography :</b> When it becomes strenuous to describe information its possible by describing through graphics. Typography is the art of alignment.</li>
+                    </ul>
                 </div>
               <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
             <img src="<?php echo base_url(); ?>assets/images/business-intelligence-new.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">

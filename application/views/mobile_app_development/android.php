@@ -53,13 +53,23 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Internet of Things</h2>
+                    <h2 class="TitleH2">ANDROID APP DEVELOPMENT</h2>
                    <p class="TitleP">
-                       Internet of Things is the one of the latest emerging technologies which connects independent processes. It is the concept of connecting different systems, devices, people, etc to the internet and other devices. It is a cluster that allows information and data sharing between different systems and facilitates increased functionality as well as efficiency in screening important data.
+                       Android users form one of the largest community across the globe. With pace of its rapid growth and the scope of its farfetched reach, major business try to communicate, engage and do business with prospects by utilizing the android framework.
                     </p>
                     <p class="TitleP">
-                       We at Zenocraft, approach IOT projects with a simple and well curated process that generates flawless results every single time. We identify the pain points, create road maps, set benchmarks and help transform the business process using IOT, creating a strategy driven balance between technology and business.
+                       Android users form one of the largest community across the globe. With pace of its rapid growth and the scope of its farfetched reach, major business try to communicate, engage and do business with prospects by utilizing the android framework.
                     </p>
+                    <p class="TitleP">Almost everyone owns an Android device and the team at Zenocraft is all game in helping develop applications and providing other services that are based on the android framework</p>
+                    <p class="TitleP">ANDROID SERVICES AT ZENOCRAFT :</p>
+                    <ul>
+                      <li><b>Custom Android App Development</b></li>
+                      <li><b>Android SDK (Software Development Kit)</b></li>
+                      <li><b>Android UI/UX Design</b></li>
+                      <li><b>Android App Integration</b></li>
+                      <li><b>Android App Support and Maintenance</b></li>
+                      <li><b>Android App Testing</b></li>
+                    </ul>
 
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">

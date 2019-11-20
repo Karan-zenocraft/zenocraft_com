@@ -26,5 +26,9 @@ class Php extends MY_Controller
     {
         $this->load->view('php/wordpress');
     }
+    public function cakephp()
+    {
+        $this->load->view('php/cakephp');
+    }
 
 }

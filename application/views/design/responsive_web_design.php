@@ -51,13 +51,19 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">SAP Cloud Analytics</h2>
+                    <h2 class="TitleH2">RESPONSIVE WEB DESIGN</h2>
                    <p class="TitleP">
-                      SAP Analytics Cloud is a SaaS (Software as a Service) business intelligence platform created by SAP to provide enhanced analytical capabilities to its users. This tool empowers data analysts and decision makers in assessing, visualizing, planning and making better predictions from a secure cloud-based ecosystem.
+                      The responsiveness of a website relates to its ability to optimize itself and adapt to any device it is being reached through, like mobiles, tablets and desktop screens. It’s reflects of its ability to optimize images, content and functionality that adjusts to both screen sizes and resolutions, thus keeping the effectiveness of the website consistent.
                     </p>
                     <p class="TitleP">
-                       Zenocraft helps you in integrating and implementing SAP Analytics Cloud services in financial planning, marketing sales     and much more. We provide our clients with end-to-end services from building to support, and enable them in experiencing the future of detailed insights and decision making.
+                       By leveraging our cumulative experience and knowledge in working with latest web-development technologies such as HTML5 and CSS3, we help transform a website into a responsive website. Our approach towards websites is value driven, with efficiency and cost effectiveness at the center. We offer complete customization of your responsive website and ensure an enhanced and sublime experience for your website visitors.
                     </p>
+                    <p class="TitleP">RESPONSIVE DESIGN SERVICES :</p>
+                     <ul>
+                        <li><b>Responsive Web Design :</b> Zenocraft professional web designers team helps you to design your web applications compatible with all devices.</li>
+                        <li><b>Responsive Web Development :</b>Zenocraft provides robust and speedy responsive services for your web applications.</li>
+                        <li><b>Convert your site into Responsive one :</b> You can hire us for converting your web application to responsive web application.</li>
+                    </ul>
 
                 </div>
                     <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">

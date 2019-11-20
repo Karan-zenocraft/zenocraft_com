@@ -51,13 +51,16 @@
 </style>
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Data Quality Management</h2>
+                    <h2 class="TitleH2">Logo Design</h2>
                    <p class="TitleP">
-                       Data Quality Management, one of most important business functions, is the process of maintaining superior quality data, starting from data acquisition to analysis and advanced data processing for better distribution. It is an imperative process that in-turn ensures consistent data analysis and dependable results.
+                       The evolutionary trend of logos started in the early 1870s. Since then, logos have been used to personify organizations and their values. The importance of creating striking and prominent logos have gained tremendous mainstream attention. These unique and thoughtfully created graphical representations help build brand value, recall and association.
                     </p>
                     <p class="TitleP">
-                       We at Zenocraft, provide our clients with a host of data quality management services including data quality analysis, standardization, cleansing, de-duplication and enrichment. Our holistic process facilitates accurate decision making, quality insights, improved stability as well as cost-efficiency.
+                       When we take up a logo designing project, we work in and around our key parameters to ensure that the outcome exceeds expectations while staying true to these fundamental parameters.
                     </p>
+                     <p class="TitleP">
+                    The creative team at Zenocraft has successfully produced logos for numerous companies, and with the passage of time, it has come to become our forte. The creative team empowered by the skills of our designing team bring together some of the most unique and out of the box ideas for creating logos that not only help construct brand value, but moreover a legacy that resonates of the organizational values through a combination of abstract art, calligraphy, colors, etc.
+                     </p>
 
                 </div>
                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">

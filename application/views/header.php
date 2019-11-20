@@ -28,9 +28,10 @@
           <input type="checkbox" id="drop-3"/>
           <ul class="InnerDropdown onlysm DD55">
             <li><a href="<?php echo base_url(); ?>php/yii">Yii2</a></li>
+            <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
             <li><a href="<?php echo base_url(); ?>php/Wordpress">Wordpress</a></li>
             <li><a href="<?php echo base_url(); ?>php/codeigniter">Codeigniter</a></li>
-            <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
+            <li><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
           </ul>
         </li>
           <li>
@@ -118,9 +119,10 @@
           <input type="checkbox" id="drop-11"/>
           <ul>
            <li><a href="<?php echo base_url(); ?>php/yii">Yii2</a></li>
+            <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
             <li><a href="<?php echo base_url(); ?>php/Wordpress">Wordpress</a></li>
             <li><a href="<?php echo base_url(); ?>php/codeigniter">Codeigniter</a></li>
-            <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
+            <li><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
           </ul>
         </li>
             <li>
@@ -228,12 +230,13 @@
                                 <ul class="InnerMenu InnerMenu2 InnerMenu3 Onlylg">
                                     <div class="Row">
                                     <div class="col-md-3 p-0">
-                                    <label>PHP Development</label>
+                                    <label>CakePHP Development</label>
 
            <li><a href="<?php echo base_url(); ?>php/yii">Yii2</a></li>
+            <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
             <li><a href="<?php echo base_url(); ?>php/Wordpress">Wordpress</a></li>
             <li><a href="<?php echo base_url(); ?>php/codeigniter">Codeigniter</a></li>
-            <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
+            <li><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
 
                                         </div>
 

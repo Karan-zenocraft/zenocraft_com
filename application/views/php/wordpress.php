@@ -43,11 +43,20 @@
             <div class="row">
                 <div class="col-md-8 WhyZenosysContent">
 
-                    <h2 class="TitleH2">Odoo </h2>
-                 <p class="TitleP">Oddo is a one-stop business software solution that includes a host of diverse services such as CRM, e-commerce websites, manufacturing, accounting, billing as well as project and warehouse management. The latest version of Oddo provides the user with a subscription based proprietary enterprise software and cloud-hosted software, as a service. </p>
-
-                 <p class="TitleP">The specialized team at Zenocraft has worked with Odoo and its features for a range of projects and has made the most of the benefits provided by the system such as extensible architecture, field services, eLearning as well as payroll and recruitment solutions.</p>
-
+                    <h2 class="TitleH2">Wordpress Development</h2>
+                 <p class="TitleP">Wordpress is a popular and widely utilized open source Content Management System that provides seamless customization. Created based on PHP and CSS, it can be used to create Blogs, Websites, Online Stores, Forums and much more, using interesting themes and plug-ins. It maximizes on user-friendliness and offers a simplified admin panel for easy back-end operations.</p>
+                 <p class="TitleP">With an enthusiastic team of WordPress Developers under the same roof, we offer the complete array of services with WordPress. We have created tailored-to-fit solutions for a wide range of businesses as well as individuals. Find out how our expertise and experience with the domain can empower your ideas.</p>
+                 <p class="TitleP">WORDPRESS SERVICES AT ZENOCRAFT :</p>
+                  <ul>
+                        <li><b>WordPress Theme Creation</b></li>
+                        <li><b>WordPress Blog Development</b></li>
+                        <li><b>PSD to WordPress</b></li>
+                        <li><b>WordPress E-commerce</b></li>
+                        <li><b>Woo-commerce shopping cart</b></li>
+                        <li><b>WordPress Plug-in development and customization</b></li>
+                        <li><b>WordPress Widget development and customization</b></li>
+                        <li><b>Maintaining WordPress Websites</b></li>
+                    </ul>
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
                     <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:75%;">
