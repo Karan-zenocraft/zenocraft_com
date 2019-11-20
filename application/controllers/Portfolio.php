@@ -11,7 +11,7 @@ class Portfolio extends MY_Controller
 
     public function index()
     {
-        $this->load->view('portfolios/php');
+        $this->load->view('portfolios/portfolio');
     }
 
 }

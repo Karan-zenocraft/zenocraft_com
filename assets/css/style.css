@@ -920,7 +920,7 @@ body{padding-right: 0px!important;}
 .TabbingNav{background-color: #f1f5f8;padding: 10px 0px;margin-bottom: 20px!important;box-shadow: 3px 8px 3px -7px #c9cacc;}
 .TabbingNav .TabbingLi{margin-bottom: 0px!important;padding-left: 0px!important}
 .TabbingNav .TabbingLi:after{content: unset!important;}
-.TabbingNav .TabbingLi .TabbingA {padding: 10px 40px;text-transform: uppercase;font-family: 'Arial';font-weight: normal;font-size: 14px;color: #888787;letter-spacing: 1.7px;line-height: 20px;border-right: 1px solid #a5a5a538;}
+.TabbingNav .TabbingLi .TabbingA {padding: 10px 21px;text-transform: uppercase;font-family: 'Arial';font-weight: normal;font-size: 14px;color: #888787;letter-spacing: 1.7px;line-height: 20px;border-right: 1px solid #a5a5a538;}
 .TabbingNav .TabbingLi .TabbingA:hover{color:#58ABB7;transition: 0.3s all}
 .TabbingNav .active .TabbingA{color:#58ABB7;transition: 0.3s all;font-weight: bold;}
 .Tabbing .CustomeRow{margin-top: 40px;padding-bottom: 40px;display: flex;align-items: center;justify-content: flex-start;border-bottom:2px solid #a5a5a538;}

@@ -461,8 +461,6 @@ $(document).ready(function() {
     
     
     
-    
-    if ($(window).width() < 1199) {
     $(".HeaderNavigation .menu li .DD22 li").click(function() {
         $('.HeaderNavigation, .HeaderNavigation .menu').slideUp('fast');
         $('.HeaderNavigation .menu li .DD22').slideUp('fast');
@@ -472,10 +470,6 @@ $(document).ready(function() {
        
         
     });
-        
-        }else {
-            
-            }
     
     });
 //$(function () {
