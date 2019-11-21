@@ -1127,3 +1127,14 @@ nav ul li {
     transform: scale(1.0);
     filter: grayscale(0);}
 .AwardSection .AwardsImgBox img:hover{transition: 0.8s all;opacity: 1;transform: scale(1.1);filter: grayscale(0);}*/
+
+
+.WhyZenosys .keyfeatures{
+    padding-top: 0px !important;
+}
+
+.WhyZenosys .keyFeaturesContent.col-md-8 p:last-child{margin: 0;}
+.WhyZenosys .keyFeaturesContent.col-md-8{padding-bottom: 15px;}
+.WhyZenosys .keyfeatures p{margin-bottom: 0;}
+.WhyZenosys .keyFeaturesContentul{padding-top: 15px}
+.keyfeatures .TitleP{font-weight: bold!important}

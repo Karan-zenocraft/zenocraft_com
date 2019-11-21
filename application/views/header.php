@@ -230,7 +230,7 @@
                                 <ul class="InnerMenu InnerMenu2 InnerMenu3 Onlylg">
                                     <div class="Row">
                                     <div class="col-md-3 p-0">
-                                    <label>CakePHP Development</label>
+                                    <label>PHP Development</label>
 
            <li><a href="<?php echo base_url(); ?>php/yii">Yii2</a></li>
             <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
@@ -355,8 +355,8 @@
                                 <a class="a arrow">Engagement Models</a>
                                 <input type="checkbox" id="drop-19" />
                                 <ul class="InnerMenu InnerMenu2 DD33">
+                                    <li><a href="<?php echo base_url(); ?>hire">Hire Resources</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/onshore">On-site Delivery Model</a></li>
-                                    <li><a href="<?php echo base_url(); ?>models/bot">BOT Model Turnkey Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/offshore">Offshore Model</a></li>
                                     <li><a href="<?php echo base_url(); ?>models/hybrid">Hybrid Model</a></li>
                                 </ul>
