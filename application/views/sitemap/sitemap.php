@@ -293,7 +293,8 @@
                     <ul>
 
                        <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
-                        <li><a href="<?php echo base_url(); ?>products/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolio#reactnative">REACT NATIVE</a></li>
+                                    
 
                     </ul>
 
@@ -311,8 +312,8 @@
 
                     <ul>
 
-                        <li><a href="<?php echo base_url(); ?>products/polyglot_dbmonitor">Polyglot DBMonitor</a></li>
-                        <li><a href="<?php echo base_url(); ?>products/warehouse_controller">Warehouse Controller</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolio#logodesign">LOGO DESIGN</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolio#webdesign">WEB DESIGN</a></li>
 
                     </ul>
 
@@ -357,7 +358,7 @@
 
                     <ul>
 
-                        <li><a href="<?php echo base_url(); ?>models/bot">BOT Model Turnkey Model</a></li>
+                        <li><a href="<?php echo base_url(); ?>hire">Hire Resources</a></li>
 
                     </ul>
 
@@ -464,6 +465,65 @@
                     <ul>
 
                         <li><a href="<?php echo base_url(); ?>industries/manufacuringindustries">Manufacturing Industry</a></li>
+
+                    </ul>
+
+                </div>
+
+
+            </div>
+            
+            
+            
+            <div class="row TitleRow customePadding">
+
+                <div class="d-flex">
+                    <div class="arrow-right"></div>
+                    <label class="label">Our Services </label>
+
+                </div>
+
+            </div>
+            <div class="row MainRow">
+
+
+                <div class="col-md-3">
+
+                    <ul>
+
+                        <li><a href="<?php echo base_url() ?>OurServices/application_services">Application_Services </a></li>
+                        
+                    </ul>
+
+
+
+
+
+
+                </div>
+
+
+                <div class="col-md-3">
+
+                    <ul>
+
+                       <li> <a href="<?php echo base_url() ?>OurServices/infrastructure_services">Infrastructure Services</a></li>
+                    </ul>
+
+
+
+
+                </div>
+
+                
+
+
+                <div class="col-md-3">
+
+
+                    <ul>
+
+                        <li><a href="<?php echo base_url() ?>OurServices/professional_services">Professional Services</a></li>
 
                     </ul>
 

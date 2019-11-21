@@ -351,6 +351,7 @@
                                     <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#reactnative">REACT NATIVE</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#logodesign">LOGO DESIGN</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#webdesign">WEB DESIGN</a></li>
                                 </ul>
                             </li>
                             <li>
