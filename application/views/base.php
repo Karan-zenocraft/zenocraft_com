@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/responsive.css">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css">
-    <link rel="icon" href="<?php echo base_url(); ?>assets/images/logo.png" type="image/png" sizes="64x64">
+    <link rel="icon" href="<?php echo base_url(); ?>assets/images/fav_icon.png" type="image/png" sizes="64x64">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.slick/1.4.1/slick.css">
 

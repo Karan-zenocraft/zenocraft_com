@@ -248,7 +248,7 @@
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/android">Android Development</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/react_native">React Native</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/phonegap">Phonegap</a></li>
-
+            <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
 
                                         </div>
 
@@ -259,7 +259,9 @@
                                     <li><a href="<?php echo base_url(); ?>applicationDevelopment/custom_application_development">Custom Application Development</a></li>
                                     <li><a href="<?php echo base_url(); ?>applicationDevelopment/application_integration">Application Integration</a></li>
                                     <li><a href="<?php echo base_url(); ?>applicationDevelopment/legacy_application_transfromation">Legacy Application Transformation</a></li>
-
+                                        <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
+                                        <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
+                                        
 
                                         </div>
 
@@ -273,7 +275,8 @@
                                   <li><a href="<?php echo base_url(); ?>emergingTechnologies/internet_of_things">Internet Of Things</a></li>
                                   <li><a href="<?php echo base_url(); ?>emergingTechnologies/block_chain_technologies">Block-Chain Technologies</a></li>
                                   <li><a href="<?php echo base_url(); ?>emergingTechnologies/augmented_reality">Augmented Reality & Virtual Reality</a></li>
-
+                                        <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
+                                        <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
 
                                         </div>
                                         </div>
@@ -346,6 +349,8 @@
                                     <li><a href="<?php echo base_url(); ?>portfolio#java">JAVA</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#asp">ASP.NET</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#reactnative">REACT NATIVE</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#logodesign">LOGO DESIGN</a></li>
                                 </ul>
                             </li>
                             <li>

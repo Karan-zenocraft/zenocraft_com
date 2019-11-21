@@ -61,10 +61,10 @@
                 <div class="col-md-3 CustomeColumn">
 
                     <ul>
-                        <label>Quality Engineering</label>
-                        <li><a href="<?php echo base_url(); ?>qualityEngineering/functional_engineering">Functional Engineering</a></li>
-                        <li><a href="<?php echo base_url(); ?>qualityEngineering/automation">Automation</a></li>
-                        <li><a href="<?php echo base_url(); ?>qualityEngineering/performance_engineering">Performance Engineering</a></li>
+                        <label>Design & Creative Arts</label>
+                        <li><a href="<?php echo base_url(); ?>design/logo_design">Logo Design</a></li>
+            <li><a href="<?php echo base_url(); ?>design/ui_ux"> UI/UX Design</a></li>
+            <li><a href="<?php echo base_url(); ?>design/responsive_web_design">Responsive Web Design</a></li>
 
                     </ul>
 
@@ -162,25 +162,25 @@
 
             <div class="row MainRow Small Small2">
 
-
-                <div class="col-md-3 CustomeColumn">
-
+<div class="col-md-3 CustomeColumn">
 
 
 
                     <ul>
-                        <label>Cognitive Technologies</label>
-                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/machine_learning">Machine Learning</a></li>
-                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/data_science"> Data Science</a></li>
-                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/deep_learning">Deep Learning Technologies</a></li>
-                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/artificial_intelligence">Artificial Intelligence</a></li>
-                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/predective_analytics">Predictive Analytics</a></li>
+                        <label>PHP Development</label>
+                       <li><a href="<?php echo base_url(); ?>php/yii">Yii2</a></li>
+            <li><a href="<?php echo base_url(); ?>php/laravel">Laravel</a></li>
+            <li><a href="<?php echo base_url(); ?>php/Wordpress">Wordpress</a></li>
+            <li><a href="<?php echo base_url(); ?>php/codeigniter">Codeigniter</a></li>
+            <li><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
+                                            
+                <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
+<!--                        <li><a href="/zenosys_net/staffingServices/hybrid_model">Hybrid Model</a></li>-->
 
                     </ul>
 
-
-
                 </div>
+                
 
 
                 <div class="col-md-3 CustomeColumn">
@@ -207,10 +207,11 @@
 
 
                     <ul>
-                        <label>Advance Analytics &amp; Big Data</label>
-                        <li><a href="<?php echo base_url(); ?>bigData/businessintelligence">Business Intelligence</a></li>
-                        <li><a href="<?php echo base_url(); ?>bigData/sapcloud">SAP Cloud Analytics</a></li>
-                        <li><a href="<?php echo base_url(); ?>bigData/dataquality">Data Quality Management</a></li>
+                        <label>Mobile App Development</label>
+                       <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/ios">IOS Development</a></li>
+            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/android">Android Development</a></li>
+            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/react_native">React Native</a></li>
+            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/phonegap">Phonegap</a></li>
 
                     </ul>
 
@@ -219,23 +220,25 @@
 
                 </div>
 
+<div class="col-md-3 CustomeColumn">
 
-                <div class="col-md-3 CustomeColumn">
 
 
 
                     <ul>
-                        <label>Staffing Services</label>
-                       <li><a href="<?php echo base_url(); ?>staffingServices/msp">MSP (Manage Staffing Provider)</a></li>
-                    <li><a href="<?php echo base_url(); ?>staffingServices/contingent_staffing">Contingent Staffing</a></li>
-                <li><a href="<?php echo base_url(); ?>staffingServices/recruitment_process">Recruitment Process Outsourcing</a></li>
-                                            
-                <li><a href="<?php echo base_url(); ?>staffingServices/project_staffing">Project Staffing Services</a></li>
-<!--                        <li><a href="/zenosys_net/staffingServices/hybrid_model">Hybrid Model</a></li>-->
+                        <label>Cognitive Technologies</label>
+                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/machine_learning">Machine Learning</a></li>
+                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/data_science"> Data Science</a></li>
+                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/deep_learning">Deep Learning Technologies</a></li>
+                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/artificial_intelligence">Artificial Intelligence</a></li>
+                        <li><a href="<?php echo base_url(); ?>cognitiveTechnologies/predective_analytics">Predictive Analytics</a></li>
 
                     </ul>
 
+
+
                 </div>
+                
 
 
             </div>
@@ -256,10 +259,9 @@
                 <div class="col-md-3">
 
                     <ul>
-
-                        <li><a href="<?php echo base_url(); ?>portfolios/php">PHP</a></li>
-                        <li><a href="<?php echo base_url(); ?>portfolios/ios">IOS</a></li>
-
+                        <li><a href="<?php echo base_url(); ?>portfolio#php">PHP</a></li>
+                        <li><a href="<?php echo base_url(); ?>portfolio#ios">IOS</a></li>
+                        
                     </ul>
 
 
@@ -274,8 +276,10 @@
 
                     <ul>
 
-                        <li><a href="<?php echo base_url(); ?>portfolios/java">JAVA</a></li>
-                        <li><a href="<?php echo base_url(); ?>portfolios/asp_net">ASP.NET</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#java">JAVA</a></li>
+                                    <li><a href="<?php echo base_url(); ?>portfolio#asp">ASP.NET</a></li>
+                                    
+                        
 
                     </ul>
 
@@ -288,7 +292,7 @@
 
                     <ul>
 
-                        <li><a href="<?php echo base_url(); ?>portfolios/android">ANDROID</a></li>
+                       <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
                         <li><a href="<?php echo base_url(); ?>products/jakaru_postgres_bdr">Jakaru Postgres BDR</a></li>
 
                     </ul>
