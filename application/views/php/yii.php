@@ -1,4 +1,8 @@
-
+<style type="text/css">
+.WhyZenosys .WhyZenosysContent ul li {
+min-height: 60px;
+}
+</style>
 
 
         <div class="container">
@@ -65,7 +69,7 @@
                   <p class="TitleP">This has enabled us in becoming one of the best service providers in this domain. With our team and their success with numerous Yii based projects, we provide immensely creative and efficient solutions through Yii PHP open source web development. Give it a try!</p>
                 </div>
                 <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/oracle-apex.jpg" class="img-fluid CommanImg">
+            <img src="<?php echo base_url(); ?>assets/images/yii2.png" class="img-fluid CommanImg" style="top:60px;margin: auto;bottom: 0;">
         </div>
             </div>
             <div class="row CustomeRows">

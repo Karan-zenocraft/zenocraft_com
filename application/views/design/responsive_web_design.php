@@ -68,7 +68,7 @@
 
                 </div>
                     <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/sap-cloud-new.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:85%;left:0;right:0;right:0;margin:auto;">
+            <img src="<?php echo base_url(); ?>assets/images/responsive_1.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:85%;left:0;right:0;right:0;margin:auto;">
         </div>
             </div>
         </div>

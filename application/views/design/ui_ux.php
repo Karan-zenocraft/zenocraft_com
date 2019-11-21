@@ -58,7 +58,7 @@
                     </p>
                 </div>
               <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/business-intelligence-new.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
+            <img src="<?php echo base_url(); ?>assets/images/uiuxgraphic.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
         </div>
 
            </div>
