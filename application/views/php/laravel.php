@@ -1,3 +1,8 @@
+<style type="text/css">
+.WhyZenosys .WhyZenosysContent ul li {
+min-height: 60px;
+}
+</style>
         <div class="container">
               <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                 <div>
@@ -62,7 +67,7 @@
                 <p class="TitleP">Our team comprises of extensive knowledge and experience with Laravel Development. We have facilitated many clients and their requirements by utilizing Laravel and the plethora of features it offers.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/oracle-business-suite.png" class="img-fluid CommanImg">
+            <img src="<?php echo base_url(); ?>assets/images/laravel1.png" class="img-fluid CommanImg">
         </div>
 
              </div>
