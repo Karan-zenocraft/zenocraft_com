@@ -61,7 +61,7 @@
                     <p class="TitleP">Our experience with CodeIgniter spans over 6 years and since the time we started, we have acquired great proficiency with it. Our team of PHP developers have crafted and developed numerous success stories with CodeIgniter PHP framework, making us the perfect match for projects in this domain. Find out how Zenocraft can help you realize your projects with CodeIgniter.</p>
                 </div>
            <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/codeigniter.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="bottom:0;top:0;margin:auto;transform: scale(1.1);">
+            <img src="<?php echo base_url(); ?>assets/images/codeigniter.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="bottom:0;top:172px;margin:auto;transform: scale(1.1);">
         </div>
                  </div>
             <div class="row CustomeRows">

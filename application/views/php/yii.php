@@ -3,8 +3,6 @@
 min-height: 60px;
 }
 </style>
-
-
         <div class="container">
       <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                         <div>

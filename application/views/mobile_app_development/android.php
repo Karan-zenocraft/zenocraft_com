@@ -60,7 +60,7 @@
 
                 </div>
        <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/internet-of-things.png" class="img-fluid CommanImg GovernmentImg fullwidth Retail Telecommunication" style="max-width:60%;left:0;right:0;margin:auto;top:0;bottom:0">
+           <img src="<?php echo base_url(); ?>assets/images/android.gif" class="img-fluid CommanImg GovernmentImg fullwidth Retail Telecommunication" style="max-width:122%;left:0;right:0;margin:auto;top:23px;bottom:0">
        </div>
            </div>
             <div class="row CustomeRows">

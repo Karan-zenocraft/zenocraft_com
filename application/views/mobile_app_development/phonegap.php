@@ -58,7 +58,7 @@
                     </p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/block-chain.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:75%;right:0px;left:0;bottom:0;top:0;margin:auto;">
+           <img src="<?php echo base_url(); ?>assets/images/phonegap-img.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:100%;right:0px;left:0;bottom:0;top:154px;margin:auto;">
                </div>
             </div>
             <div class="row CustomeRows">
