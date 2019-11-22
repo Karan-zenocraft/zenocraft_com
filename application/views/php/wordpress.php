@@ -57,7 +57,7 @@
                  <p class="TitleP">With an enthusiastic team of WordPress Developers under the same roof, we offer the complete array of services with WordPress. We have created tailored-to-fit solutions for a wide range of businesses as well as individuals. Find out how our expertise and experience with the domain can empower your ideas.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent">
-                    <img src="<?php echo base_url(); ?>assets/images/wordpress.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:75%;">
+                    <img src="<?php echo base_url(); ?>assets/images/wordpressimg.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication">
                  </div>
            </div>
             <div class="row CustomeRows">
