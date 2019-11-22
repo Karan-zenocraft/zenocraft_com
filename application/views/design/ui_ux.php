@@ -8,6 +8,9 @@
     justify-content: center;}
     .slick-slide {width: 276px!important;}
     }
+    .WhyZenosys .keyFeaturesContentul ul li{
+    line-height: 25px;
+    }
 
 </style>        <div class="container">
                      <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
@@ -72,13 +75,13 @@
                   <ul>
                       <li><b>UI Design :</b> Designing and constructing the mechanism for interaction between user and machine.</li>
                         <li><b>UX Design :</b> Facilitating a remarkable and timeless experience for the user and the user’s concern at the center.</li>
-                        <li><b>Wireframing and Designing :</b> Designing a layout and constructing a pseudo visual experience to enable a first cut realization of the actual outcome</li>
+                        <li><b>Infographics :</b> Creating the right balance of information delivery through verbal as well as graphical representations with regard to the attention span of user.</li>
                     </ul>
                 </div>
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                     <ul>
                        <li><b>Testing :</b> Testing the ergonomics and efficiency, with test plans and due focus on demonstration, to ensure efficiency at every level.</li>
-                        <li><b>Infographics :</b> Creating the right balance of information delivery through verbal as well as graphical representations with regard to the attention span of user.</li>
+                         <li><b>Wireframing and Designing :</b> Designing a layout and constructing a pseudo visual experience to enable a first cut realization of the actual outcome</li>
                         <li><b>Infographics & Typography :</b> When it becomes strenuous to describe information its possible by describing through graphics. Typography is the art of alignment.</li>
                     </ul>
                 </div>
