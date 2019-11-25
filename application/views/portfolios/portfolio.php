@@ -1,66 +1,4 @@
         <div class="container">
-<!--
-              <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-
-                <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/ALWAYS-AHEAD---SUPPLY-CHAIN-icon.png" alt="" class="img-fluid">
-                    <h6 class="TitleH6">ALWAYS AHEAD - SUPPLY CHAIN</h6>
-                    <p>The power of Machine Learning for improving performance and minimizing risks</p>
-
-                </div></div>
-                <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/CHURNPREDICT---K-FACTOR-con.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">CHURNPREDICT - K FACTOR</h6>
-                    <p>Versatile solution for better understanding your customers</p>
-                </div></div>
-                <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/MYVIEW---SECURITY-icon.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">MYVIEW - SECURITY</h6>
-                    <p>A cloud based solution for smart security and monitoring needs</p>
-
-                </div></div>
-                <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/VRDRIVE-WALKTHROUGH-icon.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">VRDRIVE WALKTHROUGH</h6>
-                    <p>Web based visualizations for translating ideas</p>
-
-                </div></div>
-                        <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/DEGREE360-HRMS-icon.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">DEGREE360 HRMS</h6>
-                    <p>A smart and unique cloud-based system for Human Resource Management</p>
-
-                </div></div>
-                        <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/JAKARU-POSTGRES-BDR-icon.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">JAKARU POSTGRES BDR</h6>
-                    <p>A highly efficient bi-directional replication system dedicated towards Postgres Databases</p>
-
-                </div></div>
-                        <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/POLYGLOT-DBMONITOR-icon.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">POLYGLOT DBMONITOR</h6>
-                    <p>A unique mechanism for managing database technologies</p>
-
-                </div></div>
-                        <div><div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/WAREHOUSE-CONTROLLER-icon.png" alt="" class="img-fluid">
-
-                    <h6 class="TitleH6">WAREHOUSE CONTROLLER</h6>
-                    <p>A customized warehouse management system for a hassle-free experience</p>
-
-                </div></div>
-
-            </div>
--->
-
-
                     <div class="row CustomeRows">
 <style>
 
@@ -76,8 +14,8 @@
     <ul class="nav TabbingNav">
    <li class="active TabbingLi"><a class="TabbingA" data-toggle="tab"  href="#all"><i class="fa fa-eye"></i> Show All </a></li>
    <li class="TabbingLi"><a data-toggle="tab"  href="#php" id="li_php" class="TabbingA">PHP</a></li>
-   <li class="TabbingLi"><a data-toggle="tab" href="#asp" id="li_asp" class="TabbingA">ASP.NET</a></li>
-   <li class="TabbingLi"><a data-toggle="tab" href="#java" id="li_java" class="TabbingA">JAVA</a></li>
+  <!--  <li class="TabbingLi"><a data-toggle="tab" href="#asp" id="li_asp" class="TabbingA">ASP.NET</a></li> -->
+  <!--  <li class="TabbingLi"><a data-toggle="tab" href="#java" id="li_java" class="TabbingA">JAVA</a></li> -->
    <li class="TabbingLi"><a data-toggle="tab" href="#ios" id="li_ios" class="TabbingA">IOS</a></li>
    <li class="TabbingLi"><a data-toggle="tab" href="#android" id="li_android" class="TabbingA">ANDROID</a></li>
    <li class="TabbingLi"><a data-toggle="tab" href="#reactnative" id="li_ios" class="TabbingA">React Native</a></li>
@@ -142,14 +80,6 @@
             </div>
         </div>
         </div>
-
-
-<!--
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
--->
-
       </div>
     </div>
   </div>
@@ -1307,12 +1237,12 @@
                         </div>
                     </div>
 
-                    <div id="java" class="tab-pane fade">
+                    <!-- <div id="java" class="tab-pane fade">
                      <div class="CustomeRow">
                         <div class="col-md-4" data-toggle="modal" data-target="#Fourr">
 
                     <div class="PortfolioBox">
-                   <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
+                   <img src="<?php // echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
 
@@ -1323,7 +1253,6 @@
     <div class="modal-dialog modal-dialog-centered">
       <div class="modal-content">
 
-        <!-- Modal Header -->
         <div class="modal-header">
 
           <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
@@ -1359,24 +1288,19 @@
         </div>
 
 
-<!--
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
--->
 
       </div>
     </div>
   </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div id="asp" class="tab-pane fade">
+                  <!--   <div id="asp" class="tab-pane fade">
                    <div class="CustomeRow">
                        <div class="col-md-4" data-toggle="modal" data-target="#Fivee">
 
                     <div class="PortfolioBox">
-                   <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
+                   <img src="<?php //echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
                     <i class="fa fa-eye"></i>
                     </div>
 
@@ -1387,8 +1311,6 @@
                        <div class="modal fade" id="Fivee">
     <div class="modal-dialog modal-dialog-centered">
       <div class="modal-content">
-
-        <!-- Modal Header -->
         <div class="modal-header">
 
           <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
@@ -1422,14 +1344,6 @@
             </div>
         </div>
         </div>
-
-
-<!--
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
--->
-
       </div>
     </div>
   </div>
@@ -1447,7 +1361,6 @@
     <div class="modal-dialog modal-dialog-centered">
       <div class="modal-content">
 
-        <!-- Modal Header -->
         <div class="modal-header">
 
           <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
@@ -1481,20 +1394,12 @@
             </div>
         </div>
         </div>
-
-
-<!--
-        <div class="modal-footer">
-          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        </div>
--->
-
       </div>
     </div>
   </div>
                         </div>
 
-                    </div>
+                    </div> -->
 
                     <div id="android" class="tab-pane fade">
                         <div class="CustomeRow">

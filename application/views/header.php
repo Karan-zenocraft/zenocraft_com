@@ -261,7 +261,7 @@
                                     <li><a href="<?php echo base_url(); ?>applicationDevelopment/legacy_application_transfromation">Legacy Application Transformation</a></li>
                                         <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
                                         <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
-                                        
+
 
                                         </div>
 
@@ -346,8 +346,6 @@
                                 <ul class="InnerMenu InnerMenu2 DD22">
                                     <li><a href="<?php echo base_url(); ?>portfolio#php">PHP</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#ios">IOS</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#java">JAVA</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#asp">ASP.NET</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#reactnative">REACT NATIVE</a></li>
                                     <li><a href="<?php echo base_url(); ?>portfolio#logodesign">LOGO DESIGN</a></li>
