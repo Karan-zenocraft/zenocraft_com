@@ -2,7 +2,7 @@
            <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                    <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/odoo.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/cakeicon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Cakephp</h6>
                     <p>The subscription based software for all your operational needs</p>
@@ -11,7 +11,7 @@
                 </div>
                         <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/oracle-apex.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/yii2icon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Yii2</h6>
                     <p>A smart software building platform for everyone</p>
@@ -20,7 +20,7 @@
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/oracle.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/laravelicon.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Laravel</h6>
                     <p>Seamless integration of tool for great performance</p>
 
@@ -29,7 +29,7 @@
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
 
-                    <img src="<?php echo base_url(); ?>assets/images/SAP-s4-hana.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/wordpressicon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Wordpress</h6>
                     <p>The uber ERP system for enhanced productivity</p>
@@ -37,7 +37,7 @@
                 </div>
                 <div>
                     <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/odoo.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/codeignitericon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Codeigniter</h6>
                     <p>The subscription based software for all your operational needs</p>

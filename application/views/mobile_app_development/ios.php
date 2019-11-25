@@ -1,45 +1,45 @@
 
 <div class="container">
-              <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
-               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                     <img src="<?php echo base_url(); ?>assets/images/vr.png" alt="" class="img-fluid">
+               <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+              <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/iosicon.png" alt="" class="img-fluid">
 
-                     <h6 class="TitleH6">IOS</h6>
-                     <p>The power to create incredible experiences</p>
+                    <h6 class="TitleH6">IOS</h6>
+                    <p>The power to create incredible experiences</p>
 
-                 </div>
-             </div>
-             <div>
-                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                     <img src="<?php echo base_url(); ?>assets/images/internet-of-things-icon.png" alt="" class="img-fluid">
-                     <h6 class="TitleH6">Android</h6>
-                     <p>Leverage IOT and empower your business operations</p>
+                </div>
+            </div>
+            <div>
+                <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/androidicon.png" alt="" class="img-fluid">
+                    <h6 class="TitleH6">Android</h6>
+                    <p>Leverage IOT and empower your business operations</p>
 
-                 </div></div>
-               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                     <img src="<?php echo base_url(); ?>assets/images/block-chain-icon.png" alt="" class="img-fluid">
+                </div></div>
+              <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/reactnativeicon.png" alt="" class="img-fluid">
 
-                     <h6 class="TitleH6">React Native</h6>
-                     <p>A digital ledger for superior efficiency and transparency</p>
-                 </div></div>
-                      <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                     <img src="<?php echo base_url(); ?>assets/images/block-chain-icon.png" alt="" class="img-fluid">
+                    <h6 class="TitleH6">React Native</h6>
+                    <p>A digital ledger for superior efficiency and transparency</p>
+                </div></div>
+                     <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/phonegapicon.png" alt="" class="img-fluid">
 
-                     <h6 class="TitleH6">Phonegap</h6>
-                     <p>A digital ledger for superior efficiency and transparency</p>
-                 </div></div>
+                    <h6 class="TitleH6">Phonegap</h6>
+                    <p>A digital ledger for superior efficiency and transparency</p>
+                </div></div>
 
-            <!--      <div class="col-md-3 WhyZenosysInnerBox">
-                     <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
+           <!--      <div class="col-md-3 WhyZenosysInnerBox">
+                    <img src="<?php echo base_url(); ?>assets/images/icon4.png" alt="" class="img-fluid">
 
-                     <h6 class="TitleH6">INNOVATION</h6>
-                     <p>Scalia is future-proof best-of-breed
-                         premium theme with unlimited styling
-                         customization options</p>
+                    <h6 class="TitleH6">INNOVATION</h6>
+                    <p>Scalia is future-proof best-of-breed
+                        premium theme with unlimited styling
+                        customization options</p>
 
-                 </div> -->
+                </div> -->
 
-             </div>
+            </div>
 
 
                <div class="row CustomeRows">
@@ -61,7 +61,7 @@
                   </p>
                 </div>
                <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/ar-and-vr.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:90%">
+           <img src="<?php echo base_url(); ?>assets/images/iosimg.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:100%;transform:scale(1.2);">
                </div>
             </div>
             <div class="row CustomeRows">

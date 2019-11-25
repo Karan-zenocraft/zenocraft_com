@@ -1,21 +1,21 @@
 
 <div class="container">
-             <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
+  <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/block-chain-icon.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/reactnativeicon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">React Native</h6>
                     <p>A digital ledger for superior efficiency and transparency</p>
                 </div></div>
             <div>
                 <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/internet-of-things-icon.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/androidicon.png" alt="" class="img-fluid">
                     <h6 class="TitleH6">Android</h6>
                     <p>Leverage IOT and empower your business operations</p>
 
                 </div></div>
               <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/vr.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/iosicon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">IOS</h6>
                     <p>The power to create incredible experiences</p>
@@ -23,7 +23,7 @@
                 </div>
             </div>
                      <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/block-chain-icon.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/phonegapicon.png" alt="" class="img-fluid">
 
                     <h6 class="TitleH6">Phonegap</h6>
                     <p>A digital ledger for superior efficiency and transparency</p>
@@ -61,7 +61,7 @@
                     </p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/block-chain.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:75%;right:0px;left:0;bottom:0;top:0;margin:auto;">
+           <img src="<?php echo base_url(); ?>assets/images/reactneativeimg.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:75%;right:0px;left:0;bottom:0;top:0;margin:auto;transform: scale(1.5);">
                </div>
               </div>
             <div class="row CustomeRows">
