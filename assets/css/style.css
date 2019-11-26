@@ -976,7 +976,7 @@ body{padding-right: 0px!important;}
 .Tabbing .CustomeRow .PortfolioBox:hover:before{
     width: 88.5%;
     }
-.Tabbing .CustomeRow .PortfolioBox{position: relative;overflow: hidden;border-radius: 10px;}
+.Tabbing .CustomeRow .PortfolioBox{position: relative;overflow: hidden;border-radius: 10px;width: 340px;height: 271px;}
 .Tabbing .CustomeRow .PortfolioBox:after{content: '';background-color: rgba(0, 0, 0, 0.10);position: absolute;left: 0;top: 0;height: 100%;width: 100%;border-radius: 10px;transition: 0.8s all;}
 
 .Tabbing .CustomeRow .PortfolioBox:hover:after{background-color: rgba(0, 0, 0, 0.70);}

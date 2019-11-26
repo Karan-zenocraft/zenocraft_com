@@ -2,9 +2,9 @@
 <div class="container">
           <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
                      <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/phonegapicon.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/fluttericon.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">Phonegap</h6>
+                    <h6 class="TitleH6">Flutter</h6>
                     <p>A digital ledger for superior efficiency and transparency</p>
                 </div></div>
             <div>
@@ -49,7 +49,7 @@
                 </style>
                 <div class="col-md-8 WhyZenosysContent keyFeaturesContent">
 
-                    <h2 class="TitleH2">PHONEGAP DEVELOPMENT</h2>
+                    <h2 class="TitleH2">Flutter DEVELOPMENT</h2>
                    <p class="TitleP">
                        Created by Nitobi, PhoneGap is a mobile app development framework. It bridges the gap between app development frameworks such as Android, iOS and Windows, while enabling hybrid app development using JS, CSS and HTML. iOS. It enables developers to build hybrid mobile applications created with HTML, CSS and Javascript.
                     </p>

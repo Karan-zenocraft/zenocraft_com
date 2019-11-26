@@ -42,7 +42,7 @@
              <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/ios">IOS Development</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/android">Android Development</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/react_native">React Native</a></li>
-            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/phonegap">Phonegap</a></li>
+            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/flutter">Flutter</a></li>
           </ul>
         </li>
           <li>
@@ -135,7 +135,7 @@
              <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/ios">IOS Development</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/android">Android Development</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/react_native">React Native</a></li>
-            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/phonegap">Phonegap</a></li>
+            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/flutter">Flutter</a></li>
           </ul>
         </li>
             <li>
@@ -247,7 +247,7 @@
                                    <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/ios">IOS Development</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/android">Android Development</a></li>
             <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/react_native">React Native</a></li>
-            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/phonegap">Phonegap</a></li>
+            <li><a href="<?php echo base_url(); ?>mobileAppDevelopment/flutter">Flutter</a></li>
             <li style="visibility:hidden"><a href="<?php echo base_url(); ?>php/cakephp">Cakephp</a></li>
 
                                         </div>

@@ -18,9 +18,9 @@ class MobileAppDevelopment extends MY_Controller
     {
         $this->load->view('mobile_app_development/android');
     }
-    public function phonegap()
+    public function flutter()
     {
-        $this->load->view('mobile_app_development/phonegap');
+        $this->load->view('mobile_app_development/flutter');
     }
     public function react_native()
     {

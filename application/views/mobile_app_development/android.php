@@ -23,9 +23,9 @@
                     <p>A digital ledger for superior efficiency and transparency</p>
                 </div></div>
                      <div>  <div class="slide-content col-md-12 WhyZenosysInnerBox">
-                    <img src="<?php echo base_url(); ?>assets/images/phonegapicon.png" alt="" class="img-fluid">
+                    <img src="<?php echo base_url(); ?>assets/images/fluttericon.png" alt="" class="img-fluid">
 
-                    <h6 class="TitleH6">Phonegap</h6>
+                    <h6 class="TitleH6">Flutter</h6>
                     <p>A digital ledger for superior efficiency and transparency</p>
                 </div></div>
 
