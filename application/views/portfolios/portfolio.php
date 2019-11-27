@@ -12,9 +12,10 @@
                 <!--  <li class="TabbingLi"><a data-toggle="tab" href="#java" id="li_java" class="TabbingA">JAVA</a></li> -->
                 <li class="TabbingLi"><a data-toggle="tab" href="#ios" id="li_ios" class="TabbingA">IOS</a></li>
                 <li class="TabbingLi"><a data-toggle="tab" href="#android" id="li_android" class="TabbingA">ANDROID</a></li>
-                <li class="TabbingLi"><a data-toggle="tab" href="#reactnative" id="li_ios" class="TabbingA">React Native</a></li>
-                <li class="TabbingLi"><a data-toggle="tab" href="#logodesign" id="li_ios" class="TabbingA">Logo Design</a></li>
-                <li class="TabbingLi"><a data-toggle="tab" href="#webdesign" id="li_ios" class="TabbingA">Web Design</a></li>
+                <li class="TabbingLi"><a data-toggle="tab" href="#reactnative" id="li_react" class="TabbingA">React Native</a></li>
+                   <li class="TabbingLi"><a data-toggle="tab" href="#flutter" id="li_flutter" class="TabbingA">Flutter</a></li>
+                <li class="TabbingLi"><a data-toggle="tab" href="#logodesign" id="li_logo" class="TabbingA">Logo Design</a></li>
+                <li class="TabbingLi"><a data-toggle="tab" href="#webdesign" id="li_webdesign" class="TabbingA">Web Design</a></li>
             </ul>
             <div class="tab-content clearfix">
                 <div id="all" class="tab-pane active">
@@ -658,6 +659,178 @@
                             </div>
                         </div>
                      </div>
+                     <div class="CustomeRow">
+                                  <div class="col-md-4" data-toggle="modal" data-target="#sixteen">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/chater.jpg" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#sixteen" class="Title">  Chater </a>
+                        </div>
+                        <div class="modal fade" id="sixteen">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <img src="<?php echo base_url(); ?>assets/images/chater.jpg" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Chater</h2>
+                                                    <p>Car Wash Application</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Skill : IOS</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Chater</h2>
+                                                    <p>Chater is a great app for people who love to socialize. It allows users to create a profile using pictures and details, while also giving links to their social media platforms. The user can then browse through different profiles and give a thumbs up to the people they find interesting and start chatting.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
+                                   <div class="col-md-4" data-toggle="modal" data-target="#seventeen">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/car-wash.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#seventeen" class="Title">  Car Wash </a>
+                        </div>
+                        <div class="modal fade" id="seventeen">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <img src="<?php echo base_url(); ?>assets/images/car-wash.png" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Car Wash</h2>
+                                                    <p>Car Wash Application</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Skill : React Native</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Car Wash</h2>
+                                                    <p>Wash my Car is a unique application that lets user book car washes. It allows the user to submit information such as type of car, location, preferred timings, etc. and browse and select from different subscriptions as well as one-time car washing services, right at their doorstep.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
+                          <div class="col-md-4" data-toggle="modal" data-target="#eighteen">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#eighteen" class="Title"> Cinema Beyond Entertainment </a>
+                        </div>
+                        <div class="modal fade" id="eighteen">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Cinema Beyond Entertainment</h2>
+                                                    <p>Cinema Beyond Entertainment Application</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Skill : Flutter</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Cinema Beyond Entertainment</h2>
+                                                    <p>Cinema Beyond Entertainment is app for everyone who loves movies and shows. This app provides with a summary and reviews about different new and old TV programs as well as movies, and keeps the user updated.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
+                     </div>
+                     <div class="CustomeRow">
+                            <div class="col-md-4" data-toggle="modal" data-target="#ninteen">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#ninteen" class="Title"> Beyond Time </a>
+                        </div>
+                        <div class="modal fade" id="ninteen">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Beyond Time</h2>
+                                                    <p>Beyond Time Application</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Skill : Web Design</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Beyond Time</h2>
+                                                    <p>Beyond Time is a brilliant app for people who are very passionate about watches. The app curates different watch brands and gives the user numerous options to choose from. It also allows the user to select and purchase watches from the app and get them delivered to their doorstep.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
+                     </div>
                 </div>
                 <!--                    php start-->
                 <div id="php" class="tab-pane fade">
@@ -1101,6 +1274,49 @@
                                 </div>
                             </div>
                         </div>
+
+                                  <div class="col-md-4" data-toggle="modal" data-target="#chater">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/chater.jpg" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#chater" class="Title">  Chater </a>
+                        </div>
+                        <div class="modal fade" id="chater">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <img src="<?php echo base_url(); ?>assets/images/chater.jpg" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Chater</h2>
+                                                    <p>Dating Application</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Skill : IOS</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Chater</h2>
+                                                    <p>Chater is a great app for people who love to socialize. It allows users to create a profile using pictures and details, while also giving links to their social media platforms. The user can then browse through different profiles and give a thumbs up to the people they find interesting and start chatting.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!-- <div id="java" class="tab-pane fade">
@@ -1317,14 +1533,14 @@
                 </div>
                 <div id="reactnative" class="tab-pane fade">
                     <div class="CustomeRow">
-                        <div class="col-md-4" data-toggle="modal" data-target="#Twoo">
+                           <div class="col-md-4" data-toggle="modal" data-target="#react">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/car-wash.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a class="Title" data-toggle="modal" data-target="#Twoo"> Better Man </a>
+                            <a data-toggle="modal" data-target="#react" class="Title">  Car Wash </a>
                         </div>
-                        <div class="modal fade" id="Twoo">
+                        <div class="modal fade" id="react">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1334,21 +1550,19 @@
                                     <div class="modal-body">
                                         <div class="row">
                                             <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
+                                                <img src="<?php echo base_url(); ?>assets/images/car-wash.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
-                                                    <h2>Better Man</h2>
-                                                    <p>Technological site for gadgets</p>
+                                                    <h2>Car Wash</h2>
+                                                    <p>Dating Application</p>
                                                     <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Category : No Catefgory found</li>
-                                                        <li>Industry : Automotive</li>
-                                                        <li>Skill : HTML</li>
+                                                        <li>Skill : React Native</li>
                                                     </ul>
                                                 </div>
                                                 <div class="SecTwo">
-                                                    <h2>About Better Man</h2>
-                                                    <p>Better Man is a versatile mobile app created dedicatedly for men. The app allows the user to choose from numerous, thoughtfully curated brands offering apparel and grooming products just for men.</p>
+                                                    <h2>About Car Wash</h2>
+                                                    <p>Wash my Car is a unique application that lets user book car washes. It allows the user to submit information such as type of car, location, preferred timings, etc. and browse and select from different subscriptions as well as one-time car washing services, right at their doorstep.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1361,14 +1575,18 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4" data-toggle="modal" data-target="#Threee">
+                    </div>
+                </div>
+                <div id="flutter" class="tab-pane fade">
+                    <div class="CustomeRow">
+                   <div class="col-md-4" data-toggle="modal" data-target="#fluter">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a class="Title" data-toggle="modal" data-target="#Threee"> Clix </a>
+                            <a data-toggle="modal" data-target="#fluter" class="Title"> Cinema Beyond Entertainment </a>
                         </div>
-                        <div class="modal fade" id="Threee">
+                        <div class="modal fade" id="fluter">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1378,19 +1596,19 @@
                                     <div class="modal-body">
                                         <div class="row">
                                             <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
+                                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
                                             </div>
                                             <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
-                                                    <h2>Clix</h2>
-                                                    <p>Technological site for gadgets</p>
+                                                    <h2>Cinema Beyond Entertainment</h2>
+                                                    <p>Cinema Beyond Entertainment Application</p>
                                                     <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Skill : Android</li>
+                                                        <li>Skill : Flutter</li>
                                                     </ul>
                                                 </div>
                                                 <div class="SecTwo">
-                                                    <h2>About Clix</h2>
-                                                    <p>CLIX is a unique app for people of all ages who have love for photography. CLIX is a social platform where users can upload pictures and create their feed while also following other photographs uploaded by other people. Moreover, the app also lets the user click and edit pictures using fun presets.</p>
+                                                    <h2>About Cinema Beyond Entertainment</h2>
+                                                    <p>Cinema Beyond Entertainment is app for everyone who loves movies and shows. This app provides with a summary and reviews about different new and old TV programs as well as movies, and keeps the user updated.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1569,6 +1787,48 @@
                                                 <div class="SecTwo">
                                                     <h2>About FAC North America</h2>
                                                     <p>FAC is a rapid goods delivering company and this unique apps lets the user deliver goods across North America within a day and keep a track of their package in real time. It also allows the users to chat with the support team for assistance and records their order history for all time access.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
+                                   <div class="col-md-4" data-toggle="modal" data-target="#beyond">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#beyond" class="Title"> Beyond Time </a>
+                        </div>
+                        <div class="modal fade" id="beyond">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-8">
+                                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Beyond Time</h2>
+                                                    <p>Beyond Time Application</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Skill : Web Design</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Beyond Time</h2>
+                                                    <p>Beyond Time is a brilliant app for people who are very passionate about watches. The app curates different watch brands and gives the user numerous options to choose from. It also allows the user to select and purchase watches from the app and get them delivered to their doorstep.</p>
                                                 </div>
                                             </div>
                                         </div>
