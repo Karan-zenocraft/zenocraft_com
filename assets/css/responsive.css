@@ -125,7 +125,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .OurExpertise .CustomeRow{padding: 0px 0px}
     
     .WhyZenosys{padding: 0px 0px;}
-    .TabbingNav .TabbingLi .TabbingA{padding: 10px 30px;font-size: 12px;}
+    .TabbingNav .TabbingLi .TabbingA{padding: 10px 20px;font-size: 12px;}
     .TabbingNav{padding: 5px 0px;}
     .Tabbing .Title{font-size: 14px;}
     .Tabbing .CustomeRow{margin-top: 30px;padding-bottom: 30px;}
@@ -145,6 +145,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
 
 
 @media only screen and (max-width: 1199px){
+    .Tabbing .CustomeRow .PortfolioBox{max-height: 222px;width: 100%;}
 .Header{box-shadow: 0 1px 6px rgba(57,73,76,0.35);padding-bottom: 10px;}
  /*--------------------------mobileMenu---------------------------------------*/   
 .Header .HeaderInner .Menu {display: inline-block;cursor: pointer;margin-left: auto;margin-top: 5px;margin-right: 0;}
@@ -314,11 +315,27 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .Tabbing .CustomeRow{margin-top: 30px;padding-bottom: 30px;}
      .WhyZenosys .Tabbing .modal ul li{font-size: 14px;}
     .WhyZenosys .Tabbing h2{font-size: 15px;}
+    .Tabbing .CustomeRow .PortfolioBox{max-height: 222px;width: 100%;}
+    
+    .TabbingNav{flex-direction: column}
+    .TabbingNav .TabbingLi .TabbingA{border-right: 0px solid #a5a5a538;display: block;}
+    .Tabbing .CustomeRow .col-md-4{padding: 0;}
+    .col-md-4.d-flex.align-items-start.justify-content-start.flex-column{padding: 0px 15px;}
+    .Tabbing .Title{font-size: 14px;}
 }
 
 
 
 @media (min-width: 768px) and (max-width: 991px){
+    
+.TabbingNav{flex-direction: column}
+    .TabbingNav .TabbingLi .TabbingA{border-right: 0px solid #a5a5a538;}
+    .Tabbing .CustomeRow .col-md-4{padding: 0;}
+    .col-md-4.d-flex.align-items-start.justify-content-start.flex-column{padding: 0px 15px;}
+    .Tabbing .Title{font-size: 14px;}
+    
+    
+.Tabbing .CustomeRow .PortfolioBox{width: unset;height: unset;max-height: 160px; }    
 .Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px;}    
 h1, .TitleH1{font-size: 16px;line-height: 20px;}
 p, .TitleP{font-size: 13px;line-height: 18px;}
@@ -416,7 +433,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
 
 
 .WhyZenosys{padding: 0px 0px;}
-    .TabbingNav .TabbingLi .TabbingA{padding: 10px 25px;font-size: 12px;}
+    .TabbingNav .TabbingLi .TabbingA{padding: 10px 25px;font-size: 12px;display: block;}
     .TabbingNav{padding: 5px 0px;}
     .Tabbing .Title{font-size: 14px;}
     .Tabbing .CustomeRow{margin-top: 30px;padding-bottom: 30px;}
@@ -656,4 +673,13 @@ footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
     
     .Hirebtn{display: block;margin: auto;text-align: center;}
     
+
+
+
+
+    .Tabbing .CustomeRow .PortfolioBox{width: 100%;
+    height: auto;
+    max-height: 410px;}
+
+
 }
