@@ -315,7 +315,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .Tabbing .CustomeRow{margin-top: 30px;padding-bottom: 30px;}
      .WhyZenosys .Tabbing .modal ul li{font-size: 14px;}
     .WhyZenosys .Tabbing h2{font-size: 15px;}
-    .Tabbing .CustomeRow .PortfolioBox{max-height: 222px;width: 100%;}
+    .Tabbing .CustomeRow .PortfolioBox{max-height: 222px;width: 90%;}
     
     .TabbingNav{flex-direction: column}
     .TabbingNav .TabbingLi .TabbingA{border-right: 0px solid #a5a5a538;display: block;}

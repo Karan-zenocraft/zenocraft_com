@@ -1,3 +1,7 @@
+
+
+
+
 <div class="container">
     <div class="row CustomeRows">
         <style>
@@ -407,7 +411,17 @@
                             </div>
                         </div>
                     </div>
-                    <div class="CustomeRow">
+                    
+                    
+                    <div class="row LoadMoreRow" id="mybtn1">
+                    <a onclick="myFunction1()"  class="Hirebtn LoadMore">Load More</a>
+                    
+                    
+                    </div>
+                    
+                    
+                    <div id="myDIV1">
+                    <div class="CustomeRow" >
                         <div class="col-md-4" data-toggle="modal" data-target="#Ten">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
@@ -750,8 +764,67 @@
                                 </div>
                             </div>
                         </div>
+                         
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#Eightt">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a class="Title" data-toggle="modal" data-target="#Eightt">   Morbel Project  </a>
+                        </div>
+                        <div class="modal fade" id="Eightt">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-7">
+                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Morbel Project</h2>
+                                                    <p>Technological site for gadgets</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Category : No Catefgory found</li>
+                                                        <li>Industry : Automotive</li>
+                                                        <li>Skill : HTML</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Morbel Project</h2>
+                                                    <p>Mobel is a cool app for people who thrive on good content. The app allows user to upload pictures and content to their own profile, while also allowing them to follow other profiles, engage, save what they like and share on different platforms. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
                           
                      </div>
+                        
+                        <div class="row LoadMoreRow" id="mybtn2">
+                    <a onclick="myFunction2()"  class="Hirebtn LoadMore">Load More</a>
+                    
+                    
+                    </div>
+                        </div> 
+                    
+                    
+                    
+                    <div id="myDIV2">
+                    
                      <div class="CustomeRow">
                             
                          
@@ -1029,6 +1102,18 @@
                               
                              
                     </div>
+                        
+                        
+                        <div class="row LoadMoreRow" id="mybtn3">
+                    <a onclick="myFunction3()"  class="Hirebtn LoadMore">Load More</a>
+                    
+                    
+                    </div>
+                        </div> 
+                    
+                    
+                    <div id="myDIV3">
+                        
                     <div class="CustomeRow">
                         
                         
@@ -1197,8 +1282,8 @@
                     
                     
                     </div>
-                         
-                         
+                    </div> 
+                      
                          
                 </div>
                          
@@ -1482,7 +1567,7 @@
 
                     </div>
                 </div>
-                <!--                    ios start-->
+                <!--                     start-->
                 <div id="ios" class="tab-pane fade">
                     <div class="CustomeRow">
                         <div class="col-md-4" data-toggle="modal" data-target="#Onee">
@@ -1569,14 +1654,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4" data-toggle="modal" data-target="#Eightt">
+                        <div class="col-md-4" data-toggle="modal" data-target="#Eightttt">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a class="Title" data-toggle="modal" data-target="#Eightt">   Morbel Project  </a>
+                            <a class="Title" data-toggle="modal" data-target="#Eightttt">   Morbel Project  </a>
                         </div>
-                        <div class="modal fade" id="Eightt">
+                        <div class="modal fade" id="Eightttt">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1586,7 +1671,7 @@
                                     <div class="modal-body">
                                         <div class="row">
                                             <div class="col-md-7">
-                                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
+                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
                                             </div>
                                             <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">

@@ -1143,6 +1143,8 @@ nav ul li {
 .AwardSection .AwardsImgBox img:hover{transition: 0.8s all;opacity: 1;transform: scale(1.1);filter: grayscale(0);}*/
 
 
+
+
 .WhyZenosys .keyfeatures{
     padding-top: 0px !important;
 }
@@ -1152,3 +1154,9 @@ nav ul li {
 .WhyZenosys .keyfeatures p{margin-bottom: 0;}
 .WhyZenosys .keyFeaturesContentul{padding-top: 15px}
 .keyfeatures .TitleP{font-weight: bold!important}
+
+
+#myDIV1, #myDIV2, #myDIV3 {display: none;}
+.Hirebtn.LoadMore{width: unset;color: #fff!important;margin: auto;text-align: center;transition: 0.3s all;font-weight: bold;cursor: pointer}
+.Hirebtn.LoadMore:hover{color: #174477!important;transition: 0.3s all;}
+.LoadMoreRow{margin: 40px auto!important;}
