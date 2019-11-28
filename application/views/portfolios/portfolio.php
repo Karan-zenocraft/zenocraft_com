@@ -12,9 +12,9 @@
                 <!--  <li class="TabbingLi"><a data-toggle="tab" href="#java" id="li_java" class="TabbingA">JAVA</a></li> -->
                 <li class="TabbingLi"><a data-toggle="tab" href="#ios" id="li_ios" class="TabbingA">IOS</a></li>
                 <li class="TabbingLi"><a data-toggle="tab" href="#android" id="li_android" class="TabbingA">ANDROID</a></li>
-                <li class="TabbingLi"><a data-toggle="tab" href="#reactnative" id="li_react" class="TabbingA">React Native</a></li>
+                <li class="TabbingLi"><a data-toggle="tab" href="#reactnative" id="li_reactnative" class="TabbingA">React Native</a></li>
                    <li class="TabbingLi"><a data-toggle="tab" href="#flutter" id="li_flutter" class="TabbingA">Flutter</a></li>
-                <li class="TabbingLi"><a data-toggle="tab" href="#logodesign" id="li_logo" class="TabbingA">Logo Design</a></li>
+                <li class="TabbingLi"><a data-toggle="tab" href="#logodesign" id="li_logodesign" class="TabbingA">Logo Design</a></li>
                 <li class="TabbingLi"><a data-toggle="tab" href="#webdesign" id="li_webdesign" class="TabbingA">Web Design</a></li>
             </ul>
             <div class="tab-content clearfix">
@@ -37,10 +37,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/one.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>All Spice</h2>
                                                     <p>Food Ordering Application</p>
@@ -75,10 +75,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Better Man</h2>
                                                     <p>For Better Man</p>
@@ -118,10 +118,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Clix</h2>
                                                     <p>Technological site for gadgets</p>
@@ -162,10 +162,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>T R Construction</h2>
                                                     <p>Technological site for gadgets</p>
@@ -204,10 +204,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>FAC North America</h2>
                                                     <p>Technological site for gadgets</p>
@@ -246,10 +246,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/six.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Orange Box</h2>
                                                     <p>Technological site for gadgets</p>
@@ -274,14 +274,16 @@
                         </div>
                     </div>
                     <div class="CustomeRow">
-                        <div class="col-md-4" data-toggle="modal" data-target="#Seven">
+                        
+                        
+                        <div class="col-md-4" data-toggle="modal" data-target="#ninteen">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/seven.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a data-toggle="modal" data-target="#Seven" class="Title">  Construire Ensuite  </a>
+                            <a data-toggle="modal" data-target="#ninteen" class="Title"> Beyond Time </a>
                         </div>
-                        <div class="modal fade" id="Seven">
+                        <div class="modal fade" id="ninteen">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -290,20 +292,20 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/seven.jpg" alt="" class="img-fluid">
+                                            <div class="col-md-7">
+                                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
-                                                    <h2>Construire Ensuite</h2>
-                                                    <p>Technological site for gadgets</p>
+                                                    <h2>Beyond Time</h2>
+                                                    <p>Beyond Time Application</p>
                                                     <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Skill : HTML</li>
+                                                        <li>Skill : Web Design</li>
                                                     </ul>
                                                 </div>
                                                 <div class="SecTwo">
-                                                    <h2>About Construire Ensuite</h2>
-                                                    <p>No Content Found.</p>
+                                                    <h2>About Beyond Time</h2>
+                                                    <p>Beyond Time is a brilliant app for people who are very passionate about watches. The app curates different watch brands and gives the user numerous options to choose from. It also allows the user to select and purchase watches from the app and get them delivered to their doorstep.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -316,48 +318,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4" data-toggle="modal" data-target="#Eight">
-                            <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/eight.jpg" alt="" class="img-fluid">
-                                <i class="fa fa-eye"></i>
-                            </div>
-                            <a data-toggle="modal" data-target="#Eight" class="Title">   Morbel Project  </a>
-                        </div>
-                        <div class="modal fade" id="Eight">
-                            <div class="modal-dialog modal-dialog-centered">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/eight.jpg" alt="" class="img-fluid">
-                                            </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
-                                                <div class="SecOne">
-                                                    <h2>Morbel Project</h2>
-                                                    <p>Technological site for gadgets</p>
-                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Skill : IOS</li>
-                                                    </ul>
-                                                </div>
-                                                <div class="SecTwo">
-                                                    <h2>About Morbel Project</h2>
-                                                    <p>Mobel is a cool app for people who thrive on good content. The app allows user to upload pictures and content to their own profile, while also allowing them to follow other profiles, engage, save what they like and share on different platforms. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    </div>
-                                    -->
-                                </div>
-                            </div>
-                        </div>
+                        
+                        
                         <div class="col-md-4" data-toggle="modal" data-target="#Nine">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/nine.jpg" alt="" class="img-fluid">
@@ -374,10 +336,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/nine.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Musicious</h2>
                                                     <p>Technological site for gadgets</p>
@@ -388,6 +350,50 @@
                                                 <div class="SecTwo">
                                                     <h2>About Musicious</h2>
                                                     <p>Musicious is a fun app for music lovers. This app lets the user play music stored on their smart phone or tablet, and offers different color themes, equalizer settings and presets to choose from. Moreover, it also allows the user to trim the songs they like and set them as ringtones. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    </div>
+                                    -->
+                                </div>
+                            </div>
+                        </div>
+                        
+                        
+                        <div class="col-md-4" data-toggle="modal" data-target="#eighteen">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#eighteen" class="Title"> Cinema Beyond Entertainment </a>
+                        </div>
+                        <div class="modal fade" id="eighteen">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-7">
+                                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
+                                                <div class="SecOne">
+                                                    <h2>Cinema Beyond Entertainment</h2>
+                                                    <p>Cinema Beyond Entertainment Application</p>
+                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
+                                                        <li>Skill : Flutter</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="SecTwo">
+                                                    <h2>About Cinema Beyond Entertainment</h2>
+                                                    <p>Cinema Beyond Entertainment is app for everyone who loves movies and shows. This app provides with a summary and reviews about different new and old TV programs as well as movies, and keeps the user updated.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -418,10 +424,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Chiefs RS </h2>
                                                     <p>Technological site for gadgets</p>
@@ -460,10 +466,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/eleven.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Get Go  </h2>
                                                     <p>Traveller Application</p>
@@ -502,10 +508,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/explore-asia.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Explore Asia</h2>
                                                     <p>Aisa Trip Application</p>
@@ -546,10 +552,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/bridge.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>B4P.et</h2>
                                                     <p>Technological site for gadgets</p>
@@ -590,10 +596,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/chrisbook.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Children's Book</h2>
                                                     <p>Children's Book Website</p>
@@ -632,10 +638,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/eatout.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Eat Out</h2>
                                                     <p>Eat Out Application</p>
@@ -676,10 +682,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/chater.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Chater</h2>
                                                     <p>Car Wash Application</p>
@@ -718,10 +724,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/car-wash.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Car Wash</h2>
                                                     <p>Car Wash Application</p>
@@ -744,58 +750,22 @@
                                 </div>
                             </div>
                         </div>
-                          <div class="col-md-4" data-toggle="modal" data-target="#eighteen">
-                            <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
-                                <i class="fa fa-eye"></i>
-                            </div>
-                            <a data-toggle="modal" data-target="#eighteen" class="Title"> Cinema Beyond Entertainment </a>
-                        </div>
-                        <div class="modal fade" id="eighteen">
-                            <div class="modal-dialog modal-dialog-centered">
-                                <div class="modal-content">
-                                    <!-- Modal Header -->
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
-                                            </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
-                                                <div class="SecOne">
-                                                    <h2>Cinema Beyond Entertainment</h2>
-                                                    <p>Cinema Beyond Entertainment Application</p>
-                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Skill : Flutter</li>
-                                                    </ul>
-                                                </div>
-                                                <div class="SecTwo">
-                                                    <h2>About Cinema Beyond Entertainment</h2>
-                                                    <p>Cinema Beyond Entertainment is app for everyone who loves movies and shows. This app provides with a summary and reviews about different new and old TV programs as well as movies, and keeps the user updated.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    </div>
-                                    -->
-                                </div>
-                            </div>
-                        </div>
+                          
                      </div>
                      <div class="CustomeRow">
-                            <div class="col-md-4" data-toggle="modal" data-target="#ninteen">
+                            
+                         
+                         
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#twenty">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a data-toggle="modal" data-target="#ninteen" class="Title"> Beyond Time </a>
+                            <a data-toggle="modal" data-target="#twenty" class="Title">  Clix </a>
                         </div>
-                        <div class="modal fade" id="ninteen">
+                        <div class="modal fade" id="twenty">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -804,22 +774,388 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                         
+                         
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#twentyone">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyone" class="Title">  Orangebox </a>
+                        </div>
+                        <div class="modal fade" id="twentyone">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#thirteenone">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#thirteenone" class="Title">  explore asia </a>
+                        </div>
+                        <div class="modal fade" id="thirteenone">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                     Modal Header 
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                          </div>
+                         <div class="CustomeRow">
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#twentytwo">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentytwo" class="Title">  Eatout </a>
+                        </div>
+                        <div class="modal fade" id="twentytwo">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                         
+                         
+                             
+                             
+                             
+                             
+                             <div class="col-md-4" data-toggle="modal" data-target="#twentythree">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentythree" class="Title">  Ohayo </a>
+                        </div>
+                        <div class="modal fade" id="twentythree">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentyfour">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyfour" class="Title">  Discover places </a>
+                        </div>
+                        <div class="modal fade" id="twentyfour">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                    </div>
+                    <div class="CustomeRow">
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentyfive">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyfive" class="Title">  Word arc </a>
+                        </div>
+                        <div class="modal fade" id="twentyfive">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentysix">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentysix" class="Title">   Norman peterson it consulting </a>
+                        </div>
+                        <div class="modal fade" id="twentysix">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentyseven">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyseven" class="Title">  the blue bird </a>
+                        </div>
+                        <div class="modal fade" id="twentyseven">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                              
+                             
+                    </div>
+                    <div class="CustomeRow">
+                        
+                        
+                        <div class="col-md-4" data-toggle="modal" data-target="#twentyeight">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyeight" class="Title">  erick belinson house counseling </a>
+                        </div>
+                        <div class="modal fade" id="twentyeight">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentynine">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentynine" class="Title">  nuryum r. photography </a>
+                        </div>
+                        <div class="modal fade" id="twentynine">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#thirteenn">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#thirteenn" class="Title">  nifed </a>
+                        </div>
+                        <div class="modal fade" id="thirteenn">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                             
+                            
+                         </div>
+                         
+                         <div class="CustomeRow">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Seven">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/seven-new.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#Seven" class="Title">  Construire Ensuite  </a>
+                        </div>
+                        <div class="modal fade" id="Seven">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/seven-new.png" alt="" class="img-fluid">
+                                            </div>
+<!--
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
-                                                    <h2>Beyond Time</h2>
-                                                    <p>Beyond Time Application</p>
+                                                    <h2>Construire Ensuite</h2>
+                                                    <p>Technological site for gadgets</p>
                                                     <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Skill : Web Design</li>
+                                                        <li>Skill : HTML</li>
                                                     </ul>
                                                 </div>
                                                 <div class="SecTwo">
-                                                    <h2>About Beyond Time</h2>
-                                                    <p>Beyond Time is a brilliant app for people who are very passionate about watches. The app curates different watch brands and gives the user numerous options to choose from. It also allows the user to select and purchase watches from the app and get them delivered to their doorstep.</p>
+                                                    <h2>About Construire Ensuite</h2>
+                                                    <p>No Content Found.</p>
                                                 </div>
                                             </div>
+-->
                                         </div>
                                     </div>
                                     <!--
@@ -830,8 +1166,55 @@
                                 </div>
                             </div>
                         </div>
-                     </div>
+                        <div class="col-md-4" data-toggle="modal" data-target="#Eight">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#Eight" class="Title">   Morbel Project  </a>
+                        </div>
+                        <div class="modal fade" id="Eight">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                     
+                    
+                    
+                    </div>
+                         
+                         
+                         
                 </div>
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                    
+                
                 <!--                    php start-->
                 <div id="php" class="tab-pane fade">
                     <div class="CustomeRow">
@@ -852,10 +1235,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Chiefs RS </h2>
                                                     <p>Technological site for gadgets</p>
@@ -895,10 +1278,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/eleven.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Get Go  </h2>
                                                     <p>Traveller Application</p>
@@ -938,10 +1321,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/explore-asia.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Explore Asia</h2>
                                                     <p>Technological site for gadgets</p>
@@ -982,10 +1365,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/bridge.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>B4P.et</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1026,10 +1409,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/chrisbook.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Children's Book</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1070,10 +1453,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/eatout.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Eat Out</h2>
                                                     <p>Eat Out Application</p>
@@ -1118,10 +1501,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/one.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>All Spice</h2>
                                                     <p>Food Ordering IOS Application</p>
@@ -1160,10 +1543,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/six.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Orange Box</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1188,7 +1571,7 @@
                         </div>
                         <div class="col-md-4" data-toggle="modal" data-target="#Eightt">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/eight.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a class="Title" data-toggle="modal" data-target="#Eightt">   Morbel Project  </a>
@@ -1202,10 +1585,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/eight.jpg" alt="" class="img-fluid">
+                                            <div class="col-md-7">
+                                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Morbel Project</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1248,10 +1631,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/nine.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Musicious</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1274,6 +1657,10 @@
                                 </div>
                             </div>
                         </div>
+                        
+                        
+                        
+                        
 
                                   <div class="col-md-4" data-toggle="modal" data-target="#chater">
                             <div class="PortfolioBox">
@@ -1291,10 +1678,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/chater.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Chater</h2>
                                                     <p>Dating Application</p>
@@ -1319,128 +1706,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- <div id="java" class="tab-pane fade">
-                    <div class="CustomeRow">
-                        <div class="col-md-4" data-toggle="modal" data-target="#Fourr">
-                            <div class="PortfolioBox">
-                                <img src="<?php // echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
-                                <i class="fa fa-eye"></i>
-                            </div>
-                            <a  class="Title" data-toggle="modal" data-target="#Fourr"> T R Construction </a>
-                        </div>
-                        <div class="modal fade" id="Fourr">
-                            <div class="modal-dialog modal-dialog-centered">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
-                                            </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
-                                                <div class="SecOne">
-                                                    <h2>T R Construction</h2>
-                                                    <p>Technological site for gadgets</p>
-                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Category : No Catefgory found</li>
-                                                        <li>Industry : Automotive</li>
-                                                        <li>Skill : HTML</li>
-                                                    </ul>
-                                                </div>
-                                                <div class="SecTwo">
-                                                    <h2>About T R Construction</h2>
-                                                    <p>No Content Found.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-                <!--   <div id="asp" class="tab-pane fade">
-                    <div class="CustomeRow">
-                        <div class="col-md-4" data-toggle="modal" data-target="#Fivee">
-                            <div class="PortfolioBox">
-                                <img src="<?php //echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
-                                <i class="fa fa-eye"></i>
-                            </div>
-                            <a data-toggle="modal" data-target="#Fivee" class="Title">  FAC North America  </a>
-                        </div>
-                        <div class="modal fade" id="Fivee">
-                            <div class="modal-dialog modal-dialog-centered">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
-                                            </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
-                                                <div class="SecOne">
-                                                    <h2>FAC North America</h2>
-                                                    <p>Technological site for gadgets</p>
-                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Category : No Catefgory found</li>
-                                                        <li>Industry : Automotive</li>
-                                                        <li>Skill : HTML</li>
-                                                    </ul>
-                                                </div>
-                                                <div class="SecTwo">
-                                                    <h2>About FAC North America</h2>
-                                                    <p>No Content Found.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4" data-toggle="modal" data-target="#Sevenn">
-                            <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/seven.jpg" alt="" class="img-fluid">
-                                <i class="fa fa-eye"></i>
-                            </div>
-                            <a class="Title" data-toggle="modal" data-target="#Sevenn">  Construire Ensuite  </a>
-                        </div>
-                        <div class="modal fade" id="Sevenn">
-                            <div class="modal-dialog modal-dialog-centered">
-                                <div class="modal-content">
-                                    <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
-                                    </div>
-                                    <div class="modal-body">
-                                        <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/seven.jpg" alt="" class="img-fluid">
-                                            </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
-                                                <div class="SecOne">
-                                                    <h2>Construire Ensuite</h2>
-                                                    <p>Technological site for gadgets</p>
-                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Category : No Catefgory found</li>
-                                                        <li>Industry : Automotive</li>
-                                                        <li>Skill : HTML</li>
-                                                    </ul>
-                                                </div>
-                                                <div class="SecTwo">
-                                                    <h2>About Construire Ensuite</h2>
-                                                    <p>No Content Found.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+                
                 <div id="android" class="tab-pane fade">
                     <div class="CustomeRow">
                         <div class="col-md-4" data-toggle="modal" data-target="#Twoo">
@@ -1459,10 +1725,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
                                             </div>
-                                             <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                             <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Better Man</h2>
                                                     <p>For Better Man</p>
@@ -1501,10 +1767,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Clix</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1549,10 +1815,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/car-wash.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Car Wash</h2>
                                                     <p>Dating Application</p>
@@ -1595,10 +1861,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Cinema Beyond Entertainment</h2>
                                                     <p>Cinema Beyond Entertainment Application</p>
@@ -1624,15 +1890,20 @@
                     </div>
                 </div>
                 <div id="logodesign" class="tab-pane fade">
-                    <div class="CustomeRow">
-                        <div class="col-md-4" data-toggle="modal" data-target="#Twoo">
+                   <div class="CustomeRow">
+                            
+                         
+                         
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#twentyyyy">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a class="Title" data-toggle="modal" data-target="#Twoo"> Better Man </a>
+                            <a data-toggle="modal" data-target="#twentyyyy" class="Title">  Clix </a>
                         </div>
-                        <div class="modal fade" id="Twoo">
+                        <div class="modal fade" id="twentyyyy">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1641,24 +1912,388 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/two.jpg" alt="" class="img-fluid">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                         
+                         
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#twentyoneeee">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyoneeee" class="Title">  Orangebox </a>
+                        </div>
+                        <div class="modal fade" id="twentyoneeee">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#thirteenoneeee">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#thirteenoneeee" class="Title">  explore asia </a>
+                        </div>
+                        <div class="modal fade" id="thirteenoneeee">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+<!--                                     Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                          </div>
+                         <div class="CustomeRow">
+                         
+                         
+                         <div class="col-md-4" data-toggle="modal" data-target="#twentytwoooo">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentytwoooo" class="Title">  Eatout </a>
+                        </div>
+                        <div class="modal fade" id="twentytwoooo">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                         
+                         
+                             
+                             
+                             
+                             
+                             <div class="col-md-4" data-toggle="modal" data-target="#twentythreeee">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentythreeee" class="Title">  Ohayo </a>
+                        </div>
+                        <div class="modal fade" id="twentythreeee">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentyfourrrr">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyfourrrr" class="Title">  Discover places </a>
+                        </div>
+                        <div class="modal fade" id="twentyfourrrr">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                    </div>
+                    <div class="CustomeRow">
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentyfiveeee">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyfiveeee" class="Title">  Word arc </a>
+                        </div>
+                        <div class="modal fade" id="twentyfiveeee">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentysixxxx">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentysixxxx" class="Title">   Norman peterson it consulting </a>
+                        </div>
+                        <div class="modal fade" id="twentysixxxx">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentysevennnn">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentysevennnn" class="Title">  the blue bird </a>
+                        </div>
+                        <div class="modal fade" id="twentysevennnn">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                              
+                             
+                    </div>
+                    <div class="CustomeRow">
+                        
+                        
+                        <div class="col-md-4" data-toggle="modal" data-target="#twentyeightttt">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentyeightttt" class="Title">  erick belinson house counseling </a>
+                        </div>
+                        <div class="modal fade" id="twentyeightttt">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#twentynineeee">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#twentynineeee" class="Title">  nuryum r. photography </a>
+                        </div>
+                        <div class="modal fade" id="twentynineeee">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                              <div class="col-md-4" data-toggle="modal" data-target="#thirteennn">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#thirteennn" class="Title">  nifed </a>
+                        </div>
+                        <div class="modal fade" id="thirteennn">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                             
+                             
+                             
+                             
+                            
+                         </div>
+                         
+                         <div class="CustomeRow">
+                    <div class="col-md-4" data-toggle="modal" data-target="#Sevennn">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url(); ?>assets/images/seven-new.png" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#Sevennn" class="Title">  Construire Ensuite  </a>
+                        </div>
+                        <div class="modal fade" id="Sevennn">
+                            <div class="modal-dialog modal-dialog-centered">
+                                <div class="modal-content">
+                                    <!-- Modal Header -->
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/seven-new.png" alt="" class="img-fluid">
+                                            </div>
+<!--
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
-                                                    <h2>Better Man</h2>
+                                                    <h2>Construire Ensuite</h2>
                                                     <p>Technological site for gadgets</p>
                                                     <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Category : No Catefgory found</li>
-                                                        <li>Industry : Automotive</li>
                                                         <li>Skill : HTML</li>
                                                     </ul>
                                                 </div>
                                                 <div class="SecTwo">
-                                                    <h2>About Better Man</h2>
-                                                    <p>Better Man is a versatile mobile app created dedicatedly for men. The app allows the user to choose from numerous, thoughtfully curated brands offering apparel and grooming products just for men.</p>
+                                                    <h2>About Construire Ensuite</h2>
+                                                    <p>No Content Found.</p>
                                                 </div>
                                             </div>
+-->
                                         </div>
                                     </div>
                                     <!--
@@ -1669,14 +2304,14 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4" data-toggle="modal" data-target="#Threee">
+                        <div class="col-md-4" data-toggle="modal" data-target="#Eighttt">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a class="Title" data-toggle="modal" data-target="#Threee"> Clix </a>
+                            <a data-toggle="modal" data-target="#Eighttt" class="Title">   Morbel Project  </a>
                         </div>
-                        <div class="modal fade" id="Threee">
+                        <div class="modal fade" id="Eighttt">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1685,32 +2320,20 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
-                                                <img src="<?php echo base_url(); ?>assets/images/three.jpg" alt="" class="img-fluid">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
-                                                <div class="SecOne">
-                                                    <h2>Clix</h2>
-                                                    <p>Technological site for gadgets</p>
-                                                    <ul class="d-flex align-items-start justify-content-start flex-column">
-                                                        <li>Skill : Android</li>
-                                                    </ul>
-                                                </div>
-                                                <div class="SecTwo">
-                                                    <h2>About Clix</h2>
-                                                    <p>CLIX is a unique app for people of all ages who have love for photography. CLIX is a social platform where users can upload pictures and create their feed while also following other photographs uploaded by other people. Moreover, the app also lets the user click and edit pictures using fun presets.</p>
-                                                </div>
-                                            </div>
+                                            
                                         </div>
                                     </div>
-                                    <!--
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    </div>
-                                    -->
+                                    
                                 </div>
                             </div>
                         </div>
+                    
+                     
+                    
+                    
                     </div>
                 </div>
                 <div id="webdesign" class="tab-pane fade">
@@ -1731,10 +2354,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>T R Construction</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1773,10 +2396,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>FAC North America</h2>
                                                     <p>Technological site for gadgets</p>
@@ -1815,10 +2438,10 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="row">
-                                            <div class="col-md-8">
+                                            <div class="col-md-7">
                                                 <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
                                             </div>
-                                            <div class="col-md-4 d-flex align-items-start justify-content-start flex-column">
+                                            <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
                                                     <h2>Beyond Time</h2>
                                                     <p>Beyond Time Application</p>

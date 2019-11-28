@@ -917,11 +917,11 @@ font-family: 'Arial';}
 
 /* Media Queries
 --------------------------------------------- */
-
+.modal-header{padding: 17px 15px!important;}
 .InnerMenu li .Label{display: none}
 
 .WhyZenosys .Tabbing h2{text-align: left;color: #464852;font-weight: bold;position: relative;margin-bottom: 0;
-font-size: 20px;line-height: 25px;font-family: 'Arial';letter-spacing: 1.25px;padding-top: 20px;text-transform: uppercase;padding-bottom: 20px;}
+font-size: 20px;line-height: 25px;font-family: 'Arial';letter-spacing: 1.25px;padding-top: 20px;text-transform: uppercase;padding-bottom: 0px;}
 body{padding-right: 0px!important;}
 .WhyZenosys .Tabbing .modal-header .close{padding: unset!important;margin: unset!important;position: absolute;
     right: 0;
@@ -937,7 +937,7 @@ body{padding-right: 0px!important;}
 .TabbingNav .TabbingLi .TabbingA:hover{color:#58ABB7;transition: 0.3s all}
 .TabbingNav .active .TabbingA{color:#58ABB7;transition: 0.3s all;font-weight: bold;}
 .Tabbing .CustomeRow{margin-top: 40px;padding-bottom: 40px;display: flex;align-items: center;justify-content: flex-start;border-bottom:2px solid #a5a5a538;}
-.Tabbing .CustomeRow .PortfolioBox img{border-radius: 10px;max-width: 120%;transition: 0.8s all;
+.Tabbing .CustomeRow .PortfolioBox img{border-radius: 10px;max-width: 100%;transition: 0.8s all;
 
 
 }
@@ -976,22 +976,23 @@ body{padding-right: 0px!important;}
 .Tabbing .CustomeRow .PortfolioBox:hover:before{
     width: 88.5%;
     }
-.Tabbing .CustomeRow .PortfolioBox{position: relative;overflow: hidden;border-radius: 10px;width: 340px;height: 271px;}
+.Tabbing .CustomeRow .PortfolioBox{position: relative;overflow: hidden;border-radius: 10px;width: 340px;max-height: 225px;}
 .Tabbing .CustomeRow .PortfolioBox:after{content: '';background-color: rgba(0, 0, 0, 0.10);position: absolute;left: 0;top: 0;height: 100%;width: 100%;border-radius: 10px;transition: 0.8s all;}
 
 .Tabbing .CustomeRow .PortfolioBox:hover:after{background-color: rgba(0, 0, 0, 0.70);}
+/*
 .Tabbing .CustomeRow .PortfolioBox:hover img{position: relative;transition: 0.8s all;
 
--webkit-animation-name: ImageScale; /* Safari 4.0 - 8.0 */
-  -webkit-animation-duration: 0.4s; /* Safari 4.0 - 8.0 */
+
   animation-name: ImageScale;
   animation-duration: 0.4s;
     animation-iteration-count: 1;
     animation-timing-function: linear;
     animation-fill-mode: forwards;
 }
+*/
 
-
+.Tabbing .CustomeRow .PortfolioBox:hover img{transform: scale(1.1);}
 
 
 .Social ul{margin: 0px!important;}
@@ -1000,7 +1001,7 @@ body{padding-right: 0px!important;}
 .Tabbing .CustomeRow .PortfolioBox i{position: absolute;left: 20px;bottom: 50px;height: 40px;width: 40px;color: #fff;font-size: 35px;display: none;z-index: 9999}
 
 
-.Tabbing .Title{color: #888787;text-align: center;margin: auto;display: block;margin-top: 15px;font-size: 18px;letter-spacing: 2px;text-decoration: none;font-weight: bold;font-family: 'Arial';text-transform: uppercase;}
+.Tabbing .Title{color: #888787;text-align: center;margin: auto;display: block;margin-top: 15px;font-size: 16px;letter-spacing: 0px;text-decoration: none;font-weight: bold;font-family: 'Arial';text-transform: uppercase;line-height: 22px;}
 
 @media all and (max-width : 1199px) {
     .Header .container{max-width: 100%}
