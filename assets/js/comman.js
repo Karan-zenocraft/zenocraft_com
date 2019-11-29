@@ -49,6 +49,59 @@ if ($(window).width() < 768) {
 
 
 
+function myFunction1() {
+var y = document.getElementById("mybtn1");
+var x = document.getElementById("myDIV1");
+  if (x.style.display === "none") {
+    y.style.display = "block";
+    x.style.display = "none";
+    
+  } else {
+    x.style.display = "block";
+    y.style.display = "none";
+  }
+}
+
+
+function myFunction2() {
+var y = document.getElementById("mybtn2");
+var x = document.getElementById("myDIV2");
+  if (x.style.display === "none") {
+    y.style.display = "block";
+    x.style.display = "none";
+    
+  } else {
+    x.style.display = "block";
+    y.style.display = "none";
+  }
+}
+
+function myFunction3() {
+var y = document.getElementById("mybtn3");
+var x = document.getElementById("myDIV3");
+  if (x.style.display === "none") {
+    y.style.display = "block";
+    x.style.display = "none";
+    
+  } else {
+    x.style.display = "block";
+    y.style.display = "none";
+  }
+}
+
+
+
+$('.TabbingLi:first-child').click(function(){
+//alert("The paragraph was clicked.");
+var xx = document.getElementById("myDIV1");
+var yy = document.getElementById("myDIV2");
+var zz = document.getElementById("myDIV3");
+zz.style.display = "none";
+yy.style.display = "none";
+xx.style.display = "none";
+});
+
+
 
 
 

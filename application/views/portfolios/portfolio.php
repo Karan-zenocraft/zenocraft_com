@@ -1,56 +1,6 @@
 <script>
 
-function myFunction1() {
-var y = document.getElementById("mybtn1");
-var x = document.getElementById("myDIV1");
-  if (x.style.display === "none") {
-    y.style.display = "block";
-    x.style.display = "none";
-    
-  } else {
-    x.style.display = "block";
-    y.style.display = "none";
-  }
-}
-
-
-function myFunction2() {
-var y = document.getElementById("mybtn2");
-var x = document.getElementById("myDIV2");
-  if (x.style.display === "none") {
-    y.style.display = "block";
-    x.style.display = "none";
-    
-  } else {
-    x.style.display = "block";
-    y.style.display = "none";
-  }
-}
-
-function myFunction3() {
-var y = document.getElementById("mybtn3");
-var x = document.getElementById("myDIV3");
-  if (x.style.display === "none") {
-    y.style.display = "block";
-    x.style.display = "none";
-    
-  } else {
-    x.style.display = "block";
-    y.style.display = "none";
-  }
-}
-
-
-
-$('.TabbingA').click(function(){
-var y = document.getElementById("mybtn1");
-var x = document.getElementById("myDIV1");
-y.style.display = "block";
-x.style.display = "none";
-});
-
-
-</script>
+</script>   
 
 
 
