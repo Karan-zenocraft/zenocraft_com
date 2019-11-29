@@ -708,52 +708,43 @@ $(document).ready(function() {
 
 
 function myFunction1() {
+  alert("myFunction1");
 var y = document.getElementById("mybtn1");
+var mybtn2 = document.getElementById("mybtn2");
 var x = document.getElementById("myDIV1");
-  if (x.style.display === "none") {
-    y.style.display = "block";
-    x.style.display = "none";
-    
-  } else {
     x.style.display = "block";
     y.style.display = "none";
-  }
+    mybtn2.style.display = "block";
 }
 
 
 function myFunction2() {
+  alert("myFunction2");
 var y = document.getElementById("mybtn2");
+var z = document.getElementById("mybtn3");
 var x = document.getElementById("myDIV2");
-  if (x.style.display === "none") {
-    y.style.display = "block";
-    x.style.display = "none";
-    
-  } else {
     x.style.display = "block";
     y.style.display = "none";
-  }
+    z.style.display = "block";
 }
 
 function myFunction3() {
+  alert("myFunction3");
 var y = document.getElementById("mybtn3");
 var x = document.getElementById("myDIV3");
-  if (x.style.display === "none") {
-    y.style.display = "block";
-    x.style.display = "none";
-    
-  } else {
     x.style.display = "block";
     y.style.display = "none";
-  }
 }
 
 
 
 $('.TabbingLi:first-child').click(function(){
-//alert("The paragraph was clicked.");
+alert("The paragraph was clicked.");
+var button = document.getElementById("mybtn1");
 var xx = document.getElementById("myDIV1");
 var yy = document.getElementById("myDIV2");
 var zz = document.getElementById("myDIV3");
+button.style.display = "block";
 zz.style.display = "none";
 yy.style.display = "none";
 xx.style.display = "none";
