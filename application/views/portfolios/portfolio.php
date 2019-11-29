@@ -1,6 +1,6 @@
 <script>
 
-</script>   
+</script>
 
 
 
@@ -280,8 +280,8 @@
                         </div>
                     </div>
                     <div class="CustomeRow">
-                        
-                        
+
+
                         <div class="col-md-4" data-toggle="modal" data-target="#ninteen">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
@@ -324,8 +324,8 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        
+
+
                         <div class="col-md-4" data-toggle="modal" data-target="#Nine">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/nine.jpg" alt="" class="img-fluid">
@@ -368,8 +368,8 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        
+
+
                         <div class="col-md-4" data-toggle="modal" data-target="#eighteen">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/cbe.jpg" alt="" class="img-fluid">
@@ -413,15 +413,15 @@
                             </div>
                         </div>
                     </div>
-                    
-                    
+
+
                     <div class="row LoadMoreRow" id="mybtn1">
                     <a onclick="myFunction1()"  class="Hirebtn LoadMore">Load More</a>
-                    
-                    
+
+
                     </div>
-                    
-                    
+
+
                     <div id="myDIV1">
                     <div class="CustomeRow" >
                         <div class="col-md-4" data-toggle="modal" data-target="#Ten">
@@ -766,9 +766,9 @@
                                 </div>
                             </div>
                         </div>
-                         
-                         
-                         
+
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#Eightt">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
@@ -813,26 +813,26 @@
                                 </div>
                             </div>
                         </div>
-                          
+
                      </div>
-                        
+
                         <div class="row LoadMoreRow" id="mybtn2">
                     <a onclick="myFunction2()"  class="Hirebtn LoadMore">Load More</a>
-                    
-                    
+
+
                     </div>
-                        </div> 
-                    
-                    
-                    
+                        </div>
+
+
+
                     <div id="myDIV2">
-                    
+
                      <div class="CustomeRow">
-                            
-                         
-                         
-                         
-                         
+
+
+
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#twenty">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
@@ -852,17 +852,17 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                         
-                         
-                         
-                         
+
+
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#twentyone">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
@@ -882,15 +882,15 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                         
-                         
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#thirteenone">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
@@ -901,7 +901,7 @@
                         <div class="modal fade" id="thirteenone">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
-                                     Modal Header 
+                                     Modal Header
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
                                     </div>
@@ -910,17 +910,17 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
                           </div>
                          <div class="CustomeRow">
-                         
-                         
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#twentytwo">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
@@ -940,19 +940,19 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                         
-                         
-                             
-                             
-                             
-                             
+
+
+
+
+
+
                              <div class="col-md-4" data-toggle="modal" data-target="#twentythree">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
@@ -972,15 +972,15 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentyfour">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
@@ -1000,19 +1000,19 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
+
+
                     </div>
                     <div class="CustomeRow">
-                             
-                             
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentyfive">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
@@ -1032,16 +1032,16 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
+
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentysix">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
@@ -1061,18 +1061,18 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
-                             
-                             
+
+
+
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentyseven">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
@@ -1092,33 +1092,33 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                              
-                             
+
+
+
+
                     </div>
-                        
-                        
+
+
                         <div class="row LoadMoreRow" id="mybtn3">
                     <a onclick="myFunction3()"  class="Hirebtn LoadMore">Load More</a>
-                    
-                    
+
+
                     </div>
-                        </div> 
-                    
-                    
+                        </div>
+
+
                     <div id="myDIV3">
-                        
+
                     <div class="CustomeRow">
-                        
-                        
+
+
                         <div class="col-md-4" data-toggle="modal" data-target="#twentyeight">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
@@ -1138,14 +1138,14 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentynine">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
@@ -1165,16 +1165,16 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
+
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#thirteenn">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
@@ -1194,20 +1194,20 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
-                             
-                            
+
+
+
+
+
                          </div>
-                         
+
                          <div class="CustomeRow">
                     <div class="col-md-4" data-toggle="modal" data-target="#Seven">
                             <div class="PortfolioBox">
@@ -1272,36 +1272,36 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                    
-                     
-                    
-                    
+
+
+
+
                     </div>
-                    </div> 
-                      
-                         
+                    </div>
+
+
                 </div>
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                         
-                    
-                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <!--                    php start-->
                 <div id="php" class="tab-pane fade">
                     <div class="CustomeRow">
@@ -1744,10 +1744,10 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        
-                        
-                        
+
+
+
+
 
                                   <div class="col-md-4" data-toggle="modal" data-target="#chater">
                             <div class="PortfolioBox">
@@ -1793,7 +1793,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div id="android" class="tab-pane fade">
                     <div class="CustomeRow">
                         <div class="col-md-4" data-toggle="modal" data-target="#Twoo">
@@ -1978,11 +1978,11 @@
                 </div>
                 <div id="logodesign" class="tab-pane fade">
                    <div class="CustomeRow">
-                            
-                         
-                         
-                         
-                         
+
+
+
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#twentyyyy">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
@@ -2002,17 +2002,17 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                         
-                         
-                         
-                         
+
+
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#twentyoneeee">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
@@ -2032,15 +2032,15 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyone.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                         
-                         
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#thirteenoneeee">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
@@ -2060,17 +2060,17 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/thirteenone.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
                           </div>
                          <div class="CustomeRow">
-                         
-                         
+
+
                          <div class="col-md-4" data-toggle="modal" data-target="#twentytwoooo">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
@@ -2090,19 +2090,19 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentytwo.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                         
-                         
-                             
-                             
-                             
-                             
+
+
+
+
+
+
                              <div class="col-md-4" data-toggle="modal" data-target="#twentythreeee">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
@@ -2122,15 +2122,15 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentythree.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentyfourrrr">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
@@ -2150,19 +2150,19 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyfour.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
+
+
                     </div>
                     <div class="CustomeRow">
-                             
-                             
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentyfiveeee">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
@@ -2182,16 +2182,16 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyfive.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
+
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentysixxxx">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
@@ -2211,18 +2211,18 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentysix.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
-                             
-                             
+
+
+
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentysevennnn">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
@@ -2242,21 +2242,21 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyseven.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                              
-                             
+
+
+
+
                     </div>
                     <div class="CustomeRow">
-                        
-                        
+
+
                         <div class="col-md-4" data-toggle="modal" data-target="#twentyeightttt">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
@@ -2276,14 +2276,14 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentyeight.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
+
                               <div class="col-md-4" data-toggle="modal" data-target="#twentynineeee">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
@@ -2303,16 +2303,16 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/twentynine.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
+
+
+
                               <div class="col-md-4" data-toggle="modal" data-target="#thirteennn">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
@@ -2332,20 +2332,20 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/thirteen.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                             
-                             
-                             
-                             
-                            
+
+
+
+
+
                          </div>
-                         
+
                          <div class="CustomeRow">
                     <div class="col-md-4" data-toggle="modal" data-target="#Sevennn">
                             <div class="PortfolioBox">
@@ -2410,17 +2410,17 @@
                                             <div class="col-md-12">
                                                 <img src="<?php echo base_url(); ?>assets/images/eight.png" alt="" class="img-fluid">
                                             </div>
-                                            
+
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
-                    
-                     
-                    
-                    
+
+
+
+
                     </div>
                 </div>
                 <div id="webdesign" class="tab-pane fade">
