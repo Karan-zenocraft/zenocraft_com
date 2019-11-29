@@ -1160,7 +1160,10 @@ nav ul li {
 .keyfeatures .TitleP{font-weight: bold!important}
 
 
-#myDIV1, #myDIV2, #myDIV3 {display: none;}
+#myDIV1, #myDIV2, #myDIV3, #myDIV4 {display: none;}
 .Hirebtn.LoadMore{width: unset;color: #fff!important;margin: auto;text-align: center;transition: 0.3s all;font-weight: bold;cursor: pointer}
 .Hirebtn.LoadMore:hover{color: #174477!important;transition: 0.3s all;}
 .LoadMoreRow{margin: 40px auto!important;}
+
+.Tabbing .CustomeRow .LogoModel .modal-dialog{max-width: 400px!important;}
+.LogoModel .modal-dialog .modal-content .modal-body .col-md-12 img{max-width: 100%;margin: auto;display: block;text-align: center;}

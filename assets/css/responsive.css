@@ -666,7 +666,11 @@ footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
     .WhyZenosys .Tabbing .modal ul li{font-size: 14px;}
     .TabbingNav{flex-direction: column}
     .TabbingNav .TabbingLi .TabbingA{border-right: 0px solid #a5a5a538;}
-    .Tabbing .CustomeRow .col-md-4{padding: 0;}
+    .Tabbing .CustomeRow .col-md-4{padding: 0;max-width: 340px;
+    margin: auto;}
+    .Tabbing .CustomeRow .PortfolioBox img{max-width: 340px;text-align: center;
+    display: block;
+    margin: auto;}
     .col-md-4.d-flex.align-items-start.justify-content-start.flex-column{padding: 0px 15px;}
     .Tabbing .Title{font-size: 14px;}
     
@@ -679,7 +683,7 @@ footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
 
     .Tabbing .CustomeRow .PortfolioBox{width: 100%;
     height: auto;
-    max-height: 410px;}
+    max-height: 225;}
 
 
 }

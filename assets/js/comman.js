@@ -737,14 +737,25 @@ var x = document.getElementById("myDIV3");
 }
 
 
+function myFunction4() {
+//  alert("myFunction4");
+var y = document.getElementById("mybtn4");
+var x = document.getElementById("myDIV4");
+    x.style.display = "block";
+    y.style.display = "none";
+}
 
-$('.TabbingLi:first-child').click(function(){
+
+$('.TabbingLi:first-child, .TabbingLi #li_logodesign').click(function(){
 //alert("The paragraph was clicked.");
 var button = document.getElementById("mybtn1");
+var button = document.getElementById("mybtn4");
 var xx = document.getElementById("myDIV1");
 var yy = document.getElementById("myDIV2");
 var zz = document.getElementById("myDIV3");
+var ww = document.getElementById("myDIV4");
 button.style.display = "flex";
+ww.style.display = "none";
 zz.style.display = "none";
 yy.style.display = "none";
 xx.style.display = "none";

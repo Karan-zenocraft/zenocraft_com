@@ -838,9 +838,9 @@
                                 <img src="<?php echo base_url(); ?>assets/images/twenty.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a data-toggle="modal" data-target="#twenty" class="Title">  Clix </a>
+                            <a data-toggle="modal" data-target="#twenty" class="Title ">  Clix </a>
                         </div>
-                        <div class="modal fade" id="twenty">
+                        <div class="modal fade LogoModel" id="twenty">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -870,7 +870,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyone" class="Title">  Orangebox </a>
                         </div>
-                        <div class="modal fade" id="twentyone">
+                        <div class="modal fade LogoModel" id="twentyone">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -898,10 +898,10 @@
                             </div>
                             <a data-toggle="modal" data-target="#thirteenone" class="Title">  explore asia </a>
                         </div>
-                        <div class="modal fade" id="thirteenone">
+                        <div class="modal fade LogoModel" id="thirteenone">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
-                                     Modal Header
+<!--                                     Modal Header-->
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
                                     </div>
@@ -928,7 +928,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentytwo" class="Title">  Eatout </a>
                         </div>
-                        <div class="modal fade" id="twentytwo">
+                        <div class="modal fade LogoModel" id="twentytwo">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -960,7 +960,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentythree" class="Title">  Ohayo </a>
                         </div>
-                        <div class="modal fade" id="twentythree">
+                        <div class="modal fade LogoModel" id="twentythree">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -988,7 +988,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyfour" class="Title">  Discover places </a>
                         </div>
-                        <div class="modal fade" id="twentyfour">
+                        <div class="modal fade LogoModel" id="twentyfour">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1020,7 +1020,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyfive" class="Title">  Word arc </a>
                         </div>
-                        <div class="modal fade" id="twentyfive">
+                        <div class="modal fade LogoModel " id="twentyfive">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1049,7 +1049,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentysix" class="Title">   Norman peterson it consulting </a>
                         </div>
-                        <div class="modal fade" id="twentysix">
+                        <div class="modal fade LogoModel " id="twentysix">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1080,7 +1080,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyseven" class="Title">  the blue bird </a>
                         </div>
-                        <div class="modal fade" id="twentyseven">
+                        <div class="modal fade LogoModel " id="twentyseven">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1126,7 +1126,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyeight" class="Title">  erick belinson house counseling </a>
                         </div>
-                        <div class="modal fade" id="twentyeight">
+                        <div class="modal fade LogoModel " id="twentyeight">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1153,7 +1153,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentynine" class="Title">  nuryum r. photography </a>
                         </div>
-                        <div class="modal fade" id="twentynine">
+                        <div class="modal fade LogoModel " id="twentynine">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1182,7 +1182,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#thirteenn" class="Title">  nifed </a>
                         </div>
-                        <div class="modal fade" id="thirteenn">
+                        <div class="modal fade LogoModel" id="thirteenn">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1216,7 +1216,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#Seven" class="Title">  Construire Ensuite  </a>
                         </div>
-                        <div class="modal fade" id="Seven">
+                        <div class="modal fade LogoModel" id="Seven">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1260,7 +1260,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#Eight" class="Title">   Morbel Project  </a>
                         </div>
-                        <div class="modal fade" id="Eight">
+                        <div class="modal fade LogoModel" id="Eight">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1399,7 +1399,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twelvethh" class="Title">  Explore Asia </a>
                         </div>
-                        <div class="modal fade" id="twelvethh">
+                        <div class="modal fade " id="twelvethh">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -1990,7 +1990,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyyyy" class="Title">  Clix </a>
                         </div>
-                        <div class="modal fade" id="twentyyyy">
+                        <div class="modal fade LogoModel " id="twentyyyy">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2020,7 +2020,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyoneeee" class="Title">  Orangebox </a>
                         </div>
-                        <div class="modal fade" id="twentyoneeee">
+                        <div class="modal fade LogoModel " id="twentyoneeee">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2048,7 +2048,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#thirteenoneeee" class="Title">  explore asia </a>
                         </div>
-                        <div class="modal fade" id="thirteenoneeee">
+                        <div class="modal fade LogoModel" id="thirteenoneeee">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
 <!--                                     Modal Header -->
@@ -2078,7 +2078,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentytwoooo" class="Title">  Eatout </a>
                         </div>
-                        <div class="modal fade" id="twentytwoooo">
+                        <div class="modal fade LogoModel " id="twentytwoooo">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2110,7 +2110,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentythreeee" class="Title">  Ohayo </a>
                         </div>
-                        <div class="modal fade" id="twentythreeee">
+                        <div class="modal fade LogoModel " id="twentythreeee">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2138,7 +2138,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyfourrrr" class="Title">  Discover places </a>
                         </div>
-                        <div class="modal fade" id="twentyfourrrr">
+                        <div class="modal fade LogoModel " id="twentyfourrrr">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2170,7 +2170,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyfiveeee" class="Title">  Word arc </a>
                         </div>
-                        <div class="modal fade" id="twentyfiveeee">
+                        <div class="modal fade LogoModel " id="twentyfiveeee">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2199,7 +2199,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentysixxxx" class="Title">   Norman peterson it consulting </a>
                         </div>
-                        <div class="modal fade" id="twentysixxxx">
+                        <div class="modal fade LogoModel " id="twentysixxxx">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2230,7 +2230,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentysevennnn" class="Title">  the blue bird </a>
                         </div>
-                        <div class="modal fade" id="twentysevennnn">
+                        <div class="modal fade LogoModel " id="twentysevennnn">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2253,7 +2253,17 @@
 
 
 
+                        
+                        
                     </div>
+                  
+                    
+                     <div class="row LoadMoreRow" id="mybtn4">
+                        <a onclick="myFunction4()"  class="Hirebtn LoadMore">Load More</a>
+                        </div>
+                   
+                    <div id="myDIV4">
+                    
                     <div class="CustomeRow">
 
 
@@ -2264,7 +2274,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentyeightttt" class="Title">  erick belinson house counseling </a>
                         </div>
-                        <div class="modal fade" id="twentyeightttt">
+                        <div class="modal fade LogoModel " id="twentyeightttt">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2291,7 +2301,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#twentynineeee" class="Title">  nuryum r. photography </a>
                         </div>
-                        <div class="modal fade" id="twentynineeee">
+                        <div class="modal fade LogoModel " id="twentynineeee">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2320,7 +2330,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#thirteennn" class="Title">  nifed </a>
                         </div>
-                        <div class="modal fade" id="thirteennn">
+                        <div class="modal fade LogoModel" id="thirteennn">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2341,10 +2351,17 @@
                         </div>
 
 
-
+                        
 
 
                          </div>
+                    
+                    
+                    
+                    
+                    
+                    
+<!--                    <addddddddddddddddddd></addddddddddddddddddd>-->
 
                          <div class="CustomeRow">
                     <div class="col-md-4" data-toggle="modal" data-target="#Sevennn">
@@ -2354,7 +2371,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#Sevennn" class="Title">  Construire Ensuite  </a>
                         </div>
-                        <div class="modal fade" id="Sevennn">
+                        <div class="modal fade LogoModel" id="Sevennn">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2398,7 +2415,7 @@
                             </div>
                             <a data-toggle="modal" data-target="#Eighttt" class="Title">   Morbel Project  </a>
                         </div>
-                        <div class="modal fade" id="Eighttt">
+                        <div class="modal fade LogoModel" id="Eighttt">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
@@ -2422,6 +2439,8 @@
 
 
                     </div>
+                        
+                        </div>
                 </div>
                 <div id="webdesign" class="tab-pane fade">
                     <div class="CustomeRow">
