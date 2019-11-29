@@ -708,28 +708,28 @@ $(document).ready(function() {
 
 
 function myFunction1() {
-  alert("myFunction1");
+//  alert("myFunction1");
 var y = document.getElementById("mybtn1");
 var mybtn2 = document.getElementById("mybtn2");
 var x = document.getElementById("myDIV1");
     x.style.display = "block";
     y.style.display = "none";
-    mybtn2.style.display = "block";
+    mybtn2.style.display = "flex";
 }
 
 
 function myFunction2() {
-  alert("myFunction2");
+//  alert("myFunction2");
 var y = document.getElementById("mybtn2");
 var z = document.getElementById("mybtn3");
 var x = document.getElementById("myDIV2");
     x.style.display = "block";
     y.style.display = "none";
-    z.style.display = "block";
+    z.style.display = "flex";
 }
 
 function myFunction3() {
-  alert("myFunction3");
+//  alert("myFunction3");
 var y = document.getElementById("mybtn3");
 var x = document.getElementById("myDIV3");
     x.style.display = "block";
@@ -739,12 +739,12 @@ var x = document.getElementById("myDIV3");
 
 
 $('.TabbingLi:first-child').click(function(){
-alert("The paragraph was clicked.");
+//alert("The paragraph was clicked.");
 var button = document.getElementById("mybtn1");
 var xx = document.getElementById("myDIV1");
 var yy = document.getElementById("myDIV2");
 var zz = document.getElementById("myDIV3");
-button.style.display = "block";
+button.style.display = "flex";
 zz.style.display = "none";
 yy.style.display = "none";
 xx.style.display = "none";

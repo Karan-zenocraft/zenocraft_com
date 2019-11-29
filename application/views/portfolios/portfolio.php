@@ -771,7 +771,7 @@
 
                          <div class="col-md-4" data-toggle="modal" data-target="#Eightt">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a class="Title" data-toggle="modal" data-target="#Eightt">   Morbel Project  </a>
@@ -786,7 +786,7 @@
                                     <div class="modal-body">
                                         <div class="row">
                                             <div class="col-md-7">
-                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
+                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new-model.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
