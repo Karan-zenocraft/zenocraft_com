@@ -976,10 +976,14 @@ body{padding-right: 0px!important;}
 .Tabbing .CustomeRow .PortfolioBox:hover:before{
     width: 88.5%;
     }
-.Tabbing .CustomeRow .PortfolioBox{position: relative;overflow: hidden;border-radius: 10px;width: 340px;max-height: 225px;}
-.Tabbing .CustomeRow .PortfolioBox:after{content: '';background-color: rgba(0, 0, 0, 0.10);position: absolute;left: 0;top: 0;height: 100%;width: 100%;border-radius: 10px;transition: 0.8s all;}
+.Tabbing .CustomeRow .PortfolioBox{position: relative;overflow: hidden;border-radius: 10px;width: 340px;max-height: 225px;box-shadow: 5px 5px 15px 2px #b9b6b6 !important;}
+.Tabbing .CustomeRow .PortfolioBox:after{content: '';background-color: rgba(0, 0, 0, 0.10);position: absolute;left: 0;top: 0;height: 100%;width: 0%;border-radius: 10px;transition: 0.8s all;}
 
-.Tabbing .CustomeRow .PortfolioBox:hover:after{background-color: rgba(0, 0, 0, 0.70);}
+.Tabbing .CustomeRow .PortfolioBox:hover:after{background-color: rgba(0, 0, 0, 0.70);height: 100%;}
+
+
+.Tabbing .CustomeRow .PortfolioBox:after{background-color: rgba(0, 0, 0, 0.70);content: '';background-color: rgba(0, 0, 0, 0.10);position: absolute;left: 0;bottom: 0;height: 0%;width: 100%;border-radius: 10px;transition: 0.8s all;}
+
 /*
 .Tabbing .CustomeRow .PortfolioBox:hover img{position: relative;transition: 0.8s all;
 
@@ -992,12 +996,12 @@ body{padding-right: 0px!important;}
 }
 */
 
-.Tabbing .CustomeRow .PortfolioBox:hover img{transform: scale(1.1);}
+/*.Tabbing .CustomeRow .PortfolioBox:hover img{transform: scale(1.1);}*/
 
 
 .Social ul{margin: 0px!important;}
 
-.Tabbing .CustomeRow .PortfolioBox:hover i {display: block;}
+.Tabbing .CustomeRow .PortfolioBox:hover i {display: block;transition: 0.3s all;}
 .Tabbing .CustomeRow .PortfolioBox i{position: absolute;left: 20px;bottom: 50px;height: 40px;width: 40px;color: #fff;font-size: 35px;display: none;z-index: 9999}
 
 
