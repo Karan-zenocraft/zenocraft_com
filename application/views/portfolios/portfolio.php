@@ -154,7 +154,7 @@
                     <div class="CustomeRow">
                         <div class="col-md-4" data-toggle="modal" data-target="#Four">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/trf2.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#Four" class="Title"> T R Construction </a>
@@ -196,7 +196,7 @@
                         </div>
                         <div class="col-md-4" data-toggle="modal" data-target="#Five">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#Five" class="Title">  FAC North America  </a>
@@ -211,7 +211,7 @@
                                     <div class="modal-body">
                                         <div class="row">
                                             <div class="col-md-7">
-                                                <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
+                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new-model.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
@@ -284,7 +284,7 @@
 
                         <div class="col-md-4" data-toggle="modal" data-target="#ninteen">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/beyondtimetemp.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#ninteen" class="Title"> Beyond Time </a>
@@ -426,7 +426,7 @@
                     <div class="CustomeRow" >
                         <div class="col-md-4" data-toggle="modal" data-target="#Ten">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/crsthumb.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#Ten" class="Title">  Chiefs RS  </a>
@@ -554,7 +554,7 @@
                      <div class="CustomeRow">
                            <div class="col-md-4" data-toggle="modal" data-target="#thirteen">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/bridge.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/bridgethumb-thumb.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#thirteen" class="Title">  B4P.et </a>
@@ -598,7 +598,7 @@
                         </div>
                          <div class="col-md-4" data-toggle="modal" data-target="#fourteen">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/chrisbook.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/chrisbook.jpg" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#fourteen" class="Title">  Children's Book </a>
@@ -640,7 +640,7 @@
                         </div>
                              <div class="col-md-4" data-toggle="modal" data-target="#fifteenth">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/eatout.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/eatoutthumb.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#fifteenth" class="Title">  Eat Out </a>
@@ -771,7 +771,7 @@
 
                          <div class="col-md-4" data-toggle="modal" data-target="#Eightt">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/mbl.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a class="Title" data-toggle="modal" data-target="#Eightt">   Morbel Project  </a>
@@ -786,7 +786,7 @@
                                     <div class="modal-body">
                                         <div class="row">
                                             <div class="col-md-7">
-                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new-model.png" alt="" class="img-fluid">
+                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.jpg" alt="" class="img-fluid">
                                             </div>
                                             <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
@@ -1308,7 +1308,7 @@
                         <!--                   Chiefs RS-->
                         <div class="col-md-4" data-toggle="modal" data-target="#Tenn">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/ten.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/crsthumb.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#Tenn" class="Title">  Chiefs RS  </a>
@@ -1438,7 +1438,7 @@
                     <div class="CustomeRow">
                            <div class="col-md-4" data-toggle="modal" data-target="#b4pet">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/bridgethumb.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/bridgethumb-thumb.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#b4pet" class="Title">  B4P.et  </a>
@@ -1482,7 +1482,7 @@
                         </div>
                                    <div class="col-md-4" data-toggle="modal" data-target="#chris">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/chrisbook.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/chrisbook.jpg" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#chris" class="Title">  Children's Book  </a>
@@ -1526,7 +1526,7 @@
                         </div>
                           <div class="col-md-4" data-toggle="modal" data-target="#eatout">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/eatout.png" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/eatoutthumb.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#eatout" class="Title">  Eat Out </a>
@@ -2427,7 +2427,7 @@
                     <div class="CustomeRow">
                                <div class="col-md-4" data-toggle="modal" data-target="#trconstruct">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/four.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/trf2.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#trconstruct" class="Title"> T R Construction </a>
@@ -2469,7 +2469,7 @@
                         </div>
                              <div class="col-md-4" data-toggle="modal" data-target="#fac">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#fac" class="Title">  FAC North America  </a>
@@ -2484,7 +2484,7 @@
                                     <div class="modal-body">
                                         <div class="row">
                                             <div class="col-md-7">
-                                                <img src="<?php echo base_url(); ?>assets/images/five.jpg" alt="" class="img-fluid">
+                                                <img src="<?php echo base_url(); ?>assets/images/morbel-final-new-model.png" alt="" class="img-fluid">
                                             </div>
                                             <div class="col-md-5 d-flex align-items-start justify-content-start flex-column">
                                                 <div class="SecOne">
@@ -2511,7 +2511,7 @@
                         </div>
                                    <div class="col-md-4" data-toggle="modal" data-target="#beyond">
                             <div class="PortfolioBox">
-                                <img src="<?php echo base_url(); ?>assets/images/beyond-time.jpg" alt="" class="img-fluid">
+                                <img src="<?php echo base_url(); ?>assets/images/beyondtimetemp.png" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
                             <a data-toggle="modal" data-target="#beyond" class="Title"> Beyond Time </a>
