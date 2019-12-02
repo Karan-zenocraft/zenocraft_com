@@ -479,6 +479,9 @@ h3, .TitleH3{font-size: 16px;}
 h2:before, .TitleH2:before{right: 0;margin: auto;bottom: -12px!important;}
 h6, .TitleH6{font-size: 13px;}
     
+    .Hirebtn i{display: none}
+    
+    
     .ContactBox form .form-group.group:last-child{margin-bottom: 0px;margin-top: 30px}
     .SoftwareDevelopment .SoftwareDevelopmentRight{margin-bottom: 40px;}   
     .WhyZenosys .WhyZenosysContent.col-md-8{padding-bottom: 0;}
