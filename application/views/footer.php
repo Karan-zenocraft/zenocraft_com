@@ -263,11 +263,11 @@
                     <p class="TitleP">In the dynamic environment, the need of the hour for companies keeps on changing. The present period might demand skilled data analysts while the upcoming requirement could demand a senior developer to handhold a new venture, and this is inevitable.</p>
                      <p class="TitleP">For organizations that work with a tight budget, getting into the rigmarole of screening and recruiting personnel for limited period roles could spell chaos, on both financial as well as administrative ends.</p>
 <!--                      <p class="TitleP">When it comes to this, Zenocraft has thrived as a trusted staffing solution provider for companies and clients across the globe. Through our perfected process and robust engagement models, we empower companies in flourishing with their undivided focus on the main business, instead of investing efforts into recruitment drives.</p>-->
-                    
-                    
+
+
                     <a class="Hirebtn" href="<?php echo base_url(); ?>hire">Hire Resources <i class="fa fa-long-arrow-right"></i>
                     </a>
-                    
+
                 </div>
 
 
@@ -796,11 +796,11 @@
                 <div class="col-md-4 d-flex align-items-center justify-content-start SocialInnerRight">
 
                     <ul class="SocialIcons d-flex flex-wrap align-items-center justify-content-start">
-                        <li><a   title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="https://twitter.com/zenosys" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="https://www.youtube.com/channel/UC0FSCYn145Yr-Y0QhKFBAZQ" title="Youtube"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                        <li><a  title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a href="https://www.linkedin.com/company/zenosys/about/" title="Linkedin" href="https://www.linkedin.com/company/zenosys/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a title="Facebook" href="https://www.facebook.com/Zenocraft-Services-430502974451081/?modal=admin_todo_tour" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/home" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UC0FSCYn145Yr-Y0QhKFBAZQ" title="Youtube" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                        <li><a  title="Instagram" href="https://www.instagram.com/zenocraftinc/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.linkedin.com/company/14614443/admin/" title="Linkedin" href="https://www.linkedin.com/company/zenosys/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 <!--                        <li><a  title="Linkedin"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>-->
 
 
