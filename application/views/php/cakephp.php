@@ -62,7 +62,7 @@
                 <p class="TitleP">Similar to our expertise with different frameworks of PHP, we have garnered thorough expertise and knowledge with Cake PHP. Through our proven skills in different projects, we boast of great results in working with custom development, web application development, integration and e-commerce development. Talk to us if you want to leverage the power of CakePHP for your project.</p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-            <img src="<?php echo base_url(); ?>assets/images/cakephpimg.png" class="img-fluid CommanImg" style="transform: scale(1.2)">
+            <img src="<?php echo base_url(); ?>assets/images/cakephpimg.png" class="img-fluid CommanImg" style="transform: scale(1.0)">
         </div>
 
            </div>
