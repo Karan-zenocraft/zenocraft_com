@@ -949,7 +949,7 @@
                 <div class="col-md-6 d-flex align-items-center justify-content-start">
 
                     <div class="Address">
-                        <a class="TitleP" href="http://zenosys.com/" style="color: #728194">2019 © Copyrights Zenocraft Services</a>
+                        <a class="TitleP" href="http://zenocraft.com/" style="color: #728194">2019 © Copyrights Zenocraft Services</a>
                     </div>
 
                 </div>
