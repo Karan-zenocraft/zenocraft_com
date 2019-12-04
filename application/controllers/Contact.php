@@ -71,7 +71,7 @@ class Contact extends MY_Controller
         $this->load->library('email');
 
         // Mail config
-        $to = 'rutusha1212joshi@gmail.com';
+        $to = 'contact@zenocraft.com';
         $from = 'chiefsrsmail@gmail.com';
         $fromName = 'Zenosys';
         $mailSubject = 'Contact Request Submitted by ' . $mailData['name'];
