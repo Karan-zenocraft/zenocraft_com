@@ -1,5 +1,14 @@
 <style>
-
+    .WhyZenosys{position: relative;}
+    
+    @media (max-width: 767px){
+        
+        
+        .img-fluid.CommanImg{position: unset!important;margin: auto;
+    text-align: center;
+    display: block;width: 80%!important;}
+    }
+    
     @media (min-width: 991px){
     .slick-track{width: 100%!important;}
     .slick-list.draggable{margin: auto;
@@ -69,10 +78,12 @@
 
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/block-chain.png" class="img-fluid CommanImg" style="max-width: 95%;right: 0px;bottom: 65px;">
+           
                </div>
+                
             </div>
 
 
 
         </div>
+<img src="<?php echo base_url(); ?>assets/images/infra2.png" class="img-fluid CommanImg" style="position: absolute;bottom: 0;right: 0;width: 34%;">
