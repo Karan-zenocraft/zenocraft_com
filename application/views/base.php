@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Top Web & Mobile App Development Company | iOS & Android & React Native | Zenocraft</title>
+    <title>Top Web & Mobile App Development Company | iOS & Android | Zenocraft</title>
     <meta charset="UTF-8">
     <meta name="description" content="Zenocraft is one of the top web and mobile app development company for iOS, Android, and React Native in New Jersey, USA. Artificial Intelligence, Augmented Reality, Virtual Reality, and Enterprise solutions are available.">
     <meta name="keywords" content="">
