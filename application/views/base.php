@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>ZENOCRAFT</title>
+    <title>Zenocraft</title>
     <meta charset="UTF-8">
     <meta name="description" content="">
     <meta name="keywords" content="">
