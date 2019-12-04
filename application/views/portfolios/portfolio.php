@@ -4,10 +4,16 @@
 
 <style>
     
+/*
+    .modal.show .modal-dialog{transform: scale(0)!important;
+    -webkit-animation: animatezoom 0.9s;
+  animation: animatezoom 0.9s}
+*/
+    
 /*    .WhyZenosys .Tabbing .modal{overflow-y: hidden;}*/
-    .modal-dialog.modal-dialog-centered, .tab-pane.fade, .tab-pane.active {
+     .Tabbing .CustomeRow .PortfolioBox, modal-dialog.modal-dialog-centered, .tab-pane.fade, .tab-pane.active {
   -webkit-animation: animatezoom 0.9s;
-  animation: animatezoom 0.9s
+  animation: animatezoom 0.9s;
 }
 
 @-webkit-keyframes animatezoom {
