@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <title>Top Web & Mobile App Development Company | iOS & Android | Zenocraft</title>

@@ -1,4 +1,49 @@
-    <header class="Header">
+<header style="display:none">
+    
+<h1>mobile app development company</h1>
+<h2> Development Company</h2>
+<h2> Collaborative approach.</h2>
+<h2> Rapid Application Development</h2>
+<h2> Mobile App Development</h2>
+<h2> Enterprise Web Application</h2>
+<h2> Cloud Computing Solutions</h2>
+<h2> Blockchain Development</h2>
+<h3> Custom Mobile Development Know More</h3>
+<h3> Rapid Application Development Know More</h3>
+<h3> React Native Development Know More</h3>
+<h3> Cloud Services Know More</h3>
+<h3> Applications Know More</h3>
+<h3> Use Cases Know More</h3>
+<h3> Business Process Automation</h3>
+<h3> Enterprise Web Solutions</h3>
+<h3> Product Engineering</h3>
+<h3> App Visibility</h3>
+<h3> User Acquisition</h3>
+<h3> Digital Outreach</h3>
+<h3> Versatile Engagement</h3>
+<h3> Scalable Resources</h3>
+<h3> Controlled Processes</h3>
+<h3> dApps Development</h3>
+<h3> Ethereum Development</h3>
+<h3> Private Blockchain Development</h3>
+<h3> Top Custom Web Mobile App</h3>
+<h3> Reasonable price. Fast. Pro-active. Consultative.</h3>
+<h3> Building Apps Faster.</h3>
+<h3> Services We Offer</h3>
+<h3> We work with amazing companies</h3>
+<h3> Featured App</h3>
+<h3> Digital Agency? Partner with Intuz</h3>
+<h3> Intuz Resources</h3>
+<h3> Let’s Talk</h3>
+<h3> USA</h3>
+<h3> India</h3>
+
+
+
+</header>    
+
+
+<header class="Header">
         <div class="container">
             <div class="row">
 
