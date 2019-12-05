@@ -15,7 +15,7 @@ class Change_password extends Admin_Controller
     {
         $this->form_validation->set_rules('currentpassword', 'Current Password', 'required|min_length[6]');
         $this->form_validation->set_rules('password', 'Password', 'required|min_length[6]');
-        $this->form_validation->set_rules('confirmpassword', 'Confirm Password', 'required|min_length[6]|matches[password]');
+        $this->form_validation->set_rules('confirmpassword', 'Confirm Password', 'required|matches[password]');
         if ($this->form_validation->run()) {
             $cpassword = $this->input->post('currentpassword');
             $newpassword = $this->input->post('password');
