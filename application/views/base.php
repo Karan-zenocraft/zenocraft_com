@@ -19,6 +19,116 @@
     <!-----Scrolling animation-------------->
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/aos.css" />
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+     <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Zenocraft",
+        "url": "https://www.zenocraft.com/",
+        "logo": "http://zenocraft.com/assets/images/logo.png"
+    }
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Zenocraft",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3084 State Route 27, Suite 12",
+        "addressLocality": "New Jersy",
+        "addressRegion": "NJ",
+        "postalCode": "08824",
+        "addressCountry": "United States"
+        }
+    }
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Place",
+        "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 40.4368509,
+        "longitude": -74.5400561
+        }
+    }
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Zenocraft",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3084 State Route 27, Suite 12",
+        "addressLocality": "New Jersy",
+        "addressRegion": "NJ",
+        "postalCode": "08824",
+        "addressCountry": "United States"
+        }
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Place",
+        "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 40.4368509,
+        "longitude": -74.5400561
+        }
+    }
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Zenocraft",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "22, Second Floor, Magnet Corporate Park S.G Road",
+        "addressLocality": "Ahmedabad",
+        "addressRegion": "GJ",
+        "postalCode": "380054",
+        "addressCountry": "India"
+        }
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "Place",
+        "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.0608826,
+        "longitude": 72.5171973
+        }
+    }
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type":"Organization",
+    "name": "Customer Care",
+    "telephone": "+1 888-406-2862",
+    "email": "contact@zenocraft.com"
+    }
+</script>
+<script type="application/ld+json">
+     {
+     "@context": "https://schema.org",
+     "@type": "Organization",
+     "name": "Zenocraft",
+     "url": "https://www.zenocraft.com/",
+    "sameAs": [
+        "https://twitter.com/Intuzhq",
+        https://www.instagram.com/zenocraftinc/,
+        https://www.linkedin.com/company/14614443/admin/,
+        https://www.facebook.com/Zenocraft-Services-4
+     ]
+     }
+</script>
 </head>
 
 
