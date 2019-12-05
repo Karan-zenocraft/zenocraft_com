@@ -8,7 +8,7 @@ class Hire extends MY_Controller
     {
         parent::__construct();
         $this->load->helper('url');
-        $this->load->model('CareersModel');
+        $this->load->model('HireModel');
         $this->load->library("pagination");
 
     }
@@ -40,7 +40,7 @@ class Hire extends MY_Controller
 
         $config["base_url"] = base_url() . "hire";
         $hire_type = 2;
-        $config["total_rows"] = $this->CareersModel->get_count($hire_type);
+        $config["total_rows"] = $this->HireModel->get_count($hire_type);
         $config["per_page"] = 5;
         $config["uri_segment"] = 2;
 
@@ -49,9 +49,9 @@ class Hire extends MY_Controller
         $page = ($this->uri->segment(2)) ? $this->uri->segment(2) : 0;
 
         $data["links"] = $this->pagination->create_links();
-        $data['jobs'] = $this->CareersModel->getOpenings($config["per_page"], $page, $hire_type);
+        $data['jobs'] = $this->HireModel->getOpenings($config["per_page"], $page, $hire_type);
 
-        /*$this->data['jobs'] = $this->CareersModel->getOpenings();*/
+        /*$this->data['jobs'] = $this->HireModel->getOpenings();*/
         $this->load->view('hire-us/hire_us', $data);
     }
 

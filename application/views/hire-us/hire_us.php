@@ -49,21 +49,15 @@
                     <table class="table table-striped">
     <thead>
       <tr>
-        <th>Job ID</th>
         <th>Job</th>
-        <th>Location</th>
-        <th>Type</th>
       </tr>
     </thead>
     <tbody>
         <?php if (!empty($jobs)) {
     foreach ($jobs as $key => $job) {?>
       <tr>
-        <td><?php echo $job->job_id; ?></td>
-        <td onclick="get_description('<?php echo $job->id; ?>')"><a href="javascript:void(0);"><?php echo $job->title; ?></a></td>
+        <td onclick="get_description('<?php echo $job->id; ?>')"><a href="javascript:void(0);"><?php echo $job->technology; ?></a></td>
         <input type="hidden" id="desc<?php echo $job->id; ?>" name="desc" value="<?php echo addslashes($job->description); ?>">
-        <td><?php echo $job->location; ?></td>
-        <td><?php echo $job->type; ?></td>
       </tr>
   <?php }?>
 
@@ -80,7 +74,7 @@
 
 <!--                    <h2 class="TitleH2">Job Description</h2>-->
 
-                    <h3 class="TitleH3">Job Description</h3>
+                    <h3 class="TitleH3">Description</h3>
                     <?php $first_job = !empty($jobs) ? current($jobs) : "";?>
                     <p class="put_desc"><?php echo !empty($first_job) ? $first_job->description : "No data" ?></p>
                     </ul>
