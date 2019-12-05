@@ -47,14 +47,6 @@ if ($(window).width() < 768) {
     
 }
 
-
-
-
-
-
-
-
-
 AOS.init({
             duration: 1200
         });

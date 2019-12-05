@@ -1,0 +1,38 @@
+<?php
+defined('BASEPATH') or exit('No direct script access allowed');
+class ManageUsers_Model extends CI_Model
+{
+    public function getusersdetails()
+    {
+        $query = $this->db->select('firstName,lastName,emailId,regDate,id')
+            ->get('tblusers');
+        return $query->result();
+    }
+//Getting particular user deatials on the basis of id
+    public function getuserdetail($uid)
+    {
+        $ret = $this->db->select('firstName,lastName,emailId,regDate,id,mobileNumber,lastUpdationDate')
+            ->where('id', $uid)
+            ->get('tblusers');
+        return $ret->row();
+    }
+
+    public function adduserdetail($data)
+    {
+        $ret = $this->db->insert('tblusers', $data);
+        return $ret;
+    }
+
+    // Function for use deletion
+    public function deleteuser($uid)
+    {
+        $sql_query = $this->db->where('id', $uid)
+            ->delete('tblusers');
+    }
+
+    public function updateuserdetail($data, $uid)
+    {
+        $ret = $this->db->where('id', $uid)->update('tblusers', $data);
+        return $ret;
+    }
+}
