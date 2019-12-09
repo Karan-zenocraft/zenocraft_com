@@ -30,7 +30,7 @@ to {transform: scale(1);transition: 0.8s all}
             <ul class="nav TabbingNav">
                 <?php if (!empty($categoryList)) {
     foreach ($categoryList as $key => $category) {?>
-                <li class="TabbingLi" onclick="add_active()"><a data-toggle="tab"  href="#category<?php echo $category->id; ?>" id="li_category<?php echo $category->id; ?>" class="TabbingA"> <?php echo ($category->id == 1) ? '<i class="fa fa-eye"></i>' : '' ?><?php echo $category->title; ?></a></li>
+                <li class="TabbingLi"><a data-toggle="tab"  href="#category<?php echo $category->id; ?>" id="li_<?php echo $category->id; ?>" class="TabbingA"> <?php echo ($category->id == 1) ? '<i class="fa fa-eye"></i>' : '' ?><?php echo $category->title; ?></a></li>
                 <?php }
 }?>
             </ul>
