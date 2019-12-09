@@ -1,5 +1,5 @@
 <header style="display:none">
-    
+
 <h1>mobile app development company</h1>
 <h1> Web Development Company</h1>
 <h1>Top Web Development in USA</h1>
@@ -49,7 +49,7 @@
 
 
 
-</header>    
+</header>
 
 
 <header class="Header">
@@ -398,13 +398,16 @@
                                 <a class="a arrow" href="<?php echo base_url(); ?>portfolio">Portfolio</a>
                                       <input type="checkbox" id="drop-18"/>
                                 <ul class="InnerMenu InnerMenu2 DD22">
-                                    <li><a href="<?php echo base_url(); ?>portfolio#php">PHP</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#ios">IOS</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#android">ANDROID</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#reactnative">REACT NATIVE</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#flutter">FLUTTER</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#logodesign">LOGO DESIGN</a></li>
-                                    <li><a href="<?php echo base_url(); ?>portfolio#webdesign">WEB DESIGN</a></li>
+                                  <?php
+$categoryList = $this->Category_Model->getCategoryDetails();
+if (!empty($categoryList)) {
+    foreach ($categoryList as $key => $category) {
+        ?>
+        <?php if ($category->id != 1) {?>
+       <li><a href="<?php echo base_url() . 'portfolio#category' . $category->id ?>"><?php echo $category->title ?></a></li>
+   <?php }}
+}
+?>
                                 </ul>
                             </li>
                             <li>

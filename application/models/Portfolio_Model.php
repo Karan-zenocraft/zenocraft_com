@@ -36,4 +36,16 @@ class Portfolio_Model extends CI_Model
         $ret = $this->db->where('id', $uid)->update('portfolio', $data);
         return $ret;
     }
+    public function getPortfolioByCategory($category)
+    {
+        if ($category == 1) {
+            $ret = $this->db->select('title,category,description,image,id,skill')
+                ->get('portfolio');
+        } else {
+            $ret = $this->db->select('title,category,description,image,id,skill')
+                ->where('category', $category)
+                ->get('portfolio');
+        }
+        return $ret->result();
+    }
 }

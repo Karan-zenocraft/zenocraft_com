@@ -552,13 +552,12 @@ $(function() {
 
 
 $(document).ready(function(){
-    
-    $(".TabbingNav .TabbingLi").click(function(){
+    $("#li_category1").closest('li').addClass('active');
+    $('#category1').addClass('active show');
+     $(".TabbingNav .TabbingLi").on( 'click', 'a', function () {      
         $(".TabbingNav .TabbingLi").removeClass("active");
-        $(this).addClass("active");
-        
-        
-    });
+        $(this).closest('li').addClass("active");
+      });
     
 });
 $(function(){
