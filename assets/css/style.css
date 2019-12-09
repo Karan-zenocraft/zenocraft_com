@@ -938,7 +938,7 @@ body{padding-right: 0px!important;}
 .TabbingNav .active .TabbingA{color:#58ABB7;transition: 0.3s all;font-weight: bold;}
 .Tabbing .CustomeRow{margin-top: 40px;padding-bottom: 40px;display: flex;align-items: center;justify-content: flex-start;border-bottom:2px solid #a5a5a538;}
 .Tabbing .CustomeRow .PortfolioBox img{border-radius: 10px;max-width: 100%;transition: 0.8s all;
-
+min-height: 225px;
 
 }
 .WhyZenosys .Tabbing .modal .SecOne{margin-bottom: 30px;}
