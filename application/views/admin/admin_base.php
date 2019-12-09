@@ -13,10 +13,12 @@
 <?php echo link_tag('assets/vendor/datatables/dataTables.bootstrap4.css'); ?>
 <!-- Custom styles for this template-->
 <?php echo link_tag('assets/css/sb-admin.css'); ?>
-
+<head>
+<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/admin.css">
+</head>
   </head>
 
-  <body id="page-top">
+  <body id="page-top" class="example-1  scrollbar-dusty-grass square thin">
        <?php include APPPATH . 'views/admin/includes/header.php';?>
 
 

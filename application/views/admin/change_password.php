@@ -21,7 +21,7 @@
                   <div class="form-label-group">
 <?php echo form_password(['name' => 'currentpassword', 'id' => 'password', 'class' => 'form-control', 'autofocus' => 'autofocus', 'value' => set_value('currentpassword')]); ?>
 <?php echo form_label('Current Password', 'currentpassword'); ?>
-<?php echo form_error('currentpassword', "<div style='color:red'>", "</div>"); ?>
+<?php echo form_error('currentpassword', "<div style='color:red;font-size: 12px;letter-spacing: 2px;'>", "</div>"); ?>
                   </div>
                 </div>
               </div>
@@ -33,7 +33,7 @@
                   <div class="form-label-group">
 <?php echo form_password(['name' => 'password', 'id' => 'password', 'class' => 'form-control', 'autofocus' => 'autofocus', 'value' => set_value('password')]); ?>
 <?php echo form_label('New Password', 'password'); ?>
-<?php echo form_error('password', "<div style='color:red'>", "</div>"); ?>
+<?php echo form_error('password', "<div style='color:red;font-size: 12px;letter-spacing: 2px;'>", "</div>"); ?>
                   </div>
                 </div>
               </div>
@@ -44,7 +44,7 @@
                   <div class="form-label-group">
 <?php echo form_password(['name' => 'confirmpassword', 'id' => 'confirmpassword', 'class' => 'form-control', 'autofocus' => 'autofocus', 'value' => set_value('confirmpassword')]); ?>
 <?php echo form_label('Confirm Password', 'confirmpassword'); ?>
-<?php echo form_error('confirmpassword', "<div style='color:red'>", "</div>"); ?>
+<?php echo form_error('confirmpassword', "<div style='color:red;font-size: 12px;letter-spacing: 2px;'>", "</div>"); ?>
                   </div>
                 </div>
               </div>

@@ -1,9 +1,12 @@
+
+
+
 <div class="row">
             <div class="col-xl-4 col-sm-6 mb-3">
               <div class="card text-white bg-primary o-hidden h-100">
                 <div class="card-body">
                   <div class="card-body-icon">
-                    <i class="fas fa-fw fa-comments"></i>
+                    <i class="fas fa-user"></i>
                   </div>
                   <div class="mr-5"><?php echo htmlentities($tcount); ?> Users</div>
                 </div>
@@ -21,7 +24,7 @@
                   <div class="card-body-icon">
                     <i class="fas fa-fw fa-list"></i>
                   </div>
-                  <div class="mr-5"><?php echo htmlentities($tsevencount); ?> Users</div>
+                  <div class="mr-5"><?php echo htmlentities($tsevencount); ?> Portfolio</div>
                 </div>
                 <a class="card-footer text-white clearfix small z-1" href="#">
                   <span class="float-left">Registred in Last 10 Days</span>
@@ -37,7 +40,7 @@
                   <div class="card-body-icon">
                     <i class="fas fa-fw fa-shopping-cart"></i>
                   </div>
-                  <div class="mr-5"><?php echo htmlentities($tthirycount); ?> Users</div>
+                  <div class="mr-5"><?php echo htmlentities($tthirycount); ?> Category</div>
                 </div>
                 <a class="card-footer text-white clearfix small z-1" href="#">
                   <span class="float-left">Registered in last 30 days</span>

@@ -1,4 +1,6 @@
-    <nav class="navbar navbar-expand navbar-dark bg-dark static-top">
+
+
+<nav class="navbar navbar-expand navbar-dark bg-dark static-top">
 
       <a class="navbar-brand mr-1" href="<?php echo base_url() ?>admin/Dashboard">Zenocraft Admin Panel</a>
 
