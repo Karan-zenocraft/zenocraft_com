@@ -587,6 +587,7 @@ var hashtag = window.location.hash.substr(1);
 $('.TabbingLi').removeClass('active');
 $('#li_'+hashtag).parent('li').addClass('active');
 $('#li_'+hashtag).addClass('active');
+window.location.reload();
 };
 
 $(document).ready(function() {

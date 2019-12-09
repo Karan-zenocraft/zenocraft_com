@@ -30,7 +30,7 @@ to {transform: scale(1);transition: 0.8s all}
             <ul class="nav TabbingNav">
                 <?php if (!empty($categoryList)) {
     foreach ($categoryList as $key => $category) {?>
-                <li class="TabbingLi"><a data-toggle="tab"  href="#category<?php echo $category->id; ?>" id="li_<?php echo $category->id; ?>" class="TabbingA"> <?php echo ($category->id == 1) ? '<i class="fa fa-eye"></i>' : '' ?><?php echo $category->title; ?></a></li>
+                <li class="TabbingLi"><a data-toggle="tab"  href="#category<?php echo $category->id; ?>" id="li_category<?php echo $category->id; ?>" class="TabbingA"> <?php echo ($category->id == 1) ? '<i class="fa fa-eye"></i>' : '' ?><?php echo $category->title; ?></a></li>
                 <?php }
 }?>
             </ul>
@@ -47,14 +47,14 @@ to {transform: scale(1);transition: 0.8s all}
     if (!empty($portfolioByCategory)) {
         foreach ($portfolioByCategory as $key => $portfolio) {
             ?>
-                        <div class="col-md-4" data-toggle="modal" data-target="#portfolio<?php echo $portfolio->id ?>">
+                        <div class="col-md-4" data-toggle="modal" data-target="#portfolio<?php echo $portfolio->id . "_category" . $category->id ?>">
                             <div class="PortfolioBox">
                                 <img src="<?php echo base_url() . "assets/uploads/" . $portfolio->image ?>" alt="" class="img-fluid">
                                 <i class="fa fa-eye"></i>
                             </div>
-                            <a data-toggle="modal" data-target="#portfolio<?php echo $portfolio->id ?>" class="Title"><?php echo $portfolio->title ?></a>
+                            <a data-toggle="modal" data-target="#portfolio<?php echo $portfolio->id . "_category" . $category->id ?>" class="Title"><?php echo $portfolio->title ?></a>
                         </div>
-                        <div class="modal fade scrollbar-dusty-grass square thin" id="portfolio<?php echo $portfolio->id ?>">
+                        <div class="modal fade scrollbar-dusty-grass square thin" id="portfolio<?php echo $portfolio->id . "_category" . $category->id ?>">
                             <div class="modal-dialog modal-dialog-centered">
                                 <div class="modal-content">
                                     <!-- Modal Header -->
