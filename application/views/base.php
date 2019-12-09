@@ -188,6 +188,16 @@
     <script src="<?php echo base_url(); ?>assets/js/comman.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
 
+    
+    <script>
+    
+    $(document).ready(function(){
+  $('.sidebar.navbar-nav .nav-item').click(function(){
+    $('.nav-item').removeClass("active");
+    $(this).addClass("active");
+});
+});  
+    </script>
 
 
 </body>

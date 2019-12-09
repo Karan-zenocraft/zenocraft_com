@@ -8,14 +8,14 @@
           </a>
         </li>
 
-        <li class="nav-item">
+        <li class="nav-item ">
           <a class="nav-link" href="<?php echo site_url('admin/Manage_Users'); ?>">
-            <i class="fas fa-fw fa-users"></i>
+            <i class="fas fa-fw fa-user-tie"></i>
             <span>Manage Users</span></a>
         </li>
          <li class="nav-item">
           <a class="nav-link" href="<?php echo site_url('admin/Portfolio'); ?>">
-            <i class="fas fa-fw fa-briefcase"></i>
+            <i class="fas fa-fw fa-list"></i>
             <span>Manage Portfolio</span></a>
         </li>
          <li class="nav-item">
@@ -25,7 +25,7 @@
         </li>
           <li class="nav-item">
           <a class="nav-link" href="<?php echo site_url('admin/Careers'); ?>">
-            <i class="fas fa-fw fa-tasks"></i>
+            <i class="fas fa-fw fa-graduation-cap"></i>
             <span>Manage Careers</span></a>
         </li>
          <li class="nav-item">
@@ -35,3 +35,9 @@
         </li>
 
       </ul>
+<script>
+
+    
+      
+</script>
+

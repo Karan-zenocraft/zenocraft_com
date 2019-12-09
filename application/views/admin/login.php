@@ -19,16 +19,16 @@
         .form-label-group input:focus, .form-label-group input:hover{outline: none;box-shadow: none;transition: 0.4s all}
         .form-group {margin-bottom: 30px;}
         .card-body form .d-block.small{float: right;margin-top: 5px;}
-        .btn-primary{background-color: #174477;border-color: #174477;}
-        .btn-primary:hover{background-color: transparent;border-color: #174477;color: #174477};transition: 0.4s all
+        .btn-primary{background-color: #212529;border-color: #212529;}
+        .btn-primary:hover{background-color: transparent;border-color: #212529;color: #212529};transition: 0.4s all
         .btn-primary.focus, .btn-primary:focus{box-shadow: none!important;transition: 0.4s all}
-        .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle{color: #174477;background-color: transparent;border-color: #174477;}
-        .card-body form .d-block.small{color: #174477;letter-spacing: 2px;margin-top: 5px;}
+        .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle{color: #212529;background-color: transparent;border-color: #212529;}
+        .card-body form .d-block.small{color: #212529;letter-spacing: 2px;margin-top: 5px;}
         .card-body form .d-block.small:hover{text-decoration: none}
-        .form-control:focus{border-color: #174477;transition: 0.4s all}
+        .form-control:focus{border-color: #212529;transition: 0.4s all}
         .card.card-login.mx-auto.mt-5{margin-top: 135px!important;}
         .btn-primary.focus, .btn-primary:focus{box-shadow: none!important;}
-        .card-body .navbar-brand.mr-1{margin: auto;letter-spacing: 2px;font-weight: bold;color: #174477;
+        .card-body .navbar-brand.mr-1{margin: auto;letter-spacing: 2px;font-weight: bold;color: #212529;
     text-align: center;
     display: block;
     margin-bottom: 20px;}
@@ -47,7 +47,7 @@
         <div class="card-body">
             
             
-            <a class="navbar-brand mr-1" href="/zenocraft_com/admin/Dashboard">Zenocraft Admin Panel</a>
+            <a class="navbar-brand mr-1" href="/zenocraft_com/admin/Dashboard">Zenocraft Admin</a>
             
 <?php echo form_open('admin/login'); ?>
             <div class="form-group">
