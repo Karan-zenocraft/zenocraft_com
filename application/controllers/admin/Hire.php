@@ -27,13 +27,13 @@ class Hire extends Admin_Controller
             $formData = $this->input->post();
 
             // Form field validation rules
-            $this->form_validation->set_rules('technology', 'technology', 'required');
+            $this->form_validation->set_rules('rate', 'rate', 'required');
             $this->form_validation->set_rules('description', 'description', 'required');
             // Validate submitted form data
             if ($this->form_validation->run() == true) {
 
                 $data = array(
-                    'technology' => $formData['technology'],
+                    'rate' => $formData['rate'],
                     'description' => $formData['description'],
                 );
                 $udetail = $this->HireModel->addDetails($data);
@@ -60,14 +60,14 @@ class Hire extends Admin_Controller
             $formData = $this->input->post();
 
             // Form field validation rules
-            $this->form_validation->set_rules('technology', 'technology', 'required');
+            $this->form_validation->set_rules('rate', 'rate', 'required');
             $this->form_validation->set_rules('description', 'description', 'required');
 
             // Validate submitted form data
             if ($this->form_validation->run() == true) {
 
                 $data = array(
-                    'technology' => $formData['technology'],
+                    'rate' => $formData['rate'],
                     'description' => $formData['description'],
                 );
 
@@ -88,7 +88,7 @@ class Hire extends Admin_Controller
     {
         $this->load->model('HireModel');
         $this->HireModel->delete($uid);
-        $this->session->set_flashdata('success', 'Technology deleted successfully.');
+        $this->session->set_flashdata('success', 'Rate deleted successfully.');
         redirect('admin/Hire');
     }
 

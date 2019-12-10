@@ -16,7 +16,7 @@
       <thead>
         <tr>
           <th>#</th>
-          <th>Technology</th>
+          <th>Rate</th>
           <th>Description</th>
            <th>Action</th>
         </tr>
@@ -27,7 +27,7 @@ if (count($hire)):
     $cnt = 1;
     foreach ($hire as $row): ?>
 					    <td><?php echo htmlentities($cnt); ?></td>
-					    <td><?php echo htmlentities($row->technology) ?></td>
+					    <td><?php echo htmlentities($row->rate) ?></td>
 						<td><?php echo htmlentities($row->description) ?></td>
 						<td><?php echo anchor("admin/Hire/update/{$row->id}", ' ', 'class="fa fa-edit"') ?>
 						<?php echo anchor("admin/Hire/delete/{$row->id}", ' ', 'class="fa fa-trash"') ?> </td>

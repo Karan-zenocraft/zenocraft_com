@@ -1,3 +1,9 @@
+      <style type="text/css">
+          
+.WhyZenosys .Careers .table thead th:first-child{width: 85%;}
+
+      </style>
+
       <div class="container">
             <div class="slick-carousel row WhyZenosysInner d-flex align-items-center align-items-center">
         <div>
@@ -49,14 +55,18 @@
                     <table class="table table-striped">
     <thead>
       <tr>
-        <th>Job</th>
+        <th>Description</th>
+        <th>Rate / hr</th>
       </tr>
     </thead>
     <tbody>
         <?php if (!empty($jobs)) {
     foreach ($jobs as $key => $job) {?>
       <tr>
-        <td onclick="get_description('<?php echo $job->id; ?>')"><a href="javascript:void(0);"><?php echo $job->technology; ?></a></td>
+        <td><?php echo $job->description; ?></td>
+        <td><?php echo $job->rate;?> USD</a></td>
+
+
         <input type="hidden" id="desc<?php echo $job->id; ?>" name="desc" value="<?php echo addslashes($job->description); ?>">
       </tr>
   <?php }?>
@@ -70,9 +80,9 @@
 </div>
 
                 </div>
-                <div class="col-md-5 WhyZenosysContent Careers CareersRight">
+                <!-- <div class="col-md-5 WhyZenosysContent Careers CareersRight">
 
-<!--                    <h2 class="TitleH2">Job Description</h2>-->
+
 
                     <h3 class="TitleH3">Description</h3>
                     <?php $first_job = !empty($jobs) ? current($jobs) : "";?>
@@ -80,7 +90,7 @@
                     </ul>
 
 
-                 </div>
+                 </div>   -->
 
             </div>
 

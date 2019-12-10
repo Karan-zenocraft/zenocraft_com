@@ -16,14 +16,14 @@ class HireModel extends CI_Model
     }
     public function getHireDetails()
     {
-        $query = $this->db->select('technology,description,id')
+        $query = $this->db->select('rate,description,id')
             ->get('hire');
         return $query->result();
     }
 //Getting particular user deatials on the basis of id
     public function getDetailsById($uid)
     {
-        $ret = $this->db->select('technology,description,id')
+        $ret = $this->db->select('rate,description,id')
             ->where('id', $uid)
             ->get('hire');
         return $ret->row();

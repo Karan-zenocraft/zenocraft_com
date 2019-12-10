@@ -9,8 +9,8 @@
         </div>
 
         <div class="input-group">
-            <input type="text" name="technology" value="<?php echo !empty($postData['technology']) ? $postData['technology'] : ''; ?>" placeholder="Technology">
-            <?php echo form_error('technology', '<p class="field-error">', '</p>'); ?>
+            <input type="number" name="rate" value="<?php echo !empty($postData['rate']) ? $postData['rate'] : ''; ?>" placeholder="Rate">
+            <?php echo form_error('rate', '<p class="field-error">', '</p>'); ?>
         </div>
         <div class="input-group">
         	<textarea name="description" value="<?php echo !empty($postData['description']) ? $postData['description'] : ''; ?>" placeholder="Project Description"></textarea>
