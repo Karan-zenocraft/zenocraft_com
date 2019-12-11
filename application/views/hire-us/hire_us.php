@@ -7,9 +7,11 @@
 .WhyZenosys .WhyZenosysContent.Careers, .WhyZenosys .WhyZenosysContent.Hiring{padding-top: 10px;}  
 .WhyZenosys .quote h6{margin: 0}
 .WhyZenosys .quote{margin-bottom: 20px;}
-.WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom: 15px;}
+.WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom: 15px;line-height: 20px;}
 @media(min-width:320px) and (max-width:767px){.WhyZenosys .quote h6{font-size: 15px;margin-top: 20px;letter-spacing: 0;}
-    .quote .Hirebtn{font-size: 12px;width: 180px;}         
+    .quote .Hirebtn{font-size: 12px;width: 195x;}         
+    .WhyZenosys .Careers .table thead th:first-child{width: 75%;}
+    .WhyZenosys .Careers .table-responsive {padding-bottom: 0;}
 }
 @media(min-width:768px) and (max-width:1199px){.WhyZenosys .quote h6{font-size: 16px;margin-top: 20px;letter-spacing: 1;}}
 @media(min-width:767px) and (max-width:1024px){.WhyZenosys .Careers .table thead th:first-child{width: 78%;}}

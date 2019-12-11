@@ -109,7 +109,7 @@ if ($i % 3 == 0) {
                         ?>
                        
                            
-                    <div class="">
+                    <div class="col-md-4 d-flex align-items-center justify-content-center Video">
                     <iframe width="340" height="225" style="border-radius: 10px;" src="https://www.youtube.com/embed/cTCBgTN64ik?rel=0&amp;modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                         </div>
                     

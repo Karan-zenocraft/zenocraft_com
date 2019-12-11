@@ -335,7 +335,8 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .Tabbing .Title{font-size: 14px;}
     
     
-.Tabbing .CustomeRow .PortfolioBox{width: 90%;height: unset;max-height: 160px; }    
+.Tabbing .CustomeRow .PortfolioBox{width: 90%;height: unset;max-height: 160px; }
+    .Tabbing .Video iframe{height: 160px;width: 207px;}
 .Slider .SliderInner .Caption p{font-size: 10px;line-height: 12px;}    
 h1, .TitleH1{font-size: 16px;line-height: 20px;}
 p, .TitleP{font-size: 13px;line-height: 18px;}
@@ -481,7 +482,7 @@ h6, .TitleH6{font-size: 13px;}
     
     .Hirebtn i{display: none}
     
-    
+    .Tabbing .Video iframe{margin-bottom: 25px;}
     .ContactBox form .form-group.group:last-child{margin-bottom: 0px;margin-top: 30px}
     .SoftwareDevelopment .SoftwareDevelopmentRight{margin-bottom: 40px;}   
     .WhyZenosys .WhyZenosysContent.col-md-8{padding-bottom: 0;}
