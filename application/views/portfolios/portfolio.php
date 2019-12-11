@@ -1,6 +1,7 @@
 <script>
 </script>
 <style>
+    .Tabbing .CustomeRow .modal-logo{max-width:500px!important}
 /*
 .modal.show .modal-dialog{transform: scale(0)!important;
 -webkit-animation: animatezoom 0.9s;
@@ -80,17 +81,46 @@ to {transform: scale(1);transition: 0.8s all}
                                             </div>
                                         </div>
                                     </div>
-                                    <!--
-                                    <div class="modal-footer">
-                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    </div>
-                                    -->
                                 </div>
                             </div>
                         </div>
                         
                         
-                                        <?php
+                        
+                        
+                        
+                        
+<!--logodesign-->
+                        
+<!--
+                        <div class="col-md-4" data-toggle="modal" data-target="#portfolio<?php echo $portfolio->id . "_category" . $category->id ?>">
+                            <div class="PortfolioBox">
+                                <img src="<?php echo base_url() . "assets/uploads/" . $portfolio->image ?>" alt="" class="img-fluid">
+                                <i class="fa fa-eye"></i>
+                            </div>
+                            <a data-toggle="modal" data-target="#portfolio<?php echo $portfolio->id . "_category" . $category->id ?>" class="Title"><?php echo $portfolio->title ?></a>
+                        </div>
+                        <div class="modal fade scrollbar-dusty-grass square thin" id="portfolio<?php echo $portfolio->id . "_category" . $category->id ?>">
+                            <div class="modal-dialog modal-dialog-centered modal-logo">
+                                <div class="modal-content">
+                                    
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <img src="<?php echo base_url() . "assets/uploads/" . $portfolio->image ?>" alt="" class="img-fluid">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+-->
+                        
+                        
+<?php
 if ($i % 3 == 0) {
                 echo "</div><div class='CustomeRow'>";
             }

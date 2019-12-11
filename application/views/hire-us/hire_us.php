@@ -6,10 +6,20 @@
 .WhyZenosys .WhyZenosysContent.Hiring ul li{margin-bottom: 5px;}
 .WhyZenosys .WhyZenosysContent.Careers, .WhyZenosys .WhyZenosysContent.Hiring{padding-top: 10px;}  
 .WhyZenosys .quote h6{margin: 0}
-.WhyZenosys .quote{margin-bottom: 20px;}
-.WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom: 15px;line-height: 20px;}
+.WhyZenosys .quote{margin-bottom: 20px;padding-bottom: 20px;
+    padding-top: 20px;background: #F7F7F7;}
+.WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom:0px;line-height: 20px;margin-right: auto;}
+          .WhyZenosys .quote .Hirebtn{margin-right: 40px;}
+          .WhyZenosys .quote h6 .arrow-right{width: 0;
+    height: 0;
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+    border-left: 8px solid #ff7070;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    display: inline-flex;}
 @media(min-width:320px) and (max-width:767px){.WhyZenosys .quote h6{font-size: 15px;margin-top: 20px;letter-spacing: 0;}
-    .quote .Hirebtn{font-size: 12px;width: 195x;}         
+    .WhyZenosys .quote .Hirebtn{font-size: 12px;width: 195x;}         
     .WhyZenosys .Careers .table thead th:first-child{width: 75%;}
     .WhyZenosys .Careers .table-responsive {padding-bottom: 0;}
 }
@@ -127,16 +137,19 @@
     
 </div>
  </div>
-
-
-<div class="CustomeRow quote">
-<div class="d-flex align-items-center justify-content-center flex-column col-md-12 text-center">
-    <h6><b>Do you have any idea in mind? Let’s discuss and give life to your idea </b></h6><a href="<?php echo base_url(); ?>contact" class="Hirebtn">“Get a free quote”</a>    
- 
 </div>
 
+<section class="CustomeRow quote">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="d-flex align-items-center justify-content-start col-md-12 text-center">
+    <h6><b><div class="arrow-right"></div>Do you have any idea in mind ? Let’s we discuss and give life to your idea. </b></h6><a href="<?php echo base_url(); ?>contact" class="Hirebtn">“Get a free quote”</a>    
+ </div>
 </div>
-
+</div>
+</div>
+</section>
 
 <script type="text/javascript">
 $(document).ready(function () {
