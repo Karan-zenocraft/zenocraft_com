@@ -6,9 +6,10 @@
 .WhyZenosys .WhyZenosysContent.Hiring ul li{margin-bottom: 5px;}
 .WhyZenosys .WhyZenosysContent.Careers, .WhyZenosys .WhyZenosysContent.Hiring{padding-top: 10px;}  
 .WhyZenosys .quote h6{margin: 0}
-.WhyZenosys .quote{margin-bottom: 00px;padding-bottom: 20px;border-top: 1px solid #174477;
+.WhyZenosys .quote{margin-bottom: 00px;padding-bottom: 20px;border-top: 0px solid #174477;
     padding-top: 20px;background: #dee2e669;}
 .WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom:0px;line-height: 20px;margin-right: auto;margin-top: 0!important;}
+          .WhyZenosys .quote h6 i {color: #174477;}
           .WhyZenosys .quote .Hirebtn{margin-right: 40px;}
           .WhyZenosys .quote h6 .arrow-right{width: 0;
     height: 0;
@@ -148,7 +149,7 @@
 <div class="row">
 <div class="col-md-12">
 <div class="d-flex align-items-center justify-content-start col-md-12 text-center">
-    <h6><b><div class="arrow-right"></div>Do you have any idea in mind ? Let’s discuss and give life to your idea. </b></h6><a href="<?php echo base_url(); ?>contact" class="Hirebtn">Get a free quote</a>    
+    <h6><b><i style="font-size: 15px;" class="fa fa-quote-left"></i>&nbsp;&nbsp;Do you have any idea in mind ? Let’s discuss and give life to your idea&nbsp;&nbsp;<i style="font-size: 15px;" class="fa fa-quote-right"></i></b></h6><a href="<?php echo base_url(); ?>contact" class="Hirebtn">Get a free quote</a>    
  </div>
 </div>
 </div>
