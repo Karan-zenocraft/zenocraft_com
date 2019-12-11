@@ -6,24 +6,28 @@
 .WhyZenosys .WhyZenosysContent.Hiring ul li{margin-bottom: 5px;}
 .WhyZenosys .WhyZenosysContent.Careers, .WhyZenosys .WhyZenosysContent.Hiring{padding-top: 10px;}  
 .WhyZenosys .quote h6{margin: 0}
-.WhyZenosys .quote{margin-bottom: 20px;padding-bottom: 20px;
-    padding-top: 20px;background: #F7F7F7;}
-.WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom:0px;line-height: 20px;margin-right: auto;}
+.WhyZenosys .quote{margin-bottom: 00px;padding-bottom: 20px;border-top: 1px solid #174477;
+    padding-top: 20px;background: #dee2e669;}
+.WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom:0px;line-height: 20px;margin-right: auto;margin-top: 0!important;}
           .WhyZenosys .quote .Hirebtn{margin-right: 40px;}
           .WhyZenosys .quote h6 .arrow-right{width: 0;
     height: 0;
-    border-top: 8px solid transparent;
-    border-bottom: 8px solid transparent;
-    border-left: 8px solid #ff7070;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 7px solid #ff7070;
     margin-right: 10px;
     margin-bottom: 0px;
     display: inline-flex;}
 @media(min-width:320px) and (max-width:767px){.WhyZenosys .quote h6{font-size: 15px;margin-top: 20px;letter-spacing: 0;}
-    .WhyZenosys .quote .Hirebtn{font-size: 12px;width: 195x;}         
+    .WhyZenosys .quote .Hirebtn{font-size: 12px;width: 195px;}         
     .WhyZenosys .Careers .table thead th:first-child{width: 75%;}
     .WhyZenosys .Careers .table-responsive {padding-bottom: 0;}
+    .WhyZenosys .quote .col-md-12.text-center{flex-direction: column}
+    .WhyZenosys .quote h6 .arrow-right{display: none;}
+    .WhyZenosys .quote .Hirebtn{margin-right: auto;
+    margin-top: 15px;}
 }
-@media(min-width:768px) and (max-width:1199px){.WhyZenosys .quote h6{font-size: 16px;margin-top: 20px;letter-spacing: 1;}}
+@media(min-width:768px) and (max-width:1199px){.WhyZenosys .quote h6{font-size: 16px;margin-top: 20px;letter-spacing: 1px;text-align: left}}
 @media(min-width:767px) and (max-width:1024px){.WhyZenosys .Careers .table thead th:first-child{width: 78%;}}
       </style>
 
@@ -144,7 +148,7 @@
 <div class="row">
 <div class="col-md-12">
 <div class="d-flex align-items-center justify-content-start col-md-12 text-center">
-    <h6><b><div class="arrow-right"></div>Do you have any idea in mind ? Let’s we discuss and give life to your idea. </b></h6><a href="<?php echo base_url(); ?>contact" class="Hirebtn">“Get a free quote”</a>    
+    <h6><b><div class="arrow-right"></div>Do you have any idea in mind ? Let’s discuss and give life to your idea. </b></h6><a href="<?php echo base_url(); ?>contact" class="Hirebtn">Get a free quote</a>    
  </div>
 </div>
 </div>
