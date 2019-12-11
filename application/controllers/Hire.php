@@ -41,7 +41,7 @@ class Hire extends MY_Controller
         $config["base_url"] = base_url() . "hire";
         $hire_type = 2;
         $config["total_rows"] = $this->HireModel->get_count($hire_type);
-        $config["per_page"] = 5;
+        $config["per_page"] = 20;
         $config["uri_segment"] = 2;
 
         $this->pagination->initialize($config);

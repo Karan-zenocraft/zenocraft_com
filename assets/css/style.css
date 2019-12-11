@@ -936,7 +936,7 @@ body{padding-right: 0px!important;}
 .TabbingNav .TabbingLi .TabbingA {padding: 10px 21px;text-transform: uppercase;font-family: 'Arial';font-weight: normal;font-size: 14px;color: #888787;letter-spacing: 1.7px;line-height: 20px;border-right: 1px solid #a5a5a538;}
 .TabbingNav .TabbingLi .TabbingA:hover{color:#58ABB7;transition: 0.3s all}
 .TabbingNav .active .TabbingA{color:#58ABB7;transition: 0.3s all;font-weight: bold;}
-.Tabbing .CustomeRow{margin-top: 40px;padding-bottom: 40px;display: flex;align-items: center;justify-content: flex-start;border-bottom:2px solid #a5a5a538;}
+.Tabbing .CustomeRow{margin-top: 40px;padding-bottom: 40px;display: flex;align-items: flex-start;justify-content: flex-start;border-bottom:2px solid #a5a5a538;}
 .Tabbing .CustomeRow .PortfolioBox img{border-radius: 10px;max-width: 100%;transition: 0.8s all;
 min-height: 225px;
 
@@ -1167,3 +1167,7 @@ nav ul li {
 
 .Tabbing .CustomeRow .LogoModel .modal-dialog{max-width: 400px!important;}
 .LogoModel .modal-dialog .modal-content .modal-body .col-md-12 img{max-width: 100%;margin: auto;display: block;text-align: center;}
+
+.WhyZenosys .Hiring ul li{position: relative;}
+.WhyZenosys .Hiring ul li:after{position: absolute;top: 0;left: 0;bottom: 0;background: #174477;height: 4px;width: 4px;border-radius: 50%;margin: auto;}
+.WhyZenosys .Hiring p{font-weight: bold;font-size: 16px;letter-spacing: 1px;}

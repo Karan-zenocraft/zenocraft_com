@@ -6,6 +6,7 @@
      <link rel="canonical" href="http://www.zenocraft.com/" />
     <meta charset="UTF-8">
     <meta name="description" content="Zenocraft is one of the top web and mobile app development company for iOS, Android, and React Native in New Jersey, USA. Artificial Intelligence, Augmented Reality, Virtual Reality, and Enterprise solutions are available.">
+    <meta name="google-site-verification" content="8iDSy2-FT265PzmJx-aWDtjRGYSJ9p3I9e0K8gIXroo" />
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#174477" />

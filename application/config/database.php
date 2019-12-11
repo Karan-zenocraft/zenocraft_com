@@ -76,7 +76,7 @@ $db['default'] = array(
     'dsn' => '',
     'hostname' => 'localhost',
     'username' => 'root',
-    'password' => ($_SERVER['HTTP_HOST'] == 'localhost') ? 'rutusha@123' : 'Zenocraft@123',
+    'password' => ($_SERVER['HTTP_HOST'] == 'localhost') ? '' : 'Zenocraft@123',
     'database' => 'zenocraft_com',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',

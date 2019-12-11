@@ -1,7 +1,18 @@
       <style type="text/css">
           
 .WhyZenosys .Careers .table thead th:first-child{width: 85%;}
-
+.WhyZenosys .Careers h6 p{font-weight: bold;font-size: 16px;letter-spacing: 1.5px;}
+.WhyZenosys .WhyZenosysContent.Hiring  p{padding: 0;margin-bottom: 3px;}       
+.WhyZenosys .WhyZenosysContent.Hiring ul li{margin-bottom: 5px;}
+.WhyZenosys .WhyZenosysContent.Careers, .WhyZenosys .WhyZenosysContent.Hiring{padding-top: 10px;}  
+.WhyZenosys .quote h6{margin: 0}
+.WhyZenosys .quote{margin-bottom: 20px;}
+.WhyZenosys .quote h6{font-size: 18px;letter-spacing: 2px;font-family: 'Arial';font-weight: lighter;margin-bottom: 15px;}
+@media(min-width:320px) and (max-width:767px){.WhyZenosys .quote h6{font-size: 15px;margin-top: 20px;letter-spacing: 0;}
+    .quote .Hirebtn{font-size: 12px;width: 180px;}         
+}
+@media(min-width:768px) and (max-width:1199px){.WhyZenosys .quote h6{font-size: 16px;margin-top: 20px;letter-spacing: 1;}}
+@media(min-width:767px) and (max-width:1024px){.WhyZenosys .Careers .table thead th:first-child{width: 78%;}}
       </style>
 
       <div class="container">
@@ -47,15 +58,22 @@
 
 
             <div class="row">
+                <div class="col-md-12 WhyZenosysContent Careers">
+                    <h2 class="TitleH2">Hire Developers</h2>
+                    <h6><p>Create extraordinary business strategies with our highly skilled and certified professionals for your business needs.</p></h6>
+                    <p>In today’s world, online presence plays a vital role and hiring the right resource to execute the right job makes the business successful. Hiring dedicated resources help you reduce many costs such as recruitment, peripheral benefits, promotion, training, infrastructure, etc. compared to your in-house employees.</p>
+                    <p>Create amazing business strategies with our highly skilled and certified professionals for your business needs. We offer services to a wide range of industries by exceeding our client’s expectations. You can directly interact with the developer or team regarding your project, the same way as you do with your in-house team.</p>
+                    <p>We understand that every task requires different skill-sets and hiring models. We provide a flexible hiring model that suits your needs on Monthy/Weekly/Hourly basis.</p>
+                </div>
+          </div>
+          
+          <div class="row">
                 <div class="col-md-7 WhyZenosysContent Careers">
-                    <h2 class="TitleH2">Hire Dedicated Developers</h2>
-
-
                     <div class="table-responsive">
                     <table class="table table-striped">
     <thead>
       <tr>
-        <th>Description</th>
+        <th>Technology</th>
         <th>Rate / hr</th>
       </tr>
     </thead>
@@ -79,24 +97,45 @@
 <?php }?>
 </div>
 
-                </div>
-                <!-- <div class="col-md-5 WhyZenosysContent Careers CareersRight">
-
-
-
-                    <h3 class="TitleH3">Description</h3>
-                    <?php $first_job = !empty($jobs) ? current($jobs) : "";?>
-                    <p class="put_desc"><?php echo !empty($first_job) ? $first_job->description : "No data" ?></p>
-                    </ul>
-
-
-                 </div>   -->
-
-            </div>
-
+               
 
 
         </div>
+
+
+<div class="col-md-5 Hiring WhyZenosysContent">
+    <p>Why hire dedicated resources from Zenocraft?</p>
+    <ul>
+        <li>Flexible Hiring Models</li>
+        <li>Total involvement and control of your team</li>
+        <li>Highly skilled and certified professionals.</li>
+        <li>Seamless communication with the offshore team anytime, anywhere.</li>
+        <li>Monitor performance via daily reports.</li>
+        <li>Secured development area.</li>
+        <li>Source code authorization.</li>
+        <li>Save time and money.</li>
+        <li> Flexible timings.</li>
+        <li>Track the team’s performance with Project Management.</li>
+        <li>Tools like Basecamp, Jira, Redmine, etc.</li>
+        <li> Adherence to deadlines.</li>
+        <li> 100% confidentiality.</li>
+    
+    
+    </ul>
+    
+</div>
+ </div>
+
+
+<div class="CustomeRow quote">
+<div class="d-flex align-items-center justify-content-center flex-column col-md-12 text-center">
+    <h6><b>Do you have any idea in mind? Let’s discuss and give life to your idea </b></h6><a href="<?php echo base_url(); ?>contact" class="Hirebtn">“Get a free quote”</a>    
+ 
+</div>
+
+</div>
+
+
 <script type="text/javascript">
 $(document).ready(function () {
 
