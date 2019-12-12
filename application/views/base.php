@@ -5,7 +5,7 @@
     <title>Top Web & Mobile App Development Company | iOS & Android | Zenocraft</title>
      <link rel="canonical" href="http://www.zenocraft.com/" />
     <meta charset="UTF-8">
-    <meta name="description" content="Zenocraft is one of the top web and mobile app development company for iOS, Android, and React Native in New Jersey, USA. Artificial Intelligence, Augmented Reality, Virtual Reality, and Enterprise solutions are available.">
+    <meta name="description" content="Zenocraft is one of the top web & mobile app development company serving fortune 500 companies. Expertise in iOS, Android, & React Native in New Jersey, USA. Hire developers, Hire designers, Expert Artificial Intelligence, Expert Augmented Reality, Expert Virtual Reality, and Enterprise solutions.">
     <meta name="google-site-verification" content="8iDSy2-FT265PzmJx-aWDtjRGYSJ9p3I9e0K8gIXroo" />
     <meta name="keywords" content="web development fortune 500 companies,top web development company in usa,top mobile app development company in usa,top web designer,top android developer,top ios developer, hire developer, hire resource, hire IT company, tableau expert, php,laravel,yii">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
