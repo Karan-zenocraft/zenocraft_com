@@ -161,6 +161,8 @@ border-radius: 2%;border: none;outline: none;
 .bg-success{background: #e9ecef!important;box-shadow: 12px 7px 20px 0px #b1afaf;}
 .Ablock{color: inherit}
 .Ablock:hover{text-decoration: none;color: inherit;}
+.card-body-icon i{font-size: 50px;}
+.card-body-icon{top: -35px;}
 @media(max-width:767px){
     
     
