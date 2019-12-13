@@ -3,7 +3,7 @@
 <div class="card mb-3">
   <div class="card-header">
     <i class="fas fa-table"></i>
-  Manage Portfolio</div>
+  Manage Careers</div>
   <div>
     <a href="<?php echo base_url() ?>admin/Careers/create"><button class="add_button"><i class="fas fa-plus"></i>Add Job</button></a>
   </div>
@@ -31,15 +31,15 @@
 if (count($career)):
     $cnt = 1;
     foreach ($career as $row): ?>
-			    <td><?php echo htmlentities($cnt); ?></td>
-			    <td><?php echo htmlentities($row->job_id) ?></td>
-			    <td><?php echo htmlentities($row->title) ?></td>
-				<td><?php echo htmlentities($row->location) ?></td>
-				<td><?php echo htmlentities($row->type) ?></td>
-				<td><?php echo htmlentities($row->description) ?></td>
-				<td><?php echo anchor("admin/Careers/update/{$row->id}", ' ', 'class="fa fa-edit"') ?>
-				<?php echo anchor("admin/Careers/delete/{$row->id}", ' ', 'class="fa fa-trash"') ?> </td>
-					</tr><?php $cnt++;endforeach;else: ?>
+					    <td><?php echo htmlentities($cnt); ?></td>
+					    <td><?php echo htmlentities($row->job_id) ?></td>
+					    <td><?php echo htmlentities($row->title) ?></td>
+						<td><?php echo htmlentities($row->location) ?></td>
+						<td><?php echo htmlentities($row->type) ?></td>
+						<td><?php echo htmlentities($row->description) ?></td>
+						<td><?php echo anchor("admin/Careers/update/{$row->id}", ' ', 'class="fa fa-edit"') ?>
+						<?php echo anchor("admin/Careers/delete/{$row->id}", ' ', 'class="fa fa-trash"') ?> </td>
+							</tr><?php $cnt++;endforeach;else: ?>
         <tr>
           <td colspan="6">No Record found</td>
         </tr>

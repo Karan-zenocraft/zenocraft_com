@@ -3,7 +3,7 @@
 <div class="card mb-3">
   <div class="card-header">
     <i class="fas fa-table"></i>
-  Users Details</div>
+  Manage Users</div>
   <div>
     <a href="<?php echo base_url() ?>admin/Manage_Users/adduserdetail"><button class="add_button"><i class="fas fa-plus"></i>Add User</button></a>
   </div>
@@ -31,8 +31,8 @@ if (count($userdetails)):
     $cnt = 1;
     foreach ($userdetails as $row):
     ?>                                                                                                                                                                              <td><?php echo htmlentities($cnt); ?></td>                                              <td><?php echo htmlentities($row->firstName) ?></td>                                    <td><?php echo htmlentities($row->lastName) ?></td>
-		        <td><?php echo htmlentities($row->emailId) ?></td>                       <td><?php echo htmlentities($row->regDate) ?></td>                                      <td><?php echo anchor("admin/Manage_Users/getuserdetail/{$row->id}", ' ', 'class="fa fa-edit"') ?>                                                                                                                                              <?php echo anchor("admin/Manage_Users/deleteuser/{$row->id}", ' ', 'class="fa fa-trash"') ?>                                                                      </td>                                                                                 </tr>
-		        <?php $cnt++;endforeach;else: ?>
+									        <td><?php echo htmlentities($row->emailId) ?></td>                       <td><?php echo htmlentities($row->regDate) ?></td>                                      <td><?php echo anchor("admin/Manage_Users/getuserdetail/{$row->id}", ' ', 'class="fa fa-edit"') ?>                                                                                                                                              <?php echo anchor("admin/Manage_Users/deleteuser/{$row->id}", ' ', 'class="fa fa-trash"') ?>                                                                      </td>                                                                                 </tr>
+									        <?php $cnt++;endforeach;else: ?>
         <tr>
           <td colspan="6">No Record found</td>
         </tr>

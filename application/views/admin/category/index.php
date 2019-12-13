@@ -3,7 +3,7 @@
 <div class="card mb-3">
   <div class="card-header">
     <i class="fas fa-table"></i>
-  Manage Portfolio</div>
+  Manage Categories</div>
   <div>
     <a href="<?php echo base_url() ?>admin/Category/create"><button class="add_button"><i class="fas fa-plus"></i>Add Category</button></a>
   </div>
@@ -27,11 +27,11 @@
 if (count($category)):
     $cnt = 1;
     foreach ($category as $row): ?>
-								    <td><?php echo htmlentities($cnt); ?></td>
-								    <td><?php echo htmlentities($row->title) ?></td>
-									<td><?php echo anchor("admin/Category/update/{$row->id}", ' ', 'class="fa fa-edit"') ?>
-									<?php echo anchor("admin/Category/delete/{$row->id}", ' ', 'class="fa fa-trash"') ?> </td>
-										</tr><?php $cnt++;endforeach;else: ?>
+										    <td><?php echo htmlentities($cnt); ?></td>
+										    <td><?php echo htmlentities($row->title) ?></td>
+											<td><?php echo anchor("admin/Category/update/{$row->id}", ' ', 'class="fa fa-edit"') ?>
+											<?php echo anchor("admin/Category/delete/{$row->id}", ' ', 'class="fa fa-trash"') ?> </td>
+												</tr><?php $cnt++;endforeach;else: ?>
     <tr>
       <td colspan="6">No Record found</td>
     </tr>
