@@ -308,7 +308,7 @@
                        <h3 class="TitleH3">USA Corporate Office</h3>
                        <p>3084 State Route 27, Suite 12, Kendall Park,NJ 08824, USA</p>
                        <a href="tel:+1 8884062862" class="Phone">+1 888-406-2862</a>
-                        <a href="mailto:contact@zenocraft.com" class="fa fa-envelope"></i>contact@zenocraft.com</a>
+                        <a href="mailto:contact@zenocraft.com"> <i class="fa fa-envelope"></i>contact@zenocraft.com</a>
                          <a href="tel:+1 7325842421"><i class="fa fa-fax"></i>+1 732-584-2421</a>
                     </div>
 
