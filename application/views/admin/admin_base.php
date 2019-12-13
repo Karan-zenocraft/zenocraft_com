@@ -4,7 +4,7 @@
   <head>
 
 <title>Admin - Dashboard</title>
-
+ <link rel="icon" href="<?php echo base_url(); ?>assets/images/fav_icon.png" type="image/png" sizes="64x64">
 <!-- Bootstrap core CSS-->
 <?php echo link_tag('assets/vendor/bootstrap/css/bootstrap.min.css'); ?>
 <!-- Custom fonts for this template-->

@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <title>Admin Login</title>
-
+ <link rel="icon" href="<?php echo base_url(); ?>assets/images/fav_icon.png" type="image/png" sizes="64x64">
 <?php echo link_tag('assets/vendor/bootstrap/css/bootstrap.min.css'); ?>
 <?php echo link_tag('assets/vendor/fontawesome-free/css/all.min.css'); ?>
 <?php echo link_tag('assets/css/sb-admin.css'); ?>
