@@ -308,7 +308,7 @@
                        <h3 class="TitleH3">USA Corporate Office</h3>
                        <p>3084 State Route 27, Suite 12, Kendall Park,NJ 08824, USA</p>
                        <a href="tel:+1 8884062862" class="Phone">+1 888-406-2862</a>
-                        <a href="mailto:inquiry@zenosys.com"><i class="fa fa-envelope"></i>contact@zenocraft.com</a>
+                        <a href="mailto:contact@zenocraft.com" class="fa fa-envelope"></i>contact@zenocraft.com</a>
                          <a href="tel:+1 7325842421"><i class="fa fa-fax"></i>+1 732-584-2421</a>
                     </div>
 
@@ -322,7 +322,7 @@
                        <h3 class="TitleH3">India Office</h3>
                        <p>22, Second Floor, Magnet Corporate Park S.G Road, Ahmedabad-380054</p>
                        <a href="tel:+91 79-35905939" class="Phone">+91 79-35905939</a>
-                        <a href="mailto:inquiry.IN@zenosys.com"><i class="fa fa-envelope"></i>contact@zenocraft.com</a>
+                        <a href="mailto:contact@zenocraft.com"><i class="fa fa-envelope"></i>contact@zenocraft.com</a>
                           <a href="tel:+1 7325842421"><i class="fa fa-fax"></i>+1 732-584-2421</a>
                     </div>
 
@@ -340,7 +340,7 @@
                        <h3 class="TitleH3">USA Corporate Office</h3>
                        <p>103 Carnegie Center, Suite 300 Princeton, New Jersey 08540, USA</p>
                        <a href="tel:+1 8778335875" class="Phone">+1 877-833-5875</a>
-                        <a href="mailto:inquiry.US@zenosys.com"><i class="fa fa-envelope"></i>contact@zenocraft.com</a>
+                        <a href="mailto:contact@zenocraft.com"><i class="fa fa-envelope"></i>contact@zenocraft.com</a>
                           <a href="tel:+1 7325842421"><i class="fa fa-fax"></i>+1 732-584-2421</a>
                     </div>
 
@@ -354,7 +354,7 @@
                        <h3 class="TitleH3">Canada Main Office</h3>
                        <p>10665 Jasper Avenue, 14th Floor, Edmonton, Alberta, T5J 3S9, Canada</p>
                        <a href="tel:+1 8884062862" class="Phone">+1 888-406-2862</a>
-                    <a href="mailto:inquiry.CA@zenosys.com"><i class="fa fa-envelope"></i>contact@zenocraft.com</a>
+                    <a href="mailto:contact@zenocraft.com"><i class="fa fa-envelope"></i>contact@zenocraft.com</a>
                         <a href="fax:+1 7325842421"><i class="fa fa-fax"></i>+1 732-584-2421</a>
                     </div>
 
