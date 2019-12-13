@@ -20,7 +20,7 @@
         </li>
          <li class="nav-item">
           <a class="nav-link" href="<?php echo site_url('admin/Category'); ?>">
-            <i class="fas fa-fw fa-list-alt"></i>
+            <i class="far  fa-list-alt"></i>
             <span>Manage Category</span></a>
         </li>
           <li class="nav-item">
