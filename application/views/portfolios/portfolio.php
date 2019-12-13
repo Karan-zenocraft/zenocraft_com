@@ -84,14 +84,14 @@ to {transform: scale(1);transition: 0.8s all}
                                 </div>
                             </div>
                         </div>
-                        
-                        
-                        
-                        
-                        
-                        
+
+
+
+
+
+
 <!--logodesign-->
-                        
+
 <!--
                         <div class="col-md-4" data-toggle="modal" data-target="#portfolio<?php echo $portfolio->id . "_category" . $category->id ?>">
                             <div class="PortfolioBox">
@@ -103,7 +103,7 @@ to {transform: scale(1);transition: 0.8s all}
                         <div class="modal fade scrollbar-dusty-grass square thin" id="portfolio<?php echo $portfolio->id . "_category" . $category->id ?>">
                             <div class="modal-dialog modal-dialog-centered modal-logo">
                                 <div class="modal-content">
-                                    
+
                                     <div class="modal-header">
                                         <button type="button" class="close" data-dismiss="modal"><i class="fa fa-close"></i></button>
                                     </div>
@@ -118,35 +118,27 @@ to {transform: scale(1);transition: 0.8s all}
                             </div>
                         </div>
 -->
-                        
-                        
+
+
 <?php
 if ($i % 3 == 0) {
                 echo "</div><div class='CustomeRow'>";
             }
             $i++;}
-        
 
-        
-        
-        
-        
-        
         if (($portfolio->category == 3) || ($portfolio->category == 4)) {
-            
-                        
-            
-                        ?>
-                       
-                           
+
+            ?>
+
+
                     <div class="col-md-4 d-flex align-items-center justify-content-center Video">
                     <iframe width="340" height="225" style="border-radius: 10px;" src="https://www.youtube.com/embed/cTCBgTN64ik?rel=0&amp;modestbranding=1&amp;autohide=1&amp;showinfo=0&amp;controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
                         </div>
-                    
+
    <?php }}?>
                 </div>
 
- 
+
             </div>
                 <?php }?>
         </div>
