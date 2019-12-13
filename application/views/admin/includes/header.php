@@ -23,7 +23,10 @@
 
         <li class="nav-item dropdown no-arrow">
           <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <i class="fas fa-user-circle fa-fw"></i>
+            <?php
+
+echo !empty($this->session->userdata("adid")) ? $this->Admin_Login_Model->get_username($this->session->userdata("adid")) . " " : ""; //get user id
+ ?><i class="fas fa-user-circle fa-fw"></i>
           </a>
           <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
             <a class="dropdown-item" href="<?php echo site_url('admin/change_password'); ?>">Change Password</a>

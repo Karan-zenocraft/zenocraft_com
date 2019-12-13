@@ -14,4 +14,16 @@ class Admin_Login_Model extends CI_Model
         }
         return null;
     }
+    public function get_username($id)
+    {
+
+        $query = $this->db->where(['id' => $id]);
+        $account = $this->db->get('tbladmin')->row();
+        if ($account != null) {
+
+            return $account->userName;
+        }
+        return null;
+    }
+
 }
