@@ -73,7 +73,7 @@ min-height: 60px;
              </div>
             <div class="row CustomeRows">
                 <div class="col-md-12 WhyZenosysContent keyfeatures">
-                  <p class="TitleP">KEY FEATURES OF YII LARAVEL :</p>
+                  <p class="TitleP">KEY FEATURES OF LARAVEL :</p>
               </div>
           </div>
             <div class="row CustomeRows">

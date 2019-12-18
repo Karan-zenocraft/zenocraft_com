@@ -62,9 +62,29 @@
            </div>
             <div class="row CustomeRows">
                 <div class="col-md-12 WhyZenosysContent keyfeatures">
-                  <p class="TitleP">WORDPRESS SERVICES AT ZENOCRAFT :</p>
+                  <p class="TitleP">KEY FEATURES OF WORDPRESS :</p>
               </div>
           </div>
+            
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                        <li><b>Cost Efficient :</b> Wordpress brings great efficiency to table, including saving you a fortune. Unlike the traditional, Wordpress has made web development a hassle-free process that is very pocket friendly.</li>
+                        <li><b>Usability :</b> An active user connection is all you need. Wordpress breaks down the complexity of back-end operations and lets you make changes in a simplified manner with very less effort.</li>
+                        <li><b>SEO Ready :</b> Websites that are built using Wordpress have simple and constant coding that helps Google in indexing your website better and eventually, ranking better.</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                       <li><b>Responsive Design :</b> If you don’t already know it, mobile traffic has long surpassed the desktop traffic. With Wordpress, you get the peace and benefit of designs that are already optimized for mobile viewing, saving you trouble and money.</li>
+                        <li><b>Social Media Friendly :</b> Wordpress offers great connectivity when it comes to Social Media. Sharing content with your audience becomes an effortless task with great usability.</li>
+                        <li><b>Secure :</b> Changing what the traditional sites offered, Wordpress when done right, offers seamless security for your website and data, bring you great peace.</li>
+                    </ul>
+                </div>
+            </div>
+            
+            
+<!--
             <div class="row CustomeRows">
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                   <ul>
@@ -83,6 +103,7 @@
                     </ul>
                 </div>
             </div>
+-->
 
 
 
