@@ -72,16 +72,19 @@
             <div class="row CustomeRows">
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                   <ul>
-                       <li><b>MVC Architecture</b></li>
-                        <li><b>Simple and Easy</b></li>
-                        <li><b>Security</b></li>
+                       <li><b>Great Functionality :</b> Codeigniter offers an easier way to developers in utilizing modular programs and getting the desired
+functionality through the framework.</li>
+                        <li><b>Seamless Compatibility :</b> Codeigniter offers great compatibility as it works with almost all major platforms, web servers and
+operating systems.</li>
+                        
                     </ul>
                 </div>
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                     <ul>
-                        <li><b>Support</b></li>
-                        <li><b>SEO Benifit</b></li>
-                        <li><b>User Friendly Interface</b></li>
+                        <li><b>Resourceful :</b> Codeigniter offers great functionality with its in-built libraries and resources that enable PHP
+developers in working smarter and offering better results.</li>
+                        <li><b>Easy Migration :</b> Migrating to different servers and customizations are a great ease with Codeigniter, making it a
+hassle-free and time-saving process.</li>
                     </ul>
                 </div>
             </div>

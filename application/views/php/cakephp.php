@@ -74,14 +74,18 @@
             <div class="row CustomeRows">
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                   <ul>
-                       <li><b>MVC Pattern</b></li>
-                        <li><b>Plug-ins</b></li>
+                       <li><b>Open Source :</b> One of the most important benefits of Cake PHP is that of being an open source platform. It is
+indeed, accessible and open to all for creating great websites.</li>
+                        <li><b>Object Relational Mapping :</b>A technique that converts incompatible data using an object-oriented programming language, this
+ORM is in-built in Cake PHP and is highly functional.</li>
                     </ul>
                 </div>
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                     <ul>
-                        <li><b>ORM</b></li>
-                        <li><b>CRUD SCAFFOLDING</b></li>
+                         <li><b>CRUD Scaffolding :</b>CRUD Scaffolding means to create, read, update and delete. This function offers great benefits
+including demo viewing of an application and easy data management during development process.</li>
+                        <li><b>Security :</b>The built-in security and authentication feature of Cake PHP offers seamless security to your
+application including CSRF protection, input validation, XSS prevention, etc.</li>
                     </ul>
                 </div>
             </div>
