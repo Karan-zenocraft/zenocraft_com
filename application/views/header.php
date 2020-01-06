@@ -440,6 +440,7 @@ if (!empty($categoryList)) {
                            </li>
                             <li><a href="<?php echo base_url(); ?>company" class="a">Company</a></li>
                             <li><a href="<?php echo base_url(); ?>careers" class="a">Careers</a></li>
+                            <li><a href="<?php echo base_url(); ?>zenocraft_blog" class="a">Blog</a></li>
                             <li><a href="<?php echo base_url(); ?>contact" class="a">Contact Us</a></li>
                         </ul>
                 </div>
