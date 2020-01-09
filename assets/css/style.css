@@ -242,7 +242,7 @@ background-image: -webkit-linear-gradient(330deg, #174477 0%, #595959 100%);back
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services{box-shadow: 3px 1px 6px 2px #00000038;overflow: hidden}
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services img{transform: scale(1.0);transition: .8s all;}
 .CaseStudyBox .CaseStudyInnerBox .MainBox:hover .Services img{transform: scale(1.1);transition: .8s all;}
-.CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{padding: 20px;position: relative;min-height: 229px;  }
+.CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description{padding: 15px;position: relative;min-height: 229px;  }
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .Description:after{content: '';position: absolute;height: 5px;bottom: 0;left: 0;width: 100%;}
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .DescriptionOne:after{background:#174477 }
 .CaseStudyBox .CaseStudyInnerBox .MainBox .Services .DescriptionTwo:after{background:#B9C4F7 }
@@ -491,7 +491,7 @@ nav ul .InnerMenu3 .InnerDropdown li{position: unset;
 */
 
 nav .menu li .arrow{position: relative;text-transform: uppercase;font-size: 14px;cursor: pointer;color: #888787;}
-nav .menu li .a{text-transform: uppercase;font-size: 13px;}
+nav .menu li .a{text-transform: uppercase;font-size: 12px;}
 nav .menu li:hover .a{color: #58ABB7;transition: 0.4s all;}
 nav .menu li:hover .arrow:after{width: 0;content: '';position: absolute;left: 0;right: 0;margin: auto;bottom: 8px;
   height: 0; 
@@ -567,7 +567,7 @@ nav ul li {
   margin: 0px;
   display: inline-block;
   float: left;
-    margin: 0px 17px;
+    margin: 0px 14px;
 /*  background-color: #254441;*/
 }
 
