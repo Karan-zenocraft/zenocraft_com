@@ -58,6 +58,40 @@
             <img src="<?php echo base_url(); ?>assets/images/sap.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="bottom:0;top:0;margin:auto;">
         </div>
             </div>
+            
+            
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Simplification : </b> Through centralization of hardware and network resources, SAP S/4HANA simplifies the
+development process. It serves as the digital mitochondria of the business process by
+harnessing the power of its HANA in-memory database. It eliminates aggregate tables,
+cuts processing time and ensures energy is used in strategy rather than labor.</li>
+                      <li><b>Improved performance : </b> You can plan, execute, generate reports and analysis based on live data along with
+triggering period closing and providing better predictions. Through sch features, you can
+provide consumer-centric services.</li>
+                     
+
+                      
+                      
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                         <li><b>Easy transition : </b>In a particular organization, a transit from on-premises to cloud can happen any time.
+SAP S/4HANA makes it easier to reduce costs for you, as a business leader by making
+this transition easier.</li>
+                        <li><b>Usability : </b> Through an innovative user experience, this functionality makes it easier for the user to
+access Overview Pages, Work Lists, and List Reports. The UI is made to be highly
+intuitive, personalized, responsive, and simple. All of this enables decision making to be
+faster in this digital age.</li>
+                        
+                        
+                      
+                    </ul>
+                </div>
+            </div>
 
 
         </div>

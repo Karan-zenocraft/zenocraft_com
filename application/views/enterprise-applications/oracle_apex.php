@@ -60,4 +60,34 @@
 
 
 
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Low Code Development : </b> Achieving agility in your organization becomes easier with low code provided by Oracle
+APEX. Solutions can be achieved faster, at affordable rates, and with consistency.</li>
+                      <li><b>Centralization : </b> File-based applications and spreadsheet based applications can be centralized, giving
+way to productivity in developing the applications.</li>
+                     
+
+                      
+                      
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                         <li><b>Configurable security : </b>Because of the availability of features that support authentication, authorization, and
+fine-grained security, it also enables it to become a product with highly configurable
+security.</li>
+                        <li><b>Strong community : </b> Because of the availability of a community that connects all the developers around the
+globe, grievance redressal, suggestions, and development of a successful application
+becomes much easier.</li>
+                        
+                        
+                        
+                      
+                    </ul>
+                </div>
+            </div>
+            
         </div>

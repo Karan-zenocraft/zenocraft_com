@@ -67,6 +67,38 @@
        </div>
             </div>
 
+    <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Connectivity : </b> Manual operation of different devices has become a thing of the past. One device is
+enough to control multiple things from one device, which mostly will be the smartphone
+we carry in our pockets.</li>
+                      <li><b>Convenience : </b> Smart devices and appliances are pieces of tech that are becoming more and more
+common in households. In less than 2-3 gestures, actions can be triggered along with
+sending a consent signal.</li>
+                      <li><b>Personalization : </b> Connections which are personal are stronger and last longer. IoT devices gather more
+and more data, learning more about your choices and truly personalize the user
+experience with the piece of tech.</li>
+                      <li><b>Productivity : </b> By optimization of various operations through monitoring and control of various
+processes, productivity and efficiency reach new heights from IoT.</li>
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                      <li><b>Rapidness : </b>The data collected by this technology enables monitoring of the systems in real time and
+also remotely. We can optimize maintenance interventions, and provide you with a
+strategic advantage to monitor market trends and developments.</li>
+                        <li><b>Predictive analysis : </b>The data collected along with IoT helps examine patterns and help conduct predictive
+analysis which proves functional in maintenance. It will also help in the betterment of
+current processes and services.</li>
+                        <li><b>Asset utilization : </b>Using sensors and connectivity, IoT will benefit organizations in getting current real-time
+insights. One can easily identify issues and run preventive as well as redressal
+maintenance for optimum asset utilization</li>
+                      
+                    </ul>
+                </div>
+            </div>
 
 
         </div>

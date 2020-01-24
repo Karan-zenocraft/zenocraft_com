@@ -61,6 +61,32 @@
                 
 
             </div>
+            
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Identify trends and patterns : </b> Something that is not very much apparent to humans, is easily discoverable by such
+technology. Machine Learning feeds from humongous volumes of data put in by human
+actions like browsing behaviors and purchase histories and caters to them with relevant
+information.</li>
+                      <li><b>Automation : </b> In this entire process involving layers and layers of calculations and analyses, almost no
+human interaction is required. Given its ability to learn, the algorithms improve
+themselves, negating the need of a middleman even in upgradation.</li>
+                      <li><b>Wide scope of application : </b> Virtually, any business can benefit from this technology. Infact, it helps smaller
+businesses to expand their markets and tap an audience by fulfilling their custom needs.</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                      <li><b>Continuous improvement : </b> Algorithms in machine learning age like fine wine. With experience, it keeps on updating
+itself through more and more data of a user’s activity, enabling accuracy and efficiency
+as time goes.</li>
+                      <li><b>Handles complex data : </b> In order to make such calculations, a complex layer of data needs to be managed,
+calculated and done analysis of. Machine learning has the ability to process such multi-
+dimentional, multi-layered and multi-variety data, in any type of uncertain environments.</li>
+                    </ul>
+                </div>
+            </div>
 
 
 

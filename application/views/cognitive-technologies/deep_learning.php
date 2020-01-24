@@ -61,6 +61,36 @@
                  
 
             </div>
+            
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>New features : </b> One unique provision of deep learning technology is its ability to create new features
+from a set of features already located in the training dataset. Basically, it can create new
+tasks to create new ones.</li>
+                      <li><b>Advanced analysis : </b> Resulting from its advanced processing models, deep learning technology generates
+actionable results by supporting learning techniques that keep on becoming smarter and
+more efficient without human involvement. This feature enables concise and trustworthy
+analysis.</li>
+                      <li><b>Requires less data and computing power : </b>Even though the system is designed to consistently analyze data, the training does not
+require millions of units of input, it does the job in mere hundreds of input units stored
+locally. This means that minimal computing resources are invested in the deployment
+making it faster, as well as affordable.</li>
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                      <li><b>Consistent : </b>The training process relies on analyzing huge amounts of data. It operates 24x7, at the
+same level of quality on every line, every shift and every factory through continuous
+input data.</li>
+                        <li><b>Easy configuration : </b>The applications can be set up in no time, via speedy proof of concept and fast
+development of the application. This is a big plus when it comes to saving time and
+resources in the development of the application.</li>
+                      
+                    </ul>
+                </div>
+            </div>
 
 
 

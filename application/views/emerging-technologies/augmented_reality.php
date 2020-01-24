@@ -66,7 +66,77 @@
            <img src="<?php echo base_url(); ?>assets/images/ar-and-vr.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:90%">
                </div>
             </div>
+    
+    <div class="row CustomeRows">
+        <div class="col-md-12 WhyZenosysContent keyFeaturesContentul">
+            <ul>
+    <li>CEOs and marketers who make decisions in the companies will learn through time how
+to use these technologies to the best advantage of their businesses. Digi-capital has
+identified that 80% of AR/VR revenue by 2020 will come from AR/VR hardware sales,
+eCommerce sales, adspend and mobile data/voice. If we translate these revenues into
+numbers VR would amount to $30B and AR to $90B, whereas $120B would be for
+AR/VR revenue combined by 2020.</li>
+                </ul>
+    </div>
+</div>
+    
+    <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Enhanced user experience : </b> The users have now become a part of the content creation industry. Now they are not
+just consumers, but an active part of creation as well. AR and VR have the ability to
+transport the user to a world that is designable, giving it a personal touch and boosting
+the user’s experiential journey.</li>
+                     
 
+                      
+                      
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                         <li><b>Customization : </b>These modern marvels of technology are tailored to tailor consumer experience and is
+beyond their expectations. Value can be created through personalized content, and
+innovative business models.</li>
+                        
+                        
+                      
+                    </ul>
+                </div>
+            </div>
+    
+    
+<!--
+    <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      
+                     
 
+                      <li><b> Accessible published content</b></li>
+                       <li><b> Language barriers removed</b></li>
+                       <li><b> Brand awareness</b></li>
+                       <li><b> Favors customer decisions</b></li>
+                      
+                      
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                         
+                         <li><b> Detailed analytics</b></li>
+                         <li><b> Engaging and exciting</b></li>
+                         <li><b> Create scenarios</b></li>
+                         <li><b> Self-guided exploration</b></li>
+                        
+                      
+                    </ul>
+                </div>
+            </div>
+-->
+    
+    
 
         </div>

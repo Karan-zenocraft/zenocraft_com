@@ -53,6 +53,41 @@
                     <img src="<?php echo base_url(); ?>assets/images/why_zenosys.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:75%;">
                  </div>
             </div>
+            
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Customizable : </b> Odoo partners can tailor it to fit your business needs, making it the most apt for your
+business. Features can literally be developed by these partners if the app store doesn’t
+suffice. You no longer have to change your business needs to fit the software limitations.</li>
+                      <li><b>Easy integration : </b> Odoo supports API and is easy to integrate. If you are using a software for your
+business, you can now integrate it with your new ERP system. Now you can integrate
+new software without letting go of your previously adopted software.</li>
+                     
+<li><b>Multiple options : </b>Odoo allows businesses to choose from both on-premise hosting or cloud-hosting,
+whatever works best for your company. Other variables you can choose from include
+community and enterprise versions, making it a truly customizable experience.</li>
+                      
+                      
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                         
+                        <li><b>Intuitive UI : </b> It is designed to be extremely user friendly, you can choose from multiple modules,
+followed by easy navigation. Both aesthetics and function make it a truly intuitive user
+interface.</li>
+                        <li><b>No-vendor lock-in : </b> There is absolutely no lock-in or dependency on the vendor. A proprietary software
+actually adds to the risk of getting locked in either by the vendor or the technology,
+resulting in huge losses. This makes it seamless for the end user to work with tthe
+software.</li>
+                        
+                        
+                      
+                    </ul>
+                </div>
+            </div>
 
 
 

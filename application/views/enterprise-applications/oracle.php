@@ -58,6 +58,37 @@
         </div>
 
             </div>
+            
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Smooth functioning : </b> Right from the assessment to the completion of the project, Oracle E-business suite
+offers smooth functioning. Complexities that come with new business capabilities like
+cost reduction and efficient integration are managed due to the expertise in version
+upgrades of the applications.</li>
+                      <li><b>Database : </b> Oracle database is a major attraction for developers who consider it. It is the biggest
+USP of Oracle ERP.</li>
+                     
+
+                      
+                      
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                         <li><b>Security : </b>Oracle has been the first consideration of the most in database security systems and it is
+quite well-known as ‘unbreakable’. It is also a good example for legal and technological
+standardization.</li>
+                        <li><b>Other benefits : </b> Other benefits include low cost of compliance, automated cloning, real-time transaction
+tracing, memory leak detection and analysis and improved productivity and user
+experience among many functionalities that it provides.</li>
+                        
+                        
+                      
+                    </ul>
+                </div>
+            </div>
 
 
 

@@ -66,6 +66,33 @@
 
             </div>
 
+            
+            <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Precision, accuracy and speed : </b> Since the element of human involvement is negated in AI, the error rate slips down to a
+drastic amount. If programmed properly, the decisions made taking into account
+previously gathered information through precise algorithms, will also be precise.</li>
+                      <li><b>Removes repetitive tasks : </b> The most attractive feature for most developers is that of automation and depletion of
+repetitive tasks. The part that most developers avert is repetition because it is tedious
+and boring. Artificial intelligence here, will boost productivity by automating mundane
+tasks, making it highly creative.</li>
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                      <li><b>Digital assistants : </b>Since it automates most tasks, it can also be designed to interact with actual humans
+using the data fes, and precise algorithms. These ‘bots’ or ‘robots’ will make the
+requirement of human resource minimal and will provide what the user is looking for with
+speed and accuracy.</li>
+                        <li><b>Daily scope of use : </b>Unlike humans, this technology does not need a break, or need to rest, making it a 24x7
+functional tech and easily accessible regardless of the time or environment. It is highly
+accessible and can easily replace a lot of daily tasks, making it a part of a user’s life./li>
+                      
+                    </ul>
+                </div>
+            </div>
 
 
         </div>

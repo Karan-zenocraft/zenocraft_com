@@ -68,5 +68,38 @@
             </div>
 
 
+        <div class="row CustomeRows">
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                  <ul>
+                      <li><b>Decentralization : </b> All the data is stored in multiple nodes, instead of one central server, making it almost
+impossible to lose the data, or any kind of unauthorized alteration. This also deletes the
+need of any third party involvement.</li>
+                      <li><b>Transparency : </b> Every transaction is recorded in a distributed ledger, accessible to all owners through a
+key. Alterations can be made only through consensus. This makes the data recorded in
+blockchain accurate, consistent, and transparent.</li>
+                      <li><b>Security : </b> Since the data is recorded on decentralized ledgers, with all transactions encrypted with
+a code that connects it to previous transactions, fraud and hacking becomes almost
+impossible.</li>
+                      
+                      
+                    </ul>
+                </div>
+                <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
+                    <ul>
+                        <li><b>Traceability : </b> Every transactional entry gets a code that is attached to all the previous transaction
+entries, making tracing extremely easy. Supply chain benefits the most from this
+functionality.</li>
+                      <li><b>Efficiency and speed : </b>A physical paper enabled ledger is a time-consuming method of recording as well as
+accessing data. It also adds the aspect of possible human error. Streamlining and
+automating these processes on blockchain increases speed and efficiency, and hence
+productivity.</li>
+                        <li><b>Cost cutting : </b>An obvious need of any organization, blockchain removes the need of third-party costs
+and enables tech based trust because it is a fool-proof method, with use cases for most
+business models.</li>
+                        
+                      
+                    </ul>
+                </div>
+            </div>
 
         </div>
