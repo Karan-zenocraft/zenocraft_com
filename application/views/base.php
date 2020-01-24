@@ -124,9 +124,9 @@
      "url": "https://www.zenocraft.com/",
     "sameAs": [
         "https://twitter.com/Intuzhq",
-        https://www.instagram.com/zenocraftinc/,
-        https://www.linkedin.com/company/14614443/admin/,
-        https://www.facebook.com/Zenocraft-Services-4
+        "https://www.instagram.com/zenocraftinc/",
+        "https://www.linkedin.com/company/14614443/admin/",
+        "https://www.facebook.com/Zenocraft-Services-4"
      ]
      }
 </script>
@@ -189,15 +189,15 @@
     <script src="<?php echo base_url(); ?>assets/js/comman.js"></script>
     <script src='https://www.google.com/recaptcha/api.js'></script>
 
-    
+
     <script>
-    
+
     $(document).ready(function(){
   $('.sidebar.navbar-nav .nav-item').click(function(){
     $('.nav-item').removeClass("active");
     $(this).addClass("active");
 });
-});  
+});
     </script>
 
 

@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /
-Sitemap: http://zenocraft.com/sitemap.xml
