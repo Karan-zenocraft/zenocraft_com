@@ -71,16 +71,60 @@
             <div class="row CustomeRows">
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                   <ul>
-                       <li><b>Custom Android App Development</b></li>
-                      <li><b>Android SDK (Software Development Kit)</b></li>
-                      <li><b>Android UI/UX Design</b></li>
+                       <li><b>Custom Android App Development : </b>  
+                      
+                      When you choose us for android app development services, you choose the best android
+app developers for hire who are ready to customize an experience along with an
+application that best reflects the one that you have ideated.
+                      
+                      
+                      </li>
+                      <li><b>Android SDK (Software Development Kit) : </b>  
+                      
+                      Along with the best android app developers, we have enabled the developers with
+updated and technically sound software development kit (SDK) which will smoothen
+the app development process for both the developer and the client.
+                      
+                      
+                      </li>
+                      <li><b>Android UI/UX Design : </b>  
+                      
+                      Android device users have been using a tactile system that provides an experience that
+is based on the best principles. Our designers use material design guidelines provided
+by Google and are enabled with ample experience to have these applied without
+referring them for an experience that best matches an Android device.
+                      
+                      
+                      </li>
                     </ul>
                 </div>
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                     <ul>
-                      <li><b>Android App Integration</b></li>
-                      <li><b>Android App Support and Maintenance</b></li>
-                      <li><b>Android App Testing</b></li>
+                      <li><b>Android App Integration : </b>  
+                        
+                        Our updated latest tech-enabled developers provide you with integration services that
+provide innovative ways to work and help utilize android infrastructure in its entirety.
+With such integration, we will help you have a robust and convenient framework for a
+wholesome user interface.
+                        
+                        
+                        </li>
+                      <li><b>Android App Support and Maintenance : </b>  
+                        
+                        Our association with you does not end with the deployment of your android app. We
+will be with you even in the journey after launch where we provide you with the support
+and maintenance of your android application.
+                        
+                        
+                        </li>
+                      <li><b>Android App Testing : </b>  
+                        
+                        With expert developers working on your project, we also have experienced eyes on the
+working of your application from the initial stage to the phase when the audience is
+satisfied with your application.
+                        
+                        
+                        </li>
                     </ul>
                 </div>
             </div>

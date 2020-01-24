@@ -202,7 +202,7 @@ h1, .TitleH1{font-size: 18px;line-height: 24px;}
     .GovernmentImg.Retail{max-width: 70%!important}
     .Retail.Telecommunication{max-width: 50%!important}
     .GovernmentImg.fullwidth{max-width: 90%!important}
-    .GovernmentImg.fullwidth2{max-width: 100%!important}
+    .GovernmentImg.fullwidth2{max-width: 40%!important}
     .GovernmentImg.smallwidth{max-width: 35%!important}
     .GovernmentImg.Quality{max-width: 60%!important}
 
@@ -349,6 +349,7 @@ p, .TitleP{font-size: 13px;line-height: 18px;}
     .WhyZenosys .WhyZenosysContent h2:before{bottom: -10px;}
     .OurExpertise .OurExpertiseInner h2:before{bottom: -8px;}
     .WhyZenosys .WhyZenosysContent p{margin-bottom: 20px;}
+    .keyfeatures .TitleP {margin-bottom: 0px!important;}
     .OurExpertise .OurExpertiseInner h2{margin-bottom: 0px;}
     .SoftwareDevelopment .SoftwareDevelopmentLeft h2:before{bottom: -10px}
     .StaffingSolution .StaffingSolutionInnerRight h2{margin-bottom: 0px;}
@@ -623,7 +624,7 @@ footer .FooterInner h2{margin-bottom: 0px;text-align: left;}
     footer .FooterInnerRight .Subscribe .Email{padding: 7px 30px;font-size: 13px;display: block}
     footer .FooterInnerRight .Subscribe .SignUp{padding: 8px 82px;font-size: 13px;}
     footer .FooterInner:last-child{margin-bottom: 0;}
-    .CustomeRows .WhyZenosysContentCustome img{display: block;margin: auto;max-width: 60%!important;}
+    .CustomeRows .WhyZenosysContentCustome img{display: block;margin: auto;max-width: 30%!important;}
     .WhyZenosys .WhyZenosysContentCustome{order: 1!important;}
     .WhyZenosys .WhyZenosysContent {order: 0;}
     

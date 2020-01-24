@@ -51,33 +51,33 @@
 
                     <h2 class="TitleH2">Flutter DEVELOPMENT</h2>
                    <p class="TitleP">
-                       Created by Nitobi, PhoneGap is a mobile app development framework. It bridges the gap between app development frameworks such as Android, iOS and Windows, while enabling hybrid app development using JS, CSS and HTML. iOS. It enables developers to build hybrid mobile applications created with HTML, CSS and Javascript.
+                       Flutter is a promising innovative framework to build Android and iOS apps with a single codebase in record time. Zenocraft is a leading flutter app development company with over half a decade of experience in the industry. Google’s free and open-source mobile app SDK for crafting high-quality native interfaces on cross-platforms in record time.
                     </p>
                     <p class="TitleP">
-                       Our PhoneGap development team has been executing projects unique projects based on PhoneGap framework for years now. Over the period of time, we have proven our skills in the domain have developed hybrid apps for large pool of clients.
+                       Google’s Flutter UI framework for iOS and Android apps let our programmers write the UI code once and run it on both platforms. The most lucrative thing about the Flutter framework is it provides a bridge to native, so our adroit flutter developer can do almost everything that Kotlin/ Swift/Java does. The core concepts for Flutter are bridging and drawing.
                     </p>
                 </div>
                  <div class="col-md-4 WhyZenosysContent WhyZenosysContentCustome">
-           <img src="<?php echo base_url(); ?>assets/images/flutterimage.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width:45%;right:0px;left:0;bottom:0;top:175px;margin:auto;">
+           <img src="<?php echo base_url(); ?>assets/images/flutterimage.png" class="img-fluid CommanImg GovernmentImg fullwidth fullwidth2 Retail Telecommunication" style="max-width: 35%;right:0px;left:0;bottom:0;top:60px;margin:auto;">
                </div>
             </div>
             <div class="row CustomeRows">
                 <div class="col-md-12 WhyZenosysContent keyfeatures">
-                  <p class="TitleP">PHONEGAP SERVICES AT ZENOCRAFT :</p>
+                  <p class="TitleP">FLUTTER SERVICES AT ZENOCRAFT :</p>
               </div>
           </div>
             <div class="row CustomeRows">
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                   <ul>
-                      <li><b>PhoneGap App Development</b></li>
-                     <li><b>PhoneGap Application Integration</b></li>
-                     <li><b>Cross-platform Development</b></li>
+                      <li><b>Flutter App Development  :</b> Flutter proves to be the best for cross-platform app development given its functionality of keeping a single codebase. Develop a functionally-rich and beautiful crafted at Zenocrafts with Flutter for its features like hot reload and widget libraries among many more.</li>
+                     <li><b>Flutter Application Integration :</b> You can also deliver various functionalities through application integration like augmented reality, location-based apps, and NFC. This will make the user experience richer leaving them satisfied with our services. </li>
+                     <li><b>Cross-platform Development :</b> With Flutter, the platform enables cross-platform product development along with standard technologies like HTML5, CSS3, and JavaScript which saves you from the hassle of having to engage in the native development language of each platform.</li>
                     </ul>
                 </div>
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                     <ul>
-                       <li><b>PhoneGap Testing & Deployment</b></li>
-                     <li><b>PhoneGap Support & Consultation</b></li>
+                       <li><b>Flutter Testing & Deployment :</b> At Zenocraft, you can experience impeccable testing of your digital product, ensuring minimal iterations after deployment. We believe, if more effort is put in production, post-production will not be as much of a hassle for the client.</li>
+                     <li><b>Flutter Support & Consultation :</b> Our association does not end with the deployment of the product. We are there for you throughout your journey to success. Our experts are ready to provide support and consultation for any project, at any stage of the project.</li>
                     </ul>
                 </div>
             </div>

@@ -72,15 +72,32 @@
             <div class="row CustomeRows">
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                   <ul>
-                      <li><b>iOS Development</b></li>
-                      <li><b>iOS Software Development Kit</b></li>
-                      <li><b>Beta Testing</b></li>
+                      <li><b>IOS Development:  :</b> This is the operating system that powers many Apple-based devices ranging from
+iPhone, iPad, etc. offering multiple innovative features enhancing user experience. The
+benefits it provides are endless, given the integration of dynamic Apple features on their
+devices making it the second most popular OS.</li>
+                      
+                      <li><b>IOS Software Development Kit  :</b> The iOS SDK as it is widely known, is a tool for developing native apps for iOS devices
+and platforms. Our developers use this kit which includes an API, serving as a bridge
+between the application and the platform that they run on.</li>
+                      
+                      <li><b>Beta Testing :</b>The iOS beta testing services that we provide make your product a fool-proof shielding it
+from bugs that might appear after the launch harming your brand. The feedback
+received on beta testing helps reflect what you imagine of your application.</li>
                     </ul>
                 </div>
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                     <ul>
-                       <li><b>Cloud Testing</b></li>
-                      <li><b>Deployment</b></li>
+                      <li><b>Cloud Testing: </b> With top-class cloud-based testing infrastructure, we ensure that your app undergoes
+testing across multiple devices without users requiring to install or maintain an internal
+lab of virtual devices.</li>
+                        
+                        <li><b>Deployment :</b> The entire package includes research, design, prototyping, testing, and finally
+deployment of the app for the audience to use. This is not the last phase of your
+relationship with Zenocraft. We are here for you even after the deployment for iterations,
+updates, and feedbacks.</li>
+                        
+                        
                     </ul>
                 </div>
             </div>

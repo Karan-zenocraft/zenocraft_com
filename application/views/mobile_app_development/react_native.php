@@ -72,14 +72,24 @@
             <div class="row CustomeRows">
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                   <ul>
-                      <li><b>React Native Consulting</b></li>
-                      <li><b>React Native Development</b></li>
+                      <li><b>React Native Consulting : </b> With us, you get the best react native developers who come with ample experience
+along with strategists to consult you on how to go about the launch of your product. Plan
+and develop your react native application with us for a professional and timely
+experience.</li>
+                      <li><b>React Native Development : </b> If you are looking at mobile application development with React Native, we know you
+want a service that does not eat up a lot of time in development. The added benefit that
+comes with React Native development is that it also cuts up costs in development.</li>
                     </ul>
                 </div>
                 <div class="col-md-6 WhyZenosysContent keyFeaturesContentul">
                     <ul>
-                      <li><b>Migration to React Native</b></li>
-                      <li><b>React Native Support & Maintenance</b></li>
+                      <li><b>Migration to React Native : </b> You might want to convert your web application into a mobile application given the
+screen is getting smaller and users are using the computer in their pockets more than
+the one on their desks. We help you migrate from the desk to the pocket.</li>
+                      <li><b>React Native Support & Maintenance : </b> Our association doesn’t end at the deployment of a mobile application. Just like any
+product, a mobile application needs support and maintenance. We are here for you even
+after the application launch for a wholesome experience of mobile application
+development on React Native.</li>
                     </ul>
                 </div>
             </div>
